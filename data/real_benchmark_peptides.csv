@@ -1,0 +1,201 @@
+Peptide_ID,Name,Sequence,Source_Organism,UniProt_Accession,Biological_Class,Biological_Function,Label
+AMP-001,Magainin-2,GIGKFLHSAKKFGKAFVGEIMNS,Xenopus laevis,P11006,Cationic Alpha-helical AMP,Broad spectrum antibacterial,1
+AMP-002,Magainin-1,GIGKFLHSAGKFGKAFVGEIMKS,Xenopus laevis,P11006,Cationic Alpha-helical AMP,Gram-positive and negative bacteria,1
+AMP-003,LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens,P49913,Cathelicidin,Bacterial membranes & biofilms,1
+AMP-004,Melittin,GIGAVLKVLTTGLPALISWIKRKRQQ,Apis mellifera,P01501,Linear cationic peptide,Membrane pore formation / broad spectrum,1
+AMP-005,Indolicidin,ILPWKWPWWPWRR,Bos taurus,P33046,Tryptophan/Proline-rich AMP,Membrane permeabilization,1
+AMP-006,Cecropin A,KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,Hyalophora cecropia,P01507,Cecropin,Lytic pore formation in E. coli,1
+AMP-007,Cecropin B,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Hyalophora cecropia,P01508,Cecropin,Gram-negative bacteria,1
+AMP-008,Buforin II,TRSSRAGLQFPVGRVHRLLRK,Bufo gargarizans,P55897,Histone-derived AMP,Intracellular DNA/RNA binding,1
+AMP-009,Buforin I,AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY,Bufo gargarizans,P55897,Histone H2A variant,Broad spectrum antibacterial,1
+AMP-010,Lactoferricin B,FKCRRWQWRMKKLGAPSITCVRRAF,Bos taurus,P24627,Beta-sheet defensin-like,Membrane depolarization,1
+AMP-011,Pleurocidin,GWGSFFKKAAHVGKHVGKAALTHYL,Pleuronectes americanus,P81944,Alpha-helical AMP,Antifungal and antibacterial,1
+AMP-012,Dermaseptin-S1,ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,Phyllomedusa sauvagii,P24300,Dermaseptin,Fungal and bacterial membranes,1
+AMP-013,Dermaseptin-S4,ALWMTLLKKVLKAAAKAALNAVLVGANA,Phyllomedusa sauvagii,P24303,Dermaseptin,Rapid cytolytic activity,1
+AMP-014,Esculentin-1,GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,Pelophylax esculentus,P56932,Ranid AMP,Pseudomonas aeruginosa,1
+AMP-015,Thanatin,GSKKPVPIIYCNRRTGKCQRM,Podisus maculiventris,P55788,Beta-hairpin insect AMP,Respiratory chain uncoupling,1
+AMP-016,Histatin 5,DSHAKRHHGYKRKFHEKHHSHRGY,Homo sapiens,P15516,Histatin,Candida albicans antifungal,1
+AMP-017,Aurein 1.2,GLFDIIKKIAESF,Litoria aurea,P82396,Aurein family,Gram-positive bacteria & tumors,1
+AMP-018,Aurein 2.2,GLFDIVKKVVGALGSL,Litoria aurea,P82399,Aurein family,Membrane disruption,1
+AMP-019,Temporin A,FLPLIGRVLSGIL,Rana temporaria,P56933,Temporin short AMP,Staphylococcus aureus,1
+AMP-020,Temporin B,LLPIVGNLLKSLL,Rana temporaria,P56934,Temporin short AMP,Bacterial lipid bilayer lysis,1
+AMP-021,Human Beta-Defensin 1,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK,Homo sapiens,P60022,Beta-defensin,Epithelial mucosal defense,1
+AMP-022,Human Beta-Defensin 2,GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,Homo sapiens,O15263,Beta-defensin,Gram-negative bacterial envelope,1
+AMP-023,Human Beta-Defensin 3,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,Homo sapiens,P81534,Beta-defensin,MRSA and Vancomycin-resistant bacteria,1
+AMP-024,HNP-1 (Alpha-Defensin 1),ACYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Neutrophil microbicidal peptide,1
+AMP-025,HNP-2 (Alpha-Defensin 2),CYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Phagocytic vacuole bactericide,1
+AMP-026,HNP-3 (Alpha-Defensin 3),DCYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Microbial outer membrane target,1
+AMP-027,HNP-4 (Alpha-Defensin 4),VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV,Homo sapiens,P12838,Alpha-defensin,Herpes simplex virus and bacteria,1
+AMP-028,Human Alpha-Defensin 5,ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens,Q01523,Enteric defensin,Paneth cell intestinal antimicrobial,1
+AMP-029,Human Alpha-Defensin 6,AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL,Homo sapiens,Q01524,Enteric defensin,Nanometre net bacterial entrapment,1
+AMP-030,Cathelicidin-BF,KFFKKLKKSVKKRAKEFFKKPRVIGVSIPF,Bungarus fasciatus,Q6T144,Snake cathelicidin,Broad spectrum & anti-inflammatory,1
+AMP-031,Brevinin-1E,FLPLLAGLAANFLPKIFCKITRKC,Pelophylax esculentus,P80387,Brevinin family,Gram-positive and Gram-negative,1
+AMP-032,Brevinin-2E,GIMDSLKGAAKEVGTGLATFAGKLK,Pelophylax esculentus,P80388,Brevinin family,Bacterial membrane permeability,1
+AMP-033,Ranatuerin-1,SMLSVLKNLGKVGLGLVACKINKQC,Lithobates catesbeianus,P80389,Amphibian AMP,Candida and bacterial pathogens,1
+AMP-034,Gaegurin-4,CLGALKKSLLGKLLGKA,Glandirana emeljanovi,P49103,Gaegurin,Lytic action on bacterial membranes,1
+AMP-035,Phylloseptin-1,FLSLIPHAINAVSAIAKHN,Phyllomedusa hypochondrialis,P84570,Phylloseptin,Potent Leishmania and bacterial lysis,1
+AMP-036,Phylloseptin-2,FLSLIPHAINAVSTLIKHN,Phyllomedusa hypochondrialis,P84571,Phylloseptin,Protozoan and bacterial membranes,1
+AMP-037,Halictine-1,GMWSKILGHLIR,Halictus sexcinctus,P85182,Bee venom AMP,Bactericidal pore former,1
+AMP-038,Halictine-2,GKWSKILGHLIR,Halictus sexcinctus,P85183,Bee venom AMP,Microbial membrane depolarization,1
+AMP-039,Maculatin 1.1,GLFGVLAKVAAHVVPAIAEHF,Litoria genimaculata,P82397,Maculatin,Gram-positive cell disruption,1
+AMP-040,Citropin 1.1,GLFDVIKKVASVIGGL,Litoria citropa,P81861,Citropin,Antibacterial & signaling inhibitor,1
+AMP-041,Bombinin,GIGALSAKGALKGLAKGLAEHFAN,Bombina variegata,P05452,Bombinin,Skin mucosal defense peptide,1
+AMP-042,Dermcidin,SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSVL,Homo sapiens,P81605,Dermcidin,Human sweat antimicrobial,1
+AMP-043,Alyteserin-1a,GLKEIFKAGLGSLVKGIAAHVAS,Alytes obstetricans,P84877,Alyteserin,Inhibition of bacterial pathogens,1
+AMP-044,SMAP-29,RGLRRLGRKIAHGVKKYGPTVLRIIRIAG,Ovis aries,P80958,Cathelicidin,Pseudomonas & multi-drug resistant strains,1
+AMP-045,BMAP-27,GRFKRFRKKFKKLFKKLS,Bos taurus,P54228,Bovine Cathelicidin,Rapid outer membrane permeabilizer,1
+AMP-046,BMAP-28,GGLRSLGRKILRAWKKYGPIIVPIIRIG,Bos taurus,P54229,Bovine Cathelicidin,Bacterial respiratory chain damage,1
+AMP-047,Clavanin A,VFQFLGKIIHHVGNFVHGFSHVF,Styela clava,P80400,Histidine-rich marine AMP,pH-dependent membrane lysis,1
+AMP-048,Arenicin-1,RWCVYAYVRVRGVLVRYRRCW,Arenicola marina,P85177,Beta-hairpin marine AMP,Bacterial peptidoglycan / membrane,1
+AMP-049,Polyphemusin I,RRWCFRVCYRGICYRKCR,Limulus polyphemus,P14215,Horseshoe crab AMP,LPS neutralizer and bactericide,1
+AMP-050,Tachyplesin I,KWCFRVCYRGICYRRCR,Tachypleus tridentatus,P19253,Tachyplesin,Gram-negative and Gram-positive envelope,1
+AMP-051,Gomesin,QCRRLCYKQRCVTYCRGR,Acanthoscurria gomesiana,P83492,Spider AMP,Antimicrobial & melanoma antiproliferative,1
+AMP-052,Androctonin,NGVYCQIRACDILKYRRDCARCL,Androctonus australis,P80047,Scorpion defensin-like,Bacterial envelope target,1
+AMP-053,Drosomycin,DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC,Drosophila melanogaster,P41964,Antifungal defensin,Filamentous fungi membrane,1
+AMP-054,Metchnikowin,HRHEGPYHRDNYG,Drosophila melanogaster,P83416,Proline-rich AMP,Fungal cell wall and bacterial membrane,1
+AMP-055,Diptericin,DEVGYSAPNVRDPIFPQPDQPKQPEIDP,Drosophila melanogaster,P20387,Glycine-rich AMP,Gram-negative bacterial periplasm,1
+AMP-056,Attacin A,DAHGRLDFGIQGHPFNAFSNFAAG,Drosophila melanogaster,P18172,Attacin,Bacterial outer membrane protein synthesis,1
+AMP-057,Moricin,AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA,Manduca sexta,P81585,Insect basic AMP,Membrane permeability increase,1
+AMP-058,Nisin A,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK,Lactococcus lactis,P13068,Lantibiotic,Lipid II binding & pore formation,1
+AMP-059,Subtilin,WKSESLCTPGCVTGALQTCFLQTLTCNCKISK,Bacillus subtilis,P10656,Lantibiotic,Membrane lipid II interaction,1
+AMP-060,Epidermin,IASKFICTPGCAKTGSFNSYCC,Staphylococcus epidermidis,P08136,Lantibiotic,Bacterial cell wall synthesis inhibition,1
+AMP-061,Pediocin PA-1,KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC,Pediococcus acidilactici,P36495,Class II bacteriocin,Listeria monocytogenes receptor target,1
+AMP-062,Enterocin A,TTHSFLNVIKGTTCGYTYLSTGTCHTLTKNKC,Enterococcus faecium,P86183,Bacteriocin,Foodborne bacterial pathogens,1
+AMP-063,Piscidin 1,FFHHIFRGIVHVGKTIHRLVTG,Morone saxatilis,P83641,Piscidin,Fish mucosal antimicrobial,1
+AMP-064,Piscidin 2,FFHHIFRGIVHVGKTIHKLVTG,Morone saxatilis,P83642,Piscidin,Bacterial membrane lysis,1
+AMP-065,Piscidin 3,FIHHIFRGIVHAGRSIGRFLTG,Morone saxatilis,P83643,Piscidin,DNA condensation & membrane disruption,1
+AMP-066,Moronecidin,FFHHIFRGIVHVGKTIHRLVTG,Morone chrysops,P83641,Piscidin variant,Broad spectrum aquatic antimicrobial,1
+AMP-067,Chrysophsin-1,FIGHFLKGIVGLGKMSAHALR,Chrysophrys major,P83417,Chrysophsin,Bacterial membrane destruction,1
+AMP-068,Misgurin,RQRVEELSKRFRG,Misgurnus anguillicaudatus,P83418,Loach AMP,Strong antibacterial activity,1
+AMP-069,Parasin I,KGRGKQGGKVRAKAKTRSS,Parasilurus asotus,P82200,Histone H2A fragment,Catfish mucosal antimicrobial,1
+AMP-070,Pseudin-2,GLNALKKVFQGIHEAIKLINNHVQ,Pseudis paradoxa,P83637,Pseudin,Insulinotropic & antimicrobial peptide,1
+AMP-071,Hylin a1,IFGAILPLALGALKNLIK,Hypsiboas albopunctatus,P85178,Tree frog AMP,Membrane curvature & pore generation,1
+AMP-072,Maximin 1,ILGPVLGLVSDTLDDVLGIL,Bombina maxima,P83431,Maximin,Skin defense antimicrobial,1
+AMP-073,Maximin 3,GIGTKILGGVKTALKGAL,Bombina maxima,P83432,Maximin,Microbial lysis,1
+AMP-074,Uperin 3.5,GVGDLIRKAYSVIKPILER,Uperoleia inundata,P82029,Uperin,Bacterial membrane target,1
+AMP-075,Fallaxin,GVVDILKGAAKDLAGHLASKVMNKL,Litoria fallax,P83088,Fallaxin,Leukemia & bacterial cells,1
+AMP-076,Frenatin 2.1,GLVGTLLGHIGKAILSG,Litoria infrafrenata,P82398,Frenatin,Amphibian immune defense,1
+AMP-077,Caerin 1.1,GLLSVLGSVAKHVLPHVVPVIAEHL,Litoria caerulea,P80391,Caerin,Inhibition of HIV & bacterial pathogens,1
+AMP-078,Caerin 1.9,GLFKVLGSVAKHLLPHVAPVIAEKL,Litoria caerulea,P80392,Caerin,Bacterial membrane permeability,1
+AMP-079,Cupiennin 1a,GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKVMG,Cupiennius salei,P83634,Spider venom AMP,Rapid cytolytic and bactericidal,1
+AMP-080,Oxyopinin 2a,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMAD,Oxyopes takobius,P83635,Spider venom AMP,Broad spectrum target,1
+AMP-081,Pandinin 1,KFWGKIKKGAKNLAMGLAKNFAKGG,Pandinus imperator,P83239,Scorpion venom AMP,Bacterial membrane pore induction,1
+AMP-082,Pandinin 2,FWGHIWQGLKGAKNLAMGLAKNFAKGG,Pandinus imperator,P83240,Scorpion venom AMP,Potent antimicrobial activity,1
+AMP-083,Scorpiopeptin,FLGMIPKLIGKMAGKAALKA,Scorpio maurus,P83241,Scorpion AMP,Bacterial outer membrane disruption,1
+AMP-084,Opistoporin 1,GKLISGLIKPFLK,Opistophthalmus carinatus,P83242,Scorpion AMP,Microbial cell envelope,1
+AMP-085,Mastoparan,INLKALAALAKKIL,Vespula lewisii,P01511,Wasp venom AMP,Membrane channel formation & G-protein,1
+AMP-086,Mastoparan-X,INWKGIAAMAKKLL,Vespa xanthoptera,P01512,Wasp venom AMP,Antibacterial & mast cell degranulator,1
+AMP-087,Polistes mastoparan,VNWKKIAGKVLKKVL,Polistes jadwigae,P01513,Wasp AMP,Bacterial membrane lysis,1
+AMP-088,Protonectin,ILGTILGLLKSL,Agelaia pallipes,P84184,Wasp venom peptide,Bactericidal pore formation,1
+AMP-089,Agelaia-MPI,INWLKLGKMVIDAL,Agelaia pallipes,P84185,Wasp venom peptide,Potent antimicrobial action,1
+AMP-090,Ponericin G1,GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ,Pachycondyla goeldii,P82416,Ant venom AMP,Lytic disruption of bacteria,1
+AMP-091,Ponericin W1,FLGSLFSGFLKGIKTSL,Pachycondyla goeldii,P82417,Ant venom AMP,Bacterial membrane destabilizer,1
+AMP-092,Anoplin,GLLKRIKTLL,Anoplius samariensis,P83243,Solitary wasp venom,Cationic membrane disruption,1
+AMP-093,Decoralin,SLLSLIRKLIT,Tetramorium bicarinatum,P85179,Ant venom AMP,Bacterial permeability,1
+AMP-094,Eumenitin,LNLKGIFKKVASLLT,Eumenes rubrofemoratus,P83244,Hornet venom AMP,Microbicidal action,1
+AMP-095,Bicarinalin,KIKSAKKVFKRMKNF,Tetramorium bicarinatum,P86184,Ant antimicrobial peptide,Broad antimicrobial spectrum,1
+AMP-096,Lactoferrin Chimera,RRWQWRMKKLG,Synthetic / Bos taurus,P24627,Engineered minimal AMP,Membrane depolarizer,1
+AMP-097,Temporin-1DRa,HFLGTLVNLAKKIL,Rana draytonii,P83638,Temporin,Staphylococcus and yeast inhibitor,1
+AMP-098,Ranateurin-2PRb,GLLDTLKGAAKNVVGSLASKVMEKL,Rana pretiosa,P83639,Ranatuerin,Broad spectrum antibacterial,1
+AMP-099,Dermaseptin-B2,GLWSTIKQKGKEAAKAAAKAALNHLVALG,Phyllomedusa bicolor,P84572,Dermaseptin,Bacterial and fungal outer walls,1
+AMP-100,Phylloxin,GWMSKIASGIGTFLSGMQQ,Phyllomedusa bicolor,P84573,Amphibian peptide,Membrane active antimicrobial,1
+NON-001,Insulin A chain,GIVEQCCTSICSLYQLENYCN,Homo sapiens,P01308,Peptide hormone,Glucose metabolic regulation,0
+NON-002,Insulin B chain,FVNQHLCGSHLVEALYLVCGERGFFYTPKT,Homo sapiens,P01308,Peptide hormone,Glucose transport activation,0
+NON-003,Glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,Homo sapiens,P01275,Peptide hormone,Glycogenolysis stimulation,0
+NON-004,Somatostatin-14,AGCKNFFWKTFTSC,Homo sapiens,P61278,Regulatory peptide hormone,Growth hormone release inhibitor,0
+NON-005,Oxytocin,CYIQNCPLG,Homo sapiens,P01178,Neuropeptide hormone,Uterine contraction and lactation,0
+NON-006,Vasopressin (AVP),CYFQNCPRG,Homo sapiens,P01185,Neuropeptide hormone,Water resorption in kidney,0
+NON-007,Calcitonin,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAP,Homo sapiens,P01258,Thyroid hormone,Calcium homeostasis regulator,0
+NON-008,PTH (1-34),SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,Homo sapiens,P01270,Endocrine hormone fragment,Parathyroid receptor activation,0
+NON-009,Secretin,HSDGTFTSELSRLREGARLQRLLQGLV,Homo sapiens,P09683,Gastrointestinal peptide,Pancreatic bicarbonate secretion,0
+NON-010,VIP (Vasoactive Intestinal Peptide),HSDAVFTDNYTRLRKQMAVKKYLNSILN,Homo sapiens,P01282,Neuropeptide,Smooth muscle relaxation,0
+NON-011,Motilin,FVPIFTYGELQRMQEKERNKGQ,Homo sapiens,P12928,Gut motility peptide,Migrating motor complex control,0
+NON-012,Gastrin-17,EGPWLEEEEEAYGWMDF,Homo sapiens,P01350,Gastrointestinal hormone,Gastric acid secretion stimulant,0
+NON-013,Angiotensin I,DRVYIHPFHL,Homo sapiens,P01019,Vascular peptide,Blood pressure regulation precursor,0
+NON-014,Angiotensin II,DRVYIHPF,Homo sapiens,P01019,Vascular peptide,Vasoconstriction and aldosterone release,0
+NON-015,Bradykinin,RPPGFSPFR,Homo sapiens,P01042,Kinin peptide,Vasodilation & pain mediation,0
+NON-016,Substance P,RPKPQQFFGLM,Homo sapiens,P20366,Tachykinin neuropeptide,Nociception and neuroinflammation,0
+NON-017,Neuropeptide Y (NPY),YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,Homo sapiens,P01298,Neuroendocrine peptide,Appetite and circadian rhythm,0
+NON-018,Met-Enkephalin,YGGFM,Homo sapiens,P01210,Opioid neuropeptide,Endogenous analgesia signaling,0
+NON-019,Leu-Enkephalin,YGGFL,Homo sapiens,P01210,Opioid neuropeptide,Opioid receptor agonist,0
+NON-020,Alpha-MSH,SYSMEHFRWGKPV,Homo sapiens,P01189,Melanocortin hormone,Melanin synthesis and appetite,0
+NON-021,ACTH (1-24),SYSMEHFRWGKPVGKKRRPVKVYP,Homo sapiens,P01189,Pituitary peptide hormone,Adrenocortical steroidogenesis,0
+NON-022,Endothelin-1,CSCSSLMDKECVYFCHLDIIW,Homo sapiens,P05305,Endothelial peptide,Potent physiological vasoconstriction,0
+NON-023,Atrial Natriuretic Peptide (ANP),SLRRSSCFGGRMDRIGAQSGLGCNSFRY,Homo sapiens,P01160,Cardiac hormone,Renal sodium excretion regulator,0
+NON-024,Brain Natriuretic Peptide (BNP),SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,Homo sapiens,P16860,Cardiovascular hormone,Ventricular pressure reduction,0
+NON-025,Proinsulin C-peptide,EAEDLQVGQVELGGGPGAGSLQPLALEGSLQ,Homo sapiens,P01308,Connecting peptide,Microvascular blood flow signaling,0
+NON-026,Ubiquitin N-term Fragment,MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEG,Homo sapiens,P0CG48,Cytoplasmic housekeeping,Protein degradation tag segment,0
+NON-027,Ubiquitin C-term Fragment,IPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG,Homo sapiens,P0CG48,Cytoplasmic housekeeping,Isopeptide bond linkage segment,0
+NON-028,Histone H4 N-term,MSGRGKGGKGLGKGGAKRHRKVLRDNIQGIT,Homo sapiens,P62805,Nuclear structural protein,Chromatin packing & epigenetic tail,0
+NON-029,Histone H2A N-term,MSGRGKQGGKARAKAKTRSSRAGLQFPVGRV,Homo sapiens,P0C0S8,Nuclear structural protein,Nucleosome core structure segment,0
+NON-030,Actin Cytoplasmic 1 N-term,DEDETTALVCDNGSGLVKAGFAGDDAPRAVFP,Homo sapiens,P60709,Cytoskeletal structural protein,Microfilament polymerization,0
+NON-031,GAPDH Enzyme Fragment,VKVGVNGFGRIGRLVTRAAFNSGKVDIINAP,Homo sapiens,P04406,Glycolytic metabolic enzyme,Glyceraldehyde 3-phosphate catalysis,0
+NON-032,Beta-Tubulin Fragment,MREIVHIQAGQCGNQIGAKFWEVISDEHGID,Homo sapiens,P07437,Cytoskeletal protein,Microtubule assembly subunit,0
+NON-033,Cytochrome c Heme Peptide,GDVEKGKKIFIMKCSQCHTVEKGGKHKTGPN,Homo sapiens,P99999,Mitochondrial electron carrier,Oxidative phosphorylation pathway,0
+NON-034,60S Ribosomal Protein L30,MAKIKARELRGKSKGRFRGHRKTVGKGGSK,Homo sapiens,P62888,Ribosomal structural protein,Translational machinery constituent,0
+NON-035,40S Ribosomal Protein S6,MKLNISFPATGCQKLIEVDDERKLRTFYE,Homo sapiens,P62753,Ribosomal signaling protein,Protein translation initiation,0
+NON-036,60S Ribosomal Protein L7,MPKGKKAKGKKVAPAPAVVKKQEAKKVVNP,Homo sapiens,P18124,Ribosomal structural subunit,Ribosome biogenesis component,0
+NON-037,Thioredoxin Active Site Segment,MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPC,Homo sapiens,P10599,Redox regulatory enzyme,Cellular disulfide reductase,0
+NON-038,Calmodulin EF-Hand Fragment,MADQLTEEQIAEFKEAFSLFDKDGDGTITTKELGT,Homo sapiens,P62158,Calcium sensor protein,Intracellular calcium signaling,0
+NON-039,Profilin-1 Fragment,MAGWNAYIDNLMADGTCQDAAIVGYKDSPS,Homo sapiens,P07737,Actin-binding protein,Cytoskeletal remodeling,0
+NON-040,Cyclophilin A Fragment,MVNPTVFFDIAVDGEPLGRVSFELFADKVP,Homo sapiens,P62937,Peptidyl-prolyl cis-trans isomerase,Protein folding chaperone,0
+NON-041,Superoxide Dismutase [Cu-Zn],MATKAVCVLKGDGPVQGIINFEQKESNGPV,Homo sapiens,P00441,Antioxidant enzyme,Superoxide radical dismutation,0
+NON-042,Lysozyme C N-term,KVFERCELARTLKRLGMDGYRGISLANWMCL,Homo sapiens,P61626,Enzymatic protein fragment,Bacteriolytic enzyme structural fragment,0
+NON-043,Myoglobin Fragment,GLSDGEWQLVLNVWGKVEADIPGHGQEVLIR,Homo sapiens,P02144,Oxygen transport protein,Muscle oxygen storage,0
+NON-044,Hemoglobin Alpha Subunit,VLSPADKTNVKAAWGKVGAHAGEYGAEALER,Homo sapiens,P69905,Respiratory protein,Erythrocyte oxygen carriage,0
+NON-045,Hemoglobin Beta Subunit,VHLTPEEKSAVTALWGKVNVDEVGGEALGRL,Homo sapiens,P68871,Respiratory protein,Oxygen delivery to tissues,0
+NON-046,Serum Albumin Domain I Fragment,DAHKSEVAHRFKDLGEENFKALVLIAFAQYL,Homo sapiens,P02768,Serum transport protein,Colloid osmotic pressure & ligand carrier,0
+NON-047,Carbonic Anhydrase 1 Segment,MASPDWGYDDKNGPEQWSKLYPIANGNNQSP,Homo sapiens,P00915,Zinc metalloenzyme,Carbon dioxide hydration catalysis,0
+NON-048,Triosephosphate Isomerase,MAPSRKFFVGGNWKMNGRKQSLGELIGTLNA,Homo sapiens,P60174,Glycolytic isomerase,DHAP to GAP isomerization,0
+NON-049,Alpha-Enolase Fragment,MSILKIHAREIFDSRGNPTVEVDLFTSKG,Homo sapiens,P06733,Glycolytic enzyme,2-phosphoglycerate dehydration,0
+NON-050,Pyruvate Kinase PKM Fragment,MSKPHSEAGTAFIQTQQLHAAMADTFLEHMC,Homo sapiens,P14618,Glycolytic kinase,ATP generation from phosphoenolpyruvate,0
+NON-051,Lactate Dehydrogenase A,MATLKDQLIYNLLKEEQTPQNKITVVGVGAV,Homo sapiens,P00338,Anaerobic glycolysis enzyme,Pyruvate to lactate interconversion,0
+NON-052,Phosphoglycerate Kinase 1,MSLSNKLTLDKLDVKGKRVVMRVDFNVPMKN,Homo sapiens,P00558,Transferase enzyme,Reversible phosphotransfer step,0
+NON-053,Malate Dehydrogenase Fragment,MASEPIRVLVTGAAGQIAYSLLYSIGNGSVF,Homo sapiens,P40925,Krebs cycle enzyme,Malate oxidation to oxaloacetate,0
+NON-054,Aldolase A Fragment,MPYQYPALTPEQKKELSDIAHRIVAPGKGIL,Homo sapiens,P04075,Glycolysis lyase,"Fructose 1,6-bisphosphate cleavage",0
+NON-055,Glucokinase N-term,MLDDRARMEAAKKEKVEQILAEFQLQEEDLK,Homo sapiens,P35557,Glucose sensor kinase,Hepatic glucose phosphorylation,0
+NON-056,"Fructose-1,6-Bisphosphatase",MADQAPFDTDVNTLTRFVMEEGRKARGTGEL,Homo sapiens,P09467,Gluconeogenesis enzyme,"Hydrolysis of fructose 1,6-bisphosphate",0
+NON-057,Glucose-6-Phosphate Isomerase,MAALTRDPQFQKLQQWYREHRSELNLRRLFD,Homo sapiens,P06744,Carbohydrate isomerase,Glucose-6-P interconversion,0
+NON-058,Citrate Synthase Fragment,MAALLTAAARLSGATASVPVPARVLGRAPLQ,Homo sapiens,O75390,Mitochondrial matrix enzyme,Oxaloacetate condensation with Acetyl-CoA,0
+NON-059,Isocitrate Dehydrogenase 1,MSKKISGGSVVEMQGDEMTRIIWELIKEKLI,Homo sapiens,O75874,Cellular metabolic enzyme,Isocitrate oxidative decarboxylation,0
+NON-060,Succinate Dehydrogenase Flavoprotein,MAAVVALSLRRRLATTLRRCASTRGVPAVCL,Homo sapiens,P31040,Respiratory complex II,Succinate oxidation & ubiquinone reduction,0
+NON-061,Fumarate Hydratase Fragment,MYRALRLLLRSRPAASLLLRGAVCSARAASR,Homo sapiens,P07954,TCA cycle lyase,Fumarate to L-malate hydration,0
+NON-062,Glutathione S-Transferase P,MPPYTVVYFPVRGRCAALRMLLADQGQSWKE,Homo sapiens,P09211,Phase II detox enzyme,Xenobiotic glutathione conjugation,0
+NON-063,Peroxiredoxin-1 Fragment,MSSGNAKIGHPAPNFKATAVMPDGQFKDISL,Homo sapiens,Q06830,Antioxidant peroxidase,Hydrogen peroxide clearance,0
+NON-064,Catalase N-term Fragment,MADSRDPASDQMQHWKEQRAAQKADVLTTGA,Homo sapiens,P04040,Peroxisomal hemoprotein,Hydrogen peroxide breakdown,0
+NON-065,Glutathione Peroxidase 1,MCAARLAAAAAAAQSVYAFSARPLAGGEPVS,Homo sapiens,P07203,Selenoprotein antioxidant,Lipid hydroperoxide reduction,0
+NON-066,Heat Shock Protein 70 (Hsp70),MAKAAAIGIDLGTTYSCVGVFQHGKVEIIAN,Homo sapiens,P0DMV8,Molecular chaperone,Proteostasis and protein refolding,0
+NON-067,Heat Shock Protein 90 (Hsp90),MPEETQTQDQPMEEEEVETFAFQAEIAQLMS,Homo sapiens,P07900,ATP-dependent chaperone,Client signaling kinase stabilization,0
+NON-068,Heat Shock Protein 27 (Hsp27),MTERRVPFSLLRGPSWDPFRDWYPHSRLFDQ,Homo sapiens,P04792,Small stress chaperone,Actin filament protection,0
+NON-069,Chaperonin 60 (Hsp60),MLRLPTVFRQMRPVSRVLAPHLTRAYAKDVK,Homo sapiens,P10809,Mitochondrial chaperone,Mitochondrial protein folding machine,0
+NON-070,Ubiquitin-Conjugating Enzyme E2,MSSARRLMKELEEIRKCGMKNFRNIQVDEAN,Homo sapiens,P61086,Ubiquitination enzyme,Thioester ubiquitin transfer,0
+NON-071,14-3-3 Protein Zeta,MDKNELVQKAKLAEQAERYDDMAACMKSVTE,Homo sapiens,P63104,Phosphoserine binding adapter,Kinase signaling regulation,0
+NON-072,Annexin A1 N-term,MAMVSEFLKQAWFIENEEQEYVQTVKSSKGG,Homo sapiens,P04083,Membrane phospholipid binder,Inflammation resolution regulator,0
+NON-073,Cofilin-1 Fragment,MASGVAVSDGVIKVFNDMKVRKSSTPEEVKK,Homo sapiens,P23528,Actin severing protein,Actin dynamics and turnover,0
+NON-074,Profilin-2 Segment,MAGWQSYVDNLMCDGCCQEAAIVGYCDAKYV,Homo sapiens,Q9NZ08,Neuronal actin regulator,Synaptic plasticity and dendritic growth,0
+NON-075,Gelsolin N-term Segment,MAPHRPAPALLCALSLALCALSLPVRAATAS,Homo sapiens,P06396,Actin severing protein,Calcium-dependent filament regulation,0
+NON-076,Ezrin N-term Fragment,MPKPINVRVTTMDAELEFAIQPNTTGKQLFD,Homo sapiens,P15311,ERM structural adapter,Membrane-cytoskeleton linker,0
+NON-077,Radixin N-term Fragment,MPKPINVRVTTMDAELEFAIQPNTTGKQLFD,Homo sapiens,P35241,ERM actin linker,Microvilli formation and adhesion,0
+NON-078,Moesin N-term Fragment,MPKTISVRVTTMDAELEFAIQPNTTGKQLFD,Homo sapiens,P26038,ERM anchoring protein,Filopodia stabilization,0
+NON-079,Vinculin N-term Fragment,MPVFHTRTIESILEPVAQQISHLVIMHEEGE,Homo sapiens,P18206,Focal adhesion protein,Integrin-to-actin mechanical link,0
+NON-080,Talin-1 Head Domain Fragment,MVALSLKISIGNVVKTMQFEPSTMVYDACRI,Homo sapiens,Q9Y490,Mechanosensitive cytoskeletal,Integrin affinity activation,0
+NON-081,Paxillin N-term Segment,MDDLDALLADLESTTTHIKARRPSTSPAVTL,Homo sapiens,P49023,Focal adhesion scaffold,Tyrosine kinase signaling platform,0
+NON-082,FAK Kinase N-term,MAAAYLDPNLNHTPNSSTKTHLGTGMERSPA,Homo sapiens,Q05397,Non-receptor tyrosine kinase,Cell migration and adhesion turnover,0
+NON-083,Proto-oncogene Tyrosine Kinase Src,MGSNKSKPKDASQRRRSLEPAENVHGAGGGA,Homo sapiens,P12931,Cytoplasmic kinase,Signal transduction cascade initiation,0
+NON-084,Tyrosine-protein Kinase Lyn,MGCIKSKGKDSLSVDDSDVRDLERELQKKER,Homo sapiens,P07948,Src family kinase,B-cell receptor signaling cascade,0
+NON-085,Tyrosine-protein Kinase Fyn,MGCVQCKDKEATKLTEERDGSLNQSSGYRYG,Homo sapiens,P06241,Src-family kinase,T-cell receptor downstream signaling,0
+NON-086,Tyrosine-protein Kinase Lck,MGCGCSSHPEDDWMENIDVCENCHYPIVPLD,Homo sapiens,P06239,T-lymphocyte specific kinase,CD4/CD8 coreceptor activation,0
+NON-087,Transforming Protein H-Ras,MTEYKLVVVGAGGVGKSALTIQLIQNHFVDE,Homo sapiens,P01112,Small GTPase,MAPK kinase signaling trigger,0
+NON-088,GTPase K-Ras Segment,MTEYKLVVVGAGGVGKSALTIQLIQNHFVDE,Homo sapiens,P01116,Small GTPase molecular switch,Cell proliferation signal transducer,0
+NON-089,GTPase N-Ras Segment,MTEYKLVVVGAGGVGKSALTIQLIQNHFVDE,Homo sapiens,P01111,Small GTPase,Growth factor receptor transducer,0
+NON-090,Ras-related Protein Rab-5A,MASRGATRPNGPNTGNKICQFKLVLLGESAV,Homo sapiens,P20339,Endocytic GTPase,Early endosome fusion and trafficking,0
+NON-091,Transforming Protein RhoA,MAAIRKKLVIVGDGACGKTCLLIVFSKDQFP,Homo sapiens,P61586,Rho family GTPase,Stress fiber and actomyosin formation,0
+NON-092,Ras-related C3 Botulinum Substrate 1,MQAIKCVVVGDGAVGKTCLLISYTTNAFPGEY,Homo sapiens,P63000,Small Rho GTPase,Lamellipodia membrane ruffling,0
+NON-093,Cell Division Control Protein 42,MQTIKCVVVGDGAVGKTCLLISYTTNKFPSE,Homo sapiens,P60953,Cell polarity GTPase,Actin filopodia extension,0
+NON-094,Beta-Catenin N-term,MATQADLMELDMAMEPDRKAAVSHWQQQSYL,Homo sapiens,P35222,Wnt pathway transcriptional factor,Adherens junction & gene expression,0
+NON-095,Alpha-E-Catenin Segment,MSAEVARLLLEEDLELSARKVLERVRALEEA,Homo sapiens,P35221,Cell adhesion linker,Cadherin-catenin complex anchor,0
+NON-096,Cadherin-1 Cytoplasmic Fragment,RRRVVKEPLLPPDDDTRDNVYYYDEEGGGEE,Homo sapiens,P12830,Adhesion molecule tail,Homotypic epithelial cell-cell adhesion,0
+NON-097,Claudin-1 N-term Segment,MANAGLQLLGFILAFLGWIGAIVSTALPQWR,Homo sapiens,O95832,Tight junction component,Epithelial paracellular barrier gate,0
+NON-098,Occludin Cytoplasmic Tail Fragment,MSSSARGAYVERVDSPMAYSSNGKVNHKPAY,Homo sapiens,Q16625,Tight junction transmembrane,Endothelial barrier permeability control,0
+NON-099,Gap Junction Alpha-1 (Connexin 43),MGDWSALGKLLDKVQAYSTAGGKVWLSVLF,Homo sapiens,P17302,Intercellular channel,Direct metabolic cell-to-cell coupling,0
+NON-100,Desmoplakin N-term Fragment,MSNNPFELLTQRTRKTYGTLNYNPMVEP,Homo sapiens,P15924,Desmosomal plaque constituent,Intermediate filament anchoring,0

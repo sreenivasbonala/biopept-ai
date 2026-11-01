@@ -1,0 +1,15 @@
+Peptide_ID,Name,Sequence,Source_Organism,Biological_Class,Clinical_Status
+TEST-001,Pexiganan (MSI-78),GIGKFLKKAKKFGKAFVKILKK,Synthetic / Magainin analog,Broad-spectrum AMP,Phase III Clinical Trial
+TEST-002,Omiganan (MBI-226),ILRWPWWPWRRK,Synthetic / Indolicidin analog,Cationic AMP,Phase III Clinical Trial
+TEST-003,LL-37 FK-16 Fragment,FKRIVQRIKDFLRNLV,Homo sapiens,Anticancer & Antimicrobial,Preclinical Research
+TEST-004,Human Beta-Defensin 3 Fragment,RVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,Homo sapiens,Host Defense AMP,Preclinical Research
+TEST-005,Aurein 2.3,GLFDIVKKVVGAIGSL,Litoria aurea,Biofilm-Disrupting AMP,Research
+TEST-006,Temporin L,FVQWFSKFLGRIL,Rana temporaria,Broad-spectrum AMP,Research
+TEST-007,Indolicidin Analog CP-11,ILKKWPWWPWRRK,Synthetic / Bovine,Cationic Antimicrobial,Research
+TEST-008,Buforin Truncated Variant,RAGLQFPVGRVHRLLRK,Bufo gargarizans,Antiviral & Antibacterial,Research
+TEST-009,GnRH Hormone,QHWSYGLRPG,Homo sapiens,Endocrine Hormone (Control),Endogenous Hormone
+TEST-010,GLP-1 (Incretin Hormone),HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,Homo sapiens,Metabolic Hormone (Control),Parent Peptide of Semaglutide
+TEST-011,CGRP Neuropeptide,ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,Homo sapiens,Calcitonin Gene Peptide (Control),Endogenous Neuropeptide
+TEST-012,Somatostatin-28,SANSNPAMAPRERKAGCKNFFWKTFTSC,Homo sapiens,Growth Inhibiting Hormone (Control),Endogenous Hormone
+TEST-013,Angiotensin III,RVYIHPF,Homo sapiens,Cardiovascular Peptide (Control),Endogenous Vasoconstrictor
+TEST-014,Oxytocin Analog,CYIQNCPRG,Homo sapiens,Neuroendocrine Peptide (Control),Endogenous Hormone

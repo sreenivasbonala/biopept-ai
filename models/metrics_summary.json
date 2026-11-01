@@ -1,0 +1,33 @@
+{
+    "Total_Samples": 200,
+    "Train_Samples": 160,
+    "Test_Samples": 40,
+    "Accuracy": 97.5,
+    "Sensitivity_Recall": 100.0,
+    "Specificity": 95.0,
+    "Precision": 95.24,
+    "F1_Score": 97.56,
+    "ROC_AUC": 0.98,
+    "CV_5Fold_ROC_AUC": 0.9633,
+    "Confusion_Matrix": {
+        "True_Positive": 20,
+        "True_Negative": 19,
+        "False_Positive": 1,
+        "False_Negative": 0
+    },
+    "Features": [
+        "Length",
+        "Molecular_Weight",
+        "Isoelectric_Point",
+        "Net_Charge_pH74",
+        "GRAVY_Hydrophobicity",
+        "Aromaticity",
+        "Instability_Index",
+        "Helix_Fraction",
+        "Turn_Fraction",
+        "Sheet_Fraction",
+        "Basic_Residues_Ratio",
+        "Acidic_Residues_Ratio",
+        "Hydrophobic_Residues_Ratio"
+    ]
+}
