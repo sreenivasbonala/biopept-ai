@@ -27,7 +27,7 @@ MODELS_DIR = os.path.join(BASE_DIR, "models")
 # -------------------------------------------------------------
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
     html, body, [class*="css"] {
         font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -39,56 +39,56 @@ st.markdown("""
 
     /* Main Container Padding */
     .main .block-container {
-        padding-top: 2rem;
+        padding-top: 1.75rem;
         padding-bottom: 3.5rem;
-        max-width: 1280px;
+        max-width: 1300px;
     }
 
     /* Hero Header */
     .hero-banner {
-        background: linear-gradient(135deg, rgba(30, 58, 138, 0.08) 0%, rgba(59, 130, 246, 0.05) 50%, rgba(147, 51, 234, 0.08) 100%);
-        border: 1px solid rgba(59, 130, 246, 0.2);
-        border-radius: 16px;
-        padding: 1.75rem 2rem;
+        background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(30, 41, 59, 0.95) 100%);
+        border: 1px solid rgba(56, 189, 248, 0.35);
+        border-radius: 18px;
+        padding: 1.75rem 2.2rem;
         margin-bottom: 1.75rem;
-        box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05);
+        box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.3);
     }
     .hero-title {
-        font-size: 2.2rem;
+        font-size: 2.35rem;
         font-weight: 800;
         letter-spacing: -0.025em;
-        background: linear-gradient(135deg, #0284c7 0%, #2563eb 50%, #7c3aed 100%);
+        background: linear-gradient(90deg, #38BDF8 0%, #818CF8 50%, #C084FC 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         margin-bottom: 0.35rem;
     }
     .hero-subtitle {
         font-size: 1.05rem;
-        color: #4b5563;
+        color: #CBD5E1;
         font-weight: 500;
-        margin-bottom: 1rem;
-        line-height: 1.5;
+        margin-bottom: 1.1rem;
+        line-height: 1.55;
     }
     .tag-container {
         display: flex;
         flex-wrap: wrap;
-        gap: 0.5rem;
+        gap: 0.6rem;
         align-items: center;
     }
     .tag-pill {
         display: inline-flex;
         align-items: center;
         gap: 0.35rem;
-        padding: 0.3rem 0.75rem;
+        padding: 0.35rem 0.85rem;
         border-radius: 9999px;
-        font-size: 0.8rem;
+        font-size: 0.82rem;
         font-weight: 600;
         letter-spacing: 0.02em;
     }
-    .tag-blue { background: rgba(59, 130, 246, 0.12); color: #1d4ed8; border: 1px solid rgba(59, 130, 246, 0.3); }
-    .tag-green { background: rgba(16, 185, 129, 0.12); color: #047857; border: 1px solid rgba(16, 185, 129, 0.3); }
-    .tag-purple { background: rgba(139, 92, 246, 0.12); color: #6d28d9; border: 1px solid rgba(139, 92, 246, 0.3); }
-    .tag-amber { background: rgba(245, 158, 11, 0.12); color: #b45309; border: 1px solid rgba(245, 158, 11, 0.3); }
+    .tag-blue { background: rgba(56, 189, 248, 0.15); color: #38BDF8; border: 1px solid rgba(56, 189, 248, 0.5); }
+    .tag-green { background: rgba(16, 185, 129, 0.15); color: #34D399; border: 1px solid rgba(16, 185, 129, 0.5); }
+    .tag-purple { background: rgba(192, 132, 252, 0.15); color: #C084FC; border: 1px solid rgba(192, 132, 252, 0.5); }
+    .tag-amber { background: rgba(245, 158, 11, 0.15); color: #FBBF24; border: 1px solid rgba(245, 158, 11, 0.5); }
 
     /* Prediction Result Cards */
     .result-card {
@@ -96,20 +96,20 @@ st.markdown("""
         padding: 1.6rem 1.8rem;
         margin-top: 0.5rem;
         margin-bottom: 1.25rem;
-        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.07);
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15);
         transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
     .result-card:hover {
         transform: translateY(-2px);
-        box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.25);
     }
     .active-card {
-        background: linear-gradient(135deg, rgba(16, 185, 129, 0.08) 0%, rgba(5, 150, 105, 0.14) 100%);
-        border: 2px solid #10b981;
+        background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(6, 78, 59, 0.25) 100%);
+        border: 2px solid #10B981;
     }
     .inactive-card {
-        background: linear-gradient(135deg, rgba(239, 68, 68, 0.06) 0%, rgba(220, 38, 38, 0.12) 100%);
-        border: 2px solid #ef4444;
+        background: linear-gradient(135deg, rgba(239, 68, 68, 0.15) 0%, rgba(127, 29, 29, 0.25) 100%);
+        border: 2px solid #EF4444;
     }
     .result-header-row {
         display: flex;
@@ -124,160 +124,222 @@ st.markdown("""
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.06em;
-        padding: 0.25rem 0.75rem;
+        padding: 0.3rem 0.8rem;
         border-radius: 6px;
     }
     .status-active-badge {
-        background: #10b981;
-        color: white;
+        background: #10B981;
+        color: #064E3B;
+        font-weight: 800;
+        box-shadow: 0 0 12px rgba(16, 185, 129, 0.4);
     }
     .status-inactive-badge {
-        background: #ef4444;
+        background: #EF4444;
         color: white;
+        font-weight: 800;
     }
     .prob-badge {
         font-family: 'JetBrains Mono', monospace;
-        font-size: 1.15rem;
-        font-weight: 700;
-        padding: 0.25rem 0.85rem;
+        font-size: 1.2rem;
+        font-weight: 800;
+        padding: 0.3rem 0.9rem;
         border-radius: 8px;
-        background: rgba(255, 255, 255, 0.9);
-        border: 1px solid rgba(0,0,0,0.1);
-        color: #111827;
+        background: #0F172A;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        color: #38BDF8;
     }
     .result-heading {
-        font-size: 1.7rem;
+        font-size: 1.75rem;
         font-weight: 800;
-        margin: 0.25rem 0 0.6rem 0;
+        margin: 0.35rem 0 0.65rem 0;
         letter-spacing: -0.02em;
     }
-    .heading-active { color: #065f46; }
-    .heading-inactive { color: #991b1b; }
+    .heading-active { color: #34D399; }
+    .heading-inactive { color: #F87171; }
     .result-text {
         font-size: 0.95rem;
         line-height: 1.6;
-        color: #374151;
+        color: #E2E8F0;
         margin: 0;
     }
 
-    /* Metric Cards Grid */
+    /* Metric Cards Grid - High Contrast */
     .metric-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-        gap: 0.85rem;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 0.9rem;
         margin: 1.25rem 0;
     }
     .metric-box {
-        background: white;
-        border: 1px solid #e5e7eb;
-        border-radius: 12px;
-        padding: 1rem 1.15rem;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        background: #1E293B;
+        border: 1px solid #334155;
+        border-radius: 14px;
+        padding: 1.1rem 1.25rem;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         transition: all 0.2s ease;
     }
     .metric-box:hover {
-        border-color: #3b82f6;
-        box-shadow: 0 4px 14px rgba(59, 130, 246, 0.12);
+        border-color: #38BDF8;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 18px rgba(56, 189, 248, 0.2);
     }
     .metric-label {
         font-size: 0.78rem;
-        font-weight: 600;
+        font-weight: 700;
         text-transform: uppercase;
-        letter-spacing: 0.04em;
-        color: #6b7280;
-        margin-bottom: 0.35rem;
+        letter-spacing: 0.05em;
+        color: #94A3B8;
+        margin-bottom: 0.4rem;
         display: flex;
         align-items: center;
-        gap: 0.35rem;
+        gap: 0.4rem;
     }
     .metric-val {
         font-family: 'JetBrains Mono', monospace;
-        font-size: 1.45rem;
-        font-weight: 700;
-        color: #111827;
+        font-size: 1.5rem;
+        font-weight: 800;
+        color: #F8FAFC;
         letter-spacing: -0.02em;
     }
     .metric-sub {
         font-size: 0.75rem;
-        color: #9ca3af;
-        margin-top: 0.25rem;
+        color: #64748B;
+        margin-top: 0.3rem;
     }
 
     /* Section Subheaders */
     .section-title {
-        font-size: 1.25rem;
+        font-size: 1.3rem;
         font-weight: 700;
-        color: #1f2937;
-        margin-top: 1.5rem;
+        color: #F1F5F9;
+        margin-top: 1.6rem;
         margin-bottom: 0.85rem;
         display: flex;
         align-items: center;
         gap: 0.5rem;
     }
 
-    /* Sidebar Styling */
+    /* SIDEBAR STYLING - High Contrast Fix */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
-        border-right: 1px solid #e2e8f0;
+        background: #0F172A !important;
+        border-right: 1px solid #1E293B !important;
     }
+    [data-testid="stSidebar"] div[data-testid="stRadio"] label p {
+        font-size: 1.02rem !important;
+        font-weight: 600 !important;
+        color: #F8FAFC !important;
+        margin-left: 0.25rem !important;
+    }
+    [data-testid="stSidebar"] div[data-testid="stRadio"] label:hover p {
+        color: #38BDF8 !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p {
+        color: #CBD5E1 !important;
+    }
+
     .sidebar-brand {
         display: flex;
         align-items: center;
         gap: 0.75rem;
-        margin-bottom: 1.25rem;
+        margin-bottom: 1.5rem;
     }
     .sidebar-title {
-        font-size: 1.35rem;
+        font-size: 1.45rem;
         font-weight: 800;
-        background: linear-gradient(135deg, #0284c7 0%, #2563eb 100%);
+        background: linear-gradient(135deg, #38BDF8 0%, #818CF8 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         letter-spacing: -0.02em;
     }
     .sidebar-sub {
-        font-size: 0.8rem;
-        color: #64748b;
+        font-size: 0.82rem;
+        color: #94A3B8;
         font-weight: 500;
     }
     .sidebar-model-badge {
-        background: white;
-        border: 1px solid #cbd5e1;
-        border-radius: 12px;
-        padding: 0.85rem 1rem;
-        margin: 1rem 0;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+        background: #1E293B;
+        border: 1px solid #334155;
+        border-radius: 14px;
+        padding: 1rem 1.1rem;
+        margin: 1.25rem 0;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.25);
     }
     .smb-title {
-        font-size: 0.75rem;
+        font-size: 0.78rem;
         font-weight: 700;
         text-transform: uppercase;
         letter-spacing: 0.05em;
-        color: #475569;
-        margin-bottom: 0.4rem;
+        color: #38BDF8;
+        margin-bottom: 0.5rem;
     }
     .smb-stat {
         display: flex;
         justify-content: space-between;
-        font-size: 0.82rem;
-        color: #334155;
-        padding: 0.2rem 0;
+        font-size: 0.84rem;
+        color: #CBD5E1;
+        padding: 0.25rem 0;
+        border-bottom: 1px solid rgba(255,255,255,0.04);
     }
     .smb-stat-bold {
-        font-weight: 700;
-        color: #047857;
+        font-weight: 800;
+        color: #34D399;
         font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* Process Architecture Flow Cards */
+    .arch-flow-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1rem;
+        margin: 1.5rem 0;
+    }
+    .arch-card {
+        background: #1E293B;
+        border: 1px solid #334155;
+        border-radius: 14px;
+        padding: 1.3rem;
+        position: relative;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+        transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+    .arch-card:hover {
+        transform: translateY(-3px);
+        border-color: #38BDF8;
+    }
+    .arch-step-num {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 0.75rem;
+        font-weight: 800;
+        color: #38BDF8;
+        background: rgba(56, 189, 248, 0.12);
+        padding: 0.2rem 0.55rem;
+        border-radius: 6px;
+        display: inline-block;
+        margin-bottom: 0.5rem;
+    }
+    .arch-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: #F8FAFC;
+        margin-bottom: 0.5rem;
+    }
+    .arch-desc {
+        font-size: 0.85rem;
+        color: #94A3B8;
+        line-height: 1.5;
+        margin: 0;
     }
 
     /* Custom Form & Button Styling */
     .stButton>button {
         border-radius: 10px;
-        font-weight: 600;
+        font-weight: 700;
         letter-spacing: 0.01em;
         transition: all 0.2s ease;
     }
     .stDownloadButton>button {
         border-radius: 10px;
-        font-weight: 600;
+        font-weight: 700;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -888,34 +950,34 @@ elif menu == "📈 Model Validation & Metrics":
     # High-impact KPI grid
     st.markdown(f"""
     <div class="metric-grid">
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #10B981;">
             <div class="metric-label">🎯 Test Accuracy</div>
-            <div class="metric-val" style="color:#059669;">{metrics.get('Accuracy', 97.5)}%</div>
-            <div class="metric-sub">Stratified holdout</div>
+            <div class="metric-val" style="color:#10B981;">{metrics.get('Accuracy', 97.5)}%</div>
+            <div class="metric-sub">Stratified holdout test</div>
         </div>
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #06B6D4;">
             <div class="metric-label">⚡ Sensitivity (Recall)</div>
-            <div class="metric-val" style="color:#059669;">{metrics.get('Sensitivity_Recall', 100.0)}%</div>
-            <div class="metric-sub">Zero false negatives</div>
+            <div class="metric-val" style="color:#06B6D4;">{metrics.get('Sensitivity_Recall', 100.0)}%</div>
+            <div class="metric-sub">100% true positives detected</div>
         </div>
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #38BDF8;">
             <div class="metric-label">🛡️ Specificity</div>
-            <div class="metric-val" style="color:#2563eb;">{metrics.get('Specificity', 95.0)}%</div>
-            <div class="metric-sub">True negative rate</div>
+            <div class="metric-val" style="color:#38BDF8;">{metrics.get('Specificity', 95.0)}%</div>
+            <div class="metric-sub">True negative retention</div>
         </div>
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #A855F7;">
             <div class="metric-label">💎 Precision</div>
-            <div class="metric-val" style="color:#2563eb;">{metrics.get('Precision', 95.2)}%</div>
+            <div class="metric-val" style="color:#A855F7;">{metrics.get('Precision', 95.2)}%</div>
             <div class="metric-sub">Positive predictive value</div>
         </div>
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #F59E0B;">
             <div class="metric-label">📈 ROC-AUC Score</div>
-            <div class="metric-val" style="color:#7c3aed;">{metrics.get('ROC_AUC', 0.98):.3f}</div>
-            <div class="metric-sub">Discriminative power</div>
+            <div class="metric-val" style="color:#F59E0B;">{metrics.get('ROC_AUC', 0.98):.3f}</div>
+            <div class="metric-sub">High discriminative power</div>
         </div>
-        <div class="metric-box">
+        <div class="metric-box" style="border-top: 3px solid #EC4899;">
             <div class="metric-label">🔁 5-Fold Cross-Val AUC</div>
-            <div class="metric-val" style="color:#7c3aed;">{metrics.get('CV_5Fold_ROC_AUC', 0.9633):.4f}</div>
+            <div class="metric-val" style="color:#EC4899;">{metrics.get('CV_5Fold_ROC_AUC', 0.9633):.4f}</div>
             <div class="metric-sub">Generalization stability</div>
         </div>
     </div>
@@ -950,37 +1012,53 @@ elif menu == "📑 Scientific Methodology":
     The acceleration of multidrug-resistant pathogens represents an urgent global healthcare crisis. Antimicrobial peptides (AMPs) provide an innovative therapeutic avenue due to rapid membrane disruption and low resistance induction. **BioPept-AI** integrates machine learning classification, structural biophysical profiling, and a curated database of 200 experimentally confirmed peptides from **UniProtKB** and **APD3**.
 
     ### 2. End-to-End Computational Architecture
-    ```
-    ┌─────────────────────────────────────────────────────────────┐
-    │  Primary Input: Candidate Peptide Sequence (FASTA/CSV)      │
-    └──────────────────────────────┬──────────────────────────────┘
-                                   │
-                                   ▼
-    ┌─────────────────────────────────────────────────────────────┐
-    │  Biophysical Feature Engineering Layer (Biopython)          │
-    │  • Net Charge @ pH 7.4 (Henderson-Hasselbalch equation)     │
-    │  • Kyte-Doolittle GRAVY Hydropathy Index                    │
-    │  • Isoelectric Point (pI) & Molecular Weight                │
-    │  • Secondary Structure Fractions (Helix, Turn, Sheet)       │
-    │  • Residue Group Ratios (Basic, Acidic, Hydrophobic)        │
-    └──────────────────────────────┬──────────────────────────────┘
-                                   │
-                                   ▼
-    ┌─────────────────────────────────────────────────────────────┐
-    │  Random Forest Machine Learning Classifier                  │
-    │  • 120 Estimators, Stratified 80/20 Holdout                 │
-    │  • 5-Fold Stratified Cross Validation (ROC-AUC = 0.963)     │
-    └──────────────────────────────┬──────────────────────────────┘
-                                   │
-                                   ▼
-    ┌─────────────────────────────────────────────────────────────┐
-    │  Interactive Outputs & Visual Insights                      │
-    │  • Continuous Activity Probability Score                    │
-    │  • 2D Amphipathic Helical Wheel Projection                  │
-    │  • High-Throughput Screening Export                         │
-    └─────────────────────────────────────────────────────────────┘
-    ```
+    """)
 
+    st.markdown("""
+    <div class="arch-flow-grid">
+        <div class="arch-card" style="border-top: 3px solid #38BDF8;">
+            <div class="arch-step-num">STAGE 01</div>
+            <div class="arch-title">📥 Primary Sequence Input</div>
+            <div class="arch-desc">
+                • Ingestion of FASTA or CSV libraries.<br>
+                • Length validation filter (5 - 120 aa).<br>
+                • 20 natural amino acid character integrity verification.
+            </div>
+        </div>
+        <div class="arch-card" style="border-top: 3px solid #06B6D4;">
+            <div class="arch-step-num">STAGE 02</div>
+            <div class="arch-title">🔬 Biophysical Extraction</div>
+            <div class="arch-desc">
+                • <b>Net Charge @ pH 7.4</b> (Henderson-Hasselbalch).<br>
+                • <b>Kyte-Doolittle GRAVY</b> hydropathy index.<br>
+                • Isoelectric point (pI) & molecular mass.<br>
+                • Secondary structure propensities (α-Helix, Sheet, Turn).
+            </div>
+        </div>
+        <div class="arch-card" style="border-top: 3px solid #818CF8;">
+            <div class="arch-step-num">STAGE 03</div>
+            <div class="arch-title">🧠 Machine Learning Engine</div>
+            <div class="arch-desc">
+                • <b>Random Forest Classifier</b> (120 Estimators).<br>
+                • Trained on 200 UniProtKB verified peptides.<br>
+                • <b>97.5% Accuracy</b> & <b>0.98 ROC-AUC</b>.<br>
+                • 5-Fold Stratified Cross-Validation (0.963).
+            </div>
+        </div>
+        <div class="arch-card" style="border-top: 3px solid #10B981;">
+            <div class="arch-step-num">STAGE 04</div>
+            <div class="arch-title">🎯 Translational Insights</div>
+            <div class="arch-desc">
+                • Continuous therapeutic confidence score (%).<br>
+                • <b>2D Polar Amphipathic Helical Wheel</b> (100°).<br>
+                • Residue biochemical class palette visualization.<br>
+                • High-throughput batch report CSV export.
+            </div>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+
+    st.markdown("""
     ### 3. Key Mechanistic Findings
     * **Net Charge at pH 7.4** and **Basic Residue Ratio (Lys/Arg)** are the highest-ranked discriminative determinants.
     * The model achieves **100% Sensitivity**, preventing false negatives in virtual discovery pipelines.
