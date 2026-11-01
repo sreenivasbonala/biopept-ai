@@ -478,29 +478,33 @@ def render_sequence_ribbon(seq):
     basic = set("KRH")
     acidic = set("DE")
     
-    html = ['<div style="display:flex; flex-wrap:wrap; gap:5px; padding:12px 14px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:12px; margin-top:8px; margin-bottom:12px;">']
+    tiles = []
     for idx, aa in enumerate(seq, 1):
         if aa in hydrophobic:
-            bg, text, border = "#dcfce7", "#166534", "#86efac"
-            cat = "Hydrophobic Non-polar"
+            bg, text, border, cat = "rgba(16, 185, 129, 0.2)", "#34D399", "#10B981", "Hydrophobic Non-polar"
         elif aa in basic:
-            bg, text, border = "#dbeafe", "#1e40af", "#93c5fd"
-            cat = "Basic (+ Cationic)"
+            bg, text, border, cat = "rgba(56, 189, 248, 0.2)", "#38BDF8", "#0284C7", "Basic (+ Cationic)"
         elif aa in acidic:
-            bg, text, border = "#fee2e2", "#991b1b", "#fca5a5"
-            cat = "Acidic (- Anionic)"
+            bg, text, border, cat = "rgba(239, 68, 68, 0.2)", "#F87171", "#EF4444", "Acidic (- Anionic)"
         else:
-            bg, text, border = "#ffedd5", "#9a3412", "#fed7aa"
-            cat = "Neutral Polar"
+            bg, text, border, cat = "rgba(245, 158, 11, 0.2)", "#FBBF24", "#D97706", "Neutral Polar"
         
-        html.append(f'''
-        <div title="Residue #{idx}: {aa} ({cat})" style="display:inline-flex; flex-direction:column; align-items:center; justify-content:center; width:34px; height:44px; background:{bg}; color:{text}; border:1px solid {border}; border-radius:7px; font-family:\'JetBrains Mono\', monospace; box-shadow:0 1px 2px rgba(0,0,0,0.03); cursor:default; transition:transform 0.15s ease;">
-            <span style="font-weight:700; font-size:14px; line-height:1;">{aa}</span>
-            <span style="font-size:9px; opacity:0.7; margin-top:3px;">{idx}</span>
-        </div>
-        ''')
-    html.append('</div>')
-    return "".join(html)
+        tile = (
+            f'<div title="#{idx}: {aa} ({cat})" style="display:inline-flex; flex-direction:column; '
+            f'align-items:center; justify-content:center; width:34px; height:44px; background:{bg}; '
+            f'color:{text}; border:1px solid {border}; border-radius:8px; font-family:\'JetBrains Mono\', monospace; '
+            f'box-shadow:0 2px 4px rgba(0,0,0,0.2);">'
+            f'<span style="font-weight:800; font-size:15px; line-height:1;">{aa}</span>'
+            f'<span style="font-size:9px; opacity:0.8; margin-top:3px; font-weight:600;">{idx}</span>'
+            f'</div>'
+        )
+        tiles.append(tile)
+    
+    joined_tiles = "".join(tiles)
+    return (
+        f'<div style="display:flex; flex-wrap:wrap; gap:6px; padding:14px; background:#0F172A; '
+        f'border:1px solid #334155; border-radius:12px; margin:10px 0 16px 0;">{joined_tiles}</div>'
+    )
 
 # -------------------------------------------------------------
 # Sidebar Navigation
