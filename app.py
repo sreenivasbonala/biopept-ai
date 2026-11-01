@@ -411,6 +411,35 @@ def draw_helical_wheel(seq):
     ax.set_title("Alpha-Helical Amphipathic Wheel (100° Periodicity)", pad=16, weight='bold', fontsize=11, color='#1e293b')
     return fig
 
+def render_sequence_ribbon(seq):
+    hydrophobic = set("AILMFWV")
+    basic = set("KRH")
+    acidic = set("DE")
+    
+    html = ['<div style="display:flex; flex-wrap:wrap; gap:5px; padding:12px 14px; background:#f8fafc; border:1px solid #e2e8f0; border-radius:12px; margin-top:8px; margin-bottom:12px;">']
+    for idx, aa in enumerate(seq, 1):
+        if aa in hydrophobic:
+            bg, text, border = "#dcfce7", "#166534", "#86efac"
+            cat = "Hydrophobic Non-polar"
+        elif aa in basic:
+            bg, text, border = "#dbeafe", "#1e40af", "#93c5fd"
+            cat = "Basic (+ Cationic)"
+        elif aa in acidic:
+            bg, text, border = "#fee2e2", "#991b1b", "#fca5a5"
+            cat = "Acidic (- Anionic)"
+        else:
+            bg, text, border = "#ffedd5", "#9a3412", "#fed7aa"
+            cat = "Neutral Polar"
+        
+        html.append(f'''
+        <div title="Residue #{idx}: {aa} ({cat})" style="display:inline-flex; flex-direction:column; align-items:center; justify-content:center; width:34px; height:44px; background:{bg}; color:{text}; border:1px solid {border}; border-radius:7px; font-family:\'JetBrains Mono\', monospace; box-shadow:0 1px 2px rgba(0,0,0,0.03); cursor:default; transition:transform 0.15s ease;">
+            <span style="font-weight:700; font-size:14px; line-height:1;">{aa}</span>
+            <span style="font-size:9px; opacity:0.7; margin-top:3px;">{idx}</span>
+        </div>
+        ''')
+    html.append('</div>')
+    return "".join(html)
+
 # -------------------------------------------------------------
 # Sidebar Navigation
 # -------------------------------------------------------------
@@ -519,11 +548,19 @@ if menu == "🔬 Single Peptide Predictor":
                             <span class="prob-badge">{prob*100:.2f}% Active</span>
                         </div>
                         <div class="result-heading heading-active">Active Antimicrobial Peptide (AMP)</div>
+                        <div style="background: rgba(0,0,0,0.06); border-radius: 9999px; height: 10px; margin: 0.75rem 0; overflow: hidden;">
+                            <div style="background: linear-gradient(90deg, #10b981, #06b6d4); width: {prob*100:.1f}%; height: 100%; border-radius: 9999px;"></div>
+                        </div>
                         <p class="result-text">
-                            <b>Mechanistic Profile:</b> High net cationic charge (<b>+{feat_dict['Net Charge (pH 7.4)']}e</b>) and favorable hydropathy 
+                            <b>Mechanistic Profile:</b> High net cationic charge (<b>+{feat_dict['Net Charge (pH 7.4)']}e</b>) and optimal hydropathy 
                             facilitate strong electrostatic targeting of anionic microbial lipid bilayers (LPS/phosphatidylglycerol) 
                             inducing rapid membrane permeabilization.
                         </p>
+                        <div style="display:flex; gap:0.5rem; margin-top:0.85rem; flex-wrap:wrap;">
+                            <span class="tag-pill tag-green">🛡️ Lytic Membrane Action</span>
+                            <span class="tag-pill tag-blue">⚡ Cationic Affinity</span>
+                            <span class="tag-pill tag-purple">🔬 High Bacterial Selectivity</span>
+                        </div>
                     </div>
                     """, unsafe_allow_html=True)
                 else:
@@ -534,12 +571,24 @@ if menu == "🔬 Single Peptide Predictor":
                             <span class="prob-badge">{(1-prob)*100:.2f}% Inactive</span>
                         </div>
                         <div class="result-heading heading-inactive">Non-AMP / Inactive Peptide</div>
+                        <div style="background: rgba(0,0,0,0.06); border-radius: 9999px; height: 10px; margin: 0.75rem 0; overflow: hidden;">
+                            <div style="background: linear-gradient(90deg, #f59e0b, #ef4444); width: {(1-prob)*100:.1f}%; height: 100%; border-radius: 9999px;"></div>
+                        </div>
                         <p class="result-text">
                             <b>Mechanistic Profile:</b> Sequence lacks the prerequisite polycationic density and amphipathic alpha-helical partition 
                             properties essential for selective bacterial membrane disruption. Corresponds with typical endogenous hormone or structural peptide behavior.
                         </p>
+                        <div style="display:flex; gap:0.5rem; margin-top:0.85rem; flex-wrap:wrap;">
+                            <span class="tag-pill tag-amber">⚠️ Weak Electrostatic Attraction</span>
+                            <span class="tag-pill tag-blue">🧬 Non-Lytic Physiological Profile</span>
+                        </div>
                     </div>
                     """, unsafe_allow_html=True)
+            
+            # Primary Sequence Residue Ribbon
+            st.markdown('<div class="section-title"><span>🧬</span> Primary Sequence Architecture & Residue Map</div>', unsafe_allow_html=True)
+            st.caption("Color-coded by biochemical classification: 🟢 Hydrophobic Non-polar | 🔵 Cationic Basic (+ Charge) | 🔴 Anionic Acidic (- Charge) | 🟠 Neutral Polar")
+            st.markdown(render_sequence_ribbon(clean_seq), unsafe_allow_html=True)
             
             st.markdown('<div class="section-title"><span>📊</span> Bio-Physicochemical Descriptor Matrix</div>', unsafe_allow_html=True)
             
