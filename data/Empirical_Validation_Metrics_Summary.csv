@@ -1,0 +1,11 @@
+Metric,Value,Interpretation
+Total Benchmark Samples,200 (UniProtKB & APD3),Experimentally validated biological sequences
+Training Set Size (80%),160 peptides (80 AMPs / 80 Non-AMPs),Balanced stratified training partition
+Holdout Test Set Size (20%),40 peptides (20 AMPs / 20 Non-AMPs),Completely unseen blind test partition
+Overall Test Accuracy,97.50%,39 out of 40 test peptides correctly classified
+Sensitivity / Recall,100.00%,20/20 Active AMPs caught (ZERO false negatives)
+Specificity,95.00%,19/20 Non-AMPs correctly rejected (1 false positive)
+Precision (PPV),95.24%,20 true actives out of 21 predicted actives
+F1-Score,97.56%,Harmonic mean of precision and recall
+ROC-AUC Score,0.9800,High discriminative ability over 0.50 random chance
+5-Fold Cross-Validation AUC,0.9633 ± 0.0170,Cross-fold stability across all folds
