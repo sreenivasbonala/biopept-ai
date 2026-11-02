@@ -13,7 +13,7 @@ from Bio.SeqUtils.ProtParam import ProteinAnalysis
 # -------------------------------------------------------------
 st.set_page_config(
     page_title="BioPept-AI | Therapeutic Peptide Suite",
-    page_icon="🧬",
+    page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -512,7 +512,18 @@ def render_sequence_ribbon(seq):
 with st.sidebar:
     st.markdown("""
     <div class="sidebar-brand">
-        <span style="font-size: 2.2rem;">🧬</span>
+        <div style="display:flex; align-items:center; justify-content:center; width:44px; height:44px; background:linear-gradient(135deg, rgba(56, 189, 248, 0.18), rgba(16, 185, 129, 0.18)); border:1.5px solid rgba(56, 189, 248, 0.45); border-radius:12px; box-shadow:0 0 15px rgba(56, 189, 248, 0.25);">
+            <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 7C7 7 7 12 10 12C13 12 13 7 16 7C19 7 19 12 22 12" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round"/>
+                <path d="M2 17C5 17 5 12 8 12C11 12 11 17 14 17C17 17 17 12 20 12" stroke="#10B981" stroke-width="2.2" stroke-linecap="round"/>
+                <circle cx="4" cy="7" r="2" fill="#38BDF8"/>
+                <circle cx="10" cy="12" r="2" fill="#38BDF8"/>
+                <circle cx="16" cy="7" r="2" fill="#38BDF8"/>
+                <circle cx="8" cy="12" r="2" fill="#10B981"/>
+                <circle cx="14" cy="17" r="2" fill="#10B981"/>
+                <circle cx="20" cy="12" r="2" fill="#10B981"/>
+            </svg>
+        </div>
         <div>
             <div class="sidebar-title">BioPept-AI</div>
             <div class="sidebar-sub">Peptide Therapeutics Suite</div>
@@ -543,8 +554,6 @@ with st.sidebar:
         <div class="smb-stat"><span>Benchmark:</span> <b>200 UniProtKB Peptides</b></div>
     </div>
     """, unsafe_allow_html=True)
-
-    st.caption("🏆 **REVA University Science Fair 2026**\n\nTrack: AI for Bioinformatics (Software, Tools & Databases)")
 
 # -------------------------------------------------------------
 # Hero Banner Component (Global)
@@ -646,13 +655,13 @@ if menu == "🔬 Single Peptide Predictor":
                         </p>
                         <div style="display:flex; gap:0.5rem; margin-top:0.85rem; flex-wrap:wrap;">
                             <span class="tag-pill tag-amber">⚠️ Weak Electrostatic Attraction</span>
-                            <span class="tag-pill tag-blue">🧬 Non-Lytic Physiological Profile</span>
+                            <span class="tag-pill tag-blue">🧪 Non-Lytic Physiological Profile</span>
                         </div>
                     </div>
                     """, unsafe_allow_html=True)
             
             # Primary Sequence Residue Ribbon
-            st.markdown('<div class="section-title"><span>🧬</span> Primary Sequence Architecture & Residue Map</div>', unsafe_allow_html=True)
+            st.markdown('<div class="section-title"><span>🧪</span> Primary Sequence Architecture & Residue Map</div>', unsafe_allow_html=True)
             st.caption("Color-coded by biochemical classification: 🟢 Hydrophobic Non-polar | 🔵 Cationic Basic (+ Charge) | 🔴 Anionic Acidic (- Charge) | 🟠 Neutral Polar")
             st.markdown(render_sequence_ribbon(clean_seq), unsafe_allow_html=True)
             
@@ -690,7 +699,7 @@ if menu == "🔬 Single Peptide Predictor":
                     <div class="metric-sub">Kyte-Doolittle index</div>
                 </div>
                 <div class="metric-box">
-                    <div class="metric-label">🧬 α-Helix Propensity</div>
+                    <div class="metric-label">🌀 α-Helix Propensity</div>
                     <div class="metric-val">{feat_dict['Helix Fraction']*100:.1f}<span style="font-size:0.9rem;">%</span></div>
                     <div class="metric-sub">Secondary structure</div>
                 </div>
@@ -708,7 +717,7 @@ if menu == "🔬 Single Peptide Predictor":
             """, unsafe_allow_html=True)
 
             # Visualizations
-            st.markdown('<div class="section-title"><span>🧬</span> Secondary Structure & Amino Acid Profile</div>', unsafe_allow_html=True)
+            st.markdown('<div class="section-title"><span>📐</span> Secondary Structure & Amino Acid Profile</div>', unsafe_allow_html=True)
             col_wheel, col_dist = st.columns([1.1, 1.4], gap="large")
             
             with col_wheel:
@@ -1002,7 +1011,7 @@ elif menu == "📈 Model Validation & Metrics":
         if os.path.exists(cm_img_path):
             st.image(cm_img_path, caption="Figure 2: Confusion Matrix (Stratified 20% Holdout Test Set)", use_container_width=True)
 
-    st.markdown('<div class="section-title"><span>🧬</span> Feature Importance Analysis (MDI)</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-title"><span>📊</span> Feature Importance Analysis (MDI)</div>', unsafe_allow_html=True)
     if os.path.exists(feat_img_path):
         st.image(feat_img_path, caption="Figure 3: Random Forest Gini Impurity Decrease across 13 Bio-Physicochemical Descriptors", use_container_width=True)
 
