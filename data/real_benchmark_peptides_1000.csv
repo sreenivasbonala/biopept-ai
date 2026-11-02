@@ -1,0 +1,698 @@
+Peptide_ID,Name,Sequence,Source_Organism,UniProt_Accession,Biological_Class,Biological_Function,Label
+AMP-0159,HD5(29-94),ATTQKQSGEDNQDLAISFAGNGLSALRTSGSQARATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens (Human),Q01523,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0498,Peptide PGLa-R5,GMASTAGSVLGKLAKVAIGAL,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0396,Caerin-1.1.4,GLLSVLGSVAKHVLPHVVPVIAE,Pelodryas splendida (Magnificent tree frog) (Litoria splendida),P62568,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0156,Antibacterial peptide KR-20,KRIVQRIKDFLRNLVPRTES,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0322,Beta-defensin 9,QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLAPQIKCCR,Bos taurus (Bovine),P46167,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0213,Eumenine mastoparan-OD,GRILSFIKGLAEHL,Orancistrocerus drewseni (Solitary wasp),P86146,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0235,Antimicrobial peptide F1,TGLGKIGYLMKKLLSKAKV,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0290,Thiocillin GE37468,STNCFCYICCSCSS,Streptomyces sp,P0C8P9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0301,Aurein-2.5,GLFDIVKKVVGAFGSL,Ranoidea aurea (Green and golden bell frog) (Litoria aurea),P69019,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0357,Beta-defensin 3,KKINNPVSCLRKGGRCWNRCIGNTRQIGSCGVPFLKCCKRK,Mus musculus (Mouse),Q9WTL0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0410,Ranatuerin-2SEa,GFISTVKNLATNVAGTVIDTIKCKVTGGC,Lithobates sevosus (Dusky gopher frog) (Rana sevosa),P85057,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0329,Beta-defensin 1,DQYRCLQNGGFCLRSSCPSHTKLQGTCKPDKPNCCRS,Rattus norvegicus (Rat),O89117,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0200,Cathelicidin-2,RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLGPFP,Bos taurus (Bovine),P19660,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0079,Oxyopinin 2a,FRGLAKLLKIGLKSFARVLKKVLPKAAKAGKALAKSMAD,Oxyopes takobius,P83635,Spider venom AMP,Broad spectrum target,1
+AMP-0378,Apidaecin 1-,NRPRPAPIQPRPPHPRL,Pimpla disparis (Parasitic wasp) (Coccygomimus disparis),C0HKX8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0400,Aurein-3.1.1,GLFDIVKKIAGHIA,Ranoidea aurea (Green and golden bell frog) (Litoria aurea),P69021,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0446,Esculentin-2ISa,GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC,Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae),F1T151,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0469,Defensin beta 4A,NIGNSVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK,Sus scrofa (Pig),O62697,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0625,Proinsulin C-peptide,EAEDLQVGQVELGGGPGAGSLQPLALEGSLQ,Homo sapiens,P01308,Connecting peptide,Microvascular blood flow signaling,0
+AMP-0535,DEFI_CALVI,ATCDLLSGTGANHSACAAHCLLRGNRGGYCNGKAVCVCRN,Calliphora vicina (Blue blowfly) (Calliphora erythrocephala),C0HJX7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0361,Immune-induced peptide 10,QLHVARPDRTVTIGNGGVYIQRS,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0339,Alpha-defensin 25,CEDLICYCRTRGCKRRERLNGTCRKGHLMYMLWCC,Mus musculus (Mouse),Q5G864,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0558,Beta-defensin 36,QKCWNLHGKCRHRCSRKESVYVYCTNGKMCCVKPKYQPKPKPWMF,Mus musculus (Mouse),Q8K3U4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0291,N-terminal alpha-helical LaIT3,GGILREKYFHKAADALTSNIPIPVVKDVLKSAANQMIRKIG,Liocheles australasiae (Dwarf wood scorpion),P0DRM3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0285,U1-sicaritoxin-Lg1a,VGTDFSGNDDISDVQK,Loxosceles gaucho (Spider),K9USW8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0332,Alpha-defensin 16,LRDLVCYCRSRGCKGRERMNGTCRKGHLMYTLCCR,Mus musculus (Mouse),P50714,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0663,Peroxiredoxin-1 Fragment,MSSGNAKIGHPAPNFKATAVMPDGQFKDISL,Homo sapiens,Q06830,Antioxidant peroxidase,Hydrogen peroxide clearance,0
+AMP-0055,Diptericin,DEVGYSAPNVRDPIFPQPDQPKQPEIDP,Drosophila melanogaster,P20387,Glycine-rich AMP,Gram-negative bacterial periplasm,1
+AMP-0249,Uperin-3.5,GVGDLIRKAVSVIKNIV,Uperoleia mjobergii (Mjoberg's toadlet) (Pseudophryne mjobergii),P82042,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0224,Cypemycin,ATPATPTVAQFVIQGSTICLVC,Streptomyces sp,E5KIB6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0134,Histatin-1,DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN,Homo sapiens (Human),P15515,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0507,Neutrophil defensin 2,ACYCRIPACLAGERRYGTCFYMGRVWAFCC,Macaca mulatta (Rhesus macaque),P82317,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0137,Beta-defensin 127,LKKCWNNYVQGHCRKICRVNEVPEALCENGRYCCLNIKELEAC,Homo sapiens (Human),Q9H1M4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0110,GV-19,GWRPSSREDSLEAGLPLQV,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0182,Serpinin-RRG,PEDQELESLSAIEAELEKVAHQLEELRRG,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0432,Maximin-3,IGGKILSGLKTALKGAAKELASTYLHR,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T83,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0575,Beta-defensin 104A,EFELDRICGYGTARCRKKCRSQEYRIGRCPNTFACCLRKWDESLLNRTKP,Gorilla gorilla gorilla (Western lowland gorilla),A4H202,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0519,Beta-defensin 1,DHYNCVRSGGQCLYSACPIYTKIQGTCYQGKAKCCK,Hylobates lar (Lar gibbon) (White-handed gibbon),Q7JGM1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0516,Beta-defensin 107A,AIHRALISKRMEGHCEAECLTFEVKTGGCRAELAPFCCKNRKKH,Pan troglodytes (Chimpanzee),Q5IAA9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0133,Calcitermin,VAIALKAAHYHTHKE,Homo sapiens (Human),P80511,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0177,Chromostatin,SDEDSDGDRPQASPGLGPGP,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0073,Uperin 3.5,GVGDLIRKAYSVIKPILER,Uperoleia inundata,P82029,Uperin,Bacterial membrane target,1
+AMP-0512,Beta-defensin 1,DHYNCVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK,Allochrocebus preussi (Preuss's monkey) (Cercopithecus preussi),Q7JGL8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0576,Beta-defensin 105A,GLDFSQPFPSDEFAVCESCKLGRGKCRKECLENEKPDGNCRLNFLCCRERI,Pongo pygmaeus (Bornean orangutan),A4H207,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0648,Triosephosphate Isomerase,MAPSRKFFVGGNWKMNGRKQSLGELIGTLNA,Homo sapiens,P60174,Glycolytic isomerase,DHAP to GAP isomerization,0
+AMP-0594,Beta-defensin 107A,AIHRALICKRMEGHCEAECLTFEVKIGGCRAELTPYCCKKRKKD,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey),A4H218,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0665,Glutathione Peroxidase 1,MCAARLAAAAAAAQSVYAFSARPLAGGEPVS,Homo sapiens,P07203,Selenoprotein antioxidant,Lipid hydroperoxide reduction,0
+AMP-0353,Beta-defensin 3,QGVRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW,Bos taurus (Bovine),P46161,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0077,Caerin 1.9,GLFKVLGSVAKHLLPHVAPVIAEKL,Litoria caerulea,P80392,Caerin,Bacterial membrane permeability,1
+AMP-0149,Kaliocin-1,FFSASCVPGADKGQFPNLCRLCAGTGENKCA,Homo sapiens (Human),P02788,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0347,Alpha-defensin 13,LRDLVCYCRKRGCKRREHMNGTCRRGHLMYTLCCR,Mus musculus (Mouse),P50711,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0091,Anoplin,GLLKRIKTLL,Anoplius samariensis,P83243,Solitary wasp venom,Cationic membrane disruption,1
+AMP-0540,Cecropin-B,KWKIFKKIEKVGRNIRNGIIKAGPAVAVLGEAKAL,Antheraea pernyi (Chinese oak silk moth) (Bombyx pernyi),P01509,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0011,Pleurocidin,GWGSFFKKAAHVGKHVGKAALTHYL,Pleuronectes americanus,P81944,Alpha-helical AMP,Antifungal and antibacterial,1
+AMP-0064,Piscidin 2,FFHHIFRGIVHVGKTIHKLVTG,Morone saxatilis,P83642,Piscidin,Bacterial membrane lysis,1
+AMP-0530,Defensin-1,GFGCPWNRYQCHSHCRSIGRLGGYCAGSLRLTCTCYRS,Crassostrea virginica (Eastern oyster),P85008,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0524,Spheniscin-2,SFGLCRLRRGFCARGRCRFPSIPIGRCSRFVQCCRRVW,Aptenodytes patagonicus (King penguin),P83430,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0175,Vasostatin-1,LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSKECFETLRGDERILSILRHQNLLKELQDLALQGAKERTHQQ,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0257,Cytotoxic linear peptide IsCT2,IFGAIWNGIKSLF,Opisthacanthus madagascariensis (Scorpion),Q8MTX2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0569,Xenoposin-precursor fragment B1,GFKQFVHSMGKFGKAFVGEIINPK,Xenopus borealis (Kenyan clawed frog),C0HK85,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0032,Brevinin-2E,GIMDSLKGAAKEVGTGLATFAGKLK,Pelophylax esculentus,P80388,Brevinin family,Bacterial membrane permeability,1
+AMP-0370,Paralithocin 3,RSQPGPTCPSSVQAILCDNRCGRSACSYYIERCACCAKCNRIPYYGASNHP,Paralithodes camtschaticus (Red king crab) (Maja camtschatica),A0A2I8B353,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0483,DFB13_BOVIN,SGISGPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW,Bos taurus (Bovine),P46171,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0078,Cupiennin 1a,GFGALFKFLAKKVAKTVAKQAAKQGAKYVVNKVMG,Cupiennius salei,P83634,Spider venom AMP,Rapid cytolytic and bactericidal,1
+AMP-0508,Spheniscin-1,SFGLCRLRRGFCAHGRCRFPSIPIGRCSRFVQCCRRVW,Aptenodytes patagonicus (King penguin),P83429,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0376,Lasioglossin-1,VNWKKVLGKIIKVAK,Lasioglossum laticeps (Bee),C0HK42,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0212,Beta-defensin 1,GIINTIQRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCRTRK,Chinchilla lanigera (Long-tailed chinchilla) (Chinchilla villidera),P83943,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0056,Attacin A,DAHGRLDFGIQGHPFNAFSNFAAG,Drosophila melanogaster,P18172,Attacin,Bacterial outer membrane protein synthesis,1
+AMP-0136,Beta-defensin 104,EFELDRICGYGTARCRKKCRSQEYRIGRCPNTYACCLRKWDESLLNRTKP,Homo sapiens (Human),Q8WTQ1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0670,Ubiquitin-Conjugating Enzyme E2,MSSARRLMKELEEIRKCGMKNFRNIQVDEAN,Homo sapiens,P61086,Ubiquitination enzyme,Thioester ubiquitin transfer,0
+AMP-0341,Beta-defensin 8,NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK,Mus musculus (Mouse),Q91V82,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0003,LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens,P49913,Cathelicidin,Bacterial membranes & biofilms,1
+AMP-0228,Lantibiotic lacticin 3147 A2,TTPATPAISILSAYISTNTCPTTKCTRAC,Lactococcus lactis subsp. lactis (Streptococcus lactis),O87237,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0082,Scorpiopeptin,FLGMIPKLIGKMAGKAALKA,Scorpio maurus,P83241,Scorpion AMP,Bacterial outer membrane disruption,1
+AMP-0433,Peptide BmKn2,FIGAIANLLSKIF,Olivierus martensii (Manchurian scorpion) (Mesobuthus martensii),Q6JQN2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0693,Cadherin-1 Cytoplasmic Fragment,RRRVVKEPLLPPDDDTRDNVYYYDEEGGGEE,Homo sapiens,P12830,Adhesion molecule tail,Homotypic epithelial cell-cell adhesion,0
+CTL-0639,Profilin-1 Fragment,MAGWNAYIDNLMADGTCQDAAIVGYKDSPS,Homo sapiens,P07737,Actin-binding protein,Cytoskeletal remodeling,0
+CTL-0603,Glucagon,HSQGTFTSDYSKYLDSRRAQDFVQWLMNT,Homo sapiens,P01275,Peptide hormone,Glycogenolysis stimulation,0
+AMP-0121,His3-(24-32)-peptide,KRHHGYKRK,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0312,M-myrmeciitoxin-Mp2a,IDWKKVDWKKVSKKTCKVMLKACKFL,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q26464,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0205,Fallaxidin-3.2,GLLDFAKHVIGIASKL,Drymomantis fallax (Eastern dwarf tree frog) (Litoria fallax),B5LUQ7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0245,PA2B1_BOTPA,DLWQFGKMILKVAGKLPFPYYGAYGCYCGWGGRGKPKDPTDRCCFVHDCC,Bothrops pauloensis (Neuwied's lancehead) (Bothrops neuwiedi pauloensis),P0DM51,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0685,Tyrosine-protein Kinase Lck,MGCGCSSHPEDDWMENIDVCENCHYPIVPLD,Homo sapiens,P06239,T-lymphocyte specific kinase,CD4/CD8 coreceptor activation,0
+AMP-0272,M-myrmeciitoxin-Mp1a,GLGSVFGRLARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q07932,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0132,His3-(34-43)-peptide,HEKHHSHRGY,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0679,Talin-1 Head Domain Fragment,MVALSLKISIGNVVKTMQFEPSTMVYDACRI,Homo sapiens,Q9Y490,Mechanosensitive cytoskeletal,Integrin affinity activation,0
+AMP-0061,Pediocin PA-1,KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC,Pediococcus acidilactici,P36495,Class II bacteriocin,Listeria monocytogenes receptor target,1
+AMP-0311,M-zodatoxin-Lt4a peptide,GLKDKFKSMGEKLKQYIQTWKAKF,Lachesana tarabaevi (Spider),Q1ELU5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0031,Brevinin-1E,FLPLLAGLAANFLPKIFCKITRKC,Pelophylax esculentus,P80387,Brevinin family,Gram-positive and Gram-negative,1
+AMP-0070,Hylin a1,IFGAILPLALGALKNLIK,Hypsiboas albopunctatus,P85178,Tree frog AMP,Membrane curvature & pore generation,1
+AMP-0418,Antibacterial peptide FALL-39,FASLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA,Hylobates moloch (Silvery gibbon),Q1KLX8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0632,Beta-Tubulin Fragment,MREIVHIQAGQCGNQIGAKFWEVISDEHGID,Homo sapiens,P07437,Cytoskeletal protein,Microtubule assembly subunit,0
+AMP-0045,BMAP-27,GRFKRFRKKFKKLFKKLS,Bos taurus,P54228,Bovine Cathelicidin,Rapid outer membrane permeabilizer,1
+CTL-0624,Brain Natriuretic Peptide (BNP),SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,Homo sapiens,P16860,Cardiovascular hormone,Ventricular pressure reduction,0
+AMP-0071,Maximin 1,ILGPVLGLVSDTLDDVLGIL,Bombina maxima,P83431,Maximin,Skin defense antimicrobial,1
+AMP-0515,DEFH2_MAGGI,LLTLAVLLMVSADMAFAGFGCPGDQYECNRHCRSIGCRAGYCDAVTLWLRCTCTGCSGKK,Magallana gigas (Pacific oyster) (Crassostrea gigas),Q20A05,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0653,Malate Dehydrogenase Fragment,MASEPIRVLVTGAAGQIAYSLLYSIGNGSVF,Homo sapiens,P40925,Krebs cycle enzyme,Malate oxidation to oxaloacetate,0
+AMP-0250,Maximin-1,GIGTKILGGVKTALKGALKELASTYAN,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),P83080,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0210,Kappa-stichotoxin-She3a,RSCIDTIPKSRCTAFQCKHSMKYRLSFCRKTCGTC,Stichodactyla helianthus (Sun anemone) (Stoichactis helianthus),P29187,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0166,PENK(111-130),MDELYPLEVEEEANGGEVLG,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0397,Caerin-1.1.1,LSVLGSVAKHVLPHVVPVIAEHL,Pelodryas splendida (Magnificent tree frog) (Litoria splendida),P62568,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0165,Synenkephalin,ECSQDCATCSYRLARPTDLNPLACTLECEGKLPSLKTWETCKELLQLTKLELPPDATSALSKQEESHLLA,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0555,CECB1_CULPP,MNFNKLFLIVILAALLLLGQTEAGRLKKLGKKIEKAGKRVFNAVQKGLPVAAGVQALGR,Culex pipiens pipiens (Northern house mosquito),Q86PR5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0324,Alpha-defensin 6/12,DLVCYCRARGCKGRERMNGTCRKGHLLYMLCCR,Mus musculus (Mouse),P50704,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0066,Chrysophsin-1,FIGHFLKGIVGLGKMSAHALR,Chrysophrys major,P83417,Chrysophsin,Bacterial membrane destruction,1
+AMP-0391,Pteroicidin-alpha,FIHHIIGGLFHVGKSIHDLIR,Pterois volitans (Red lionfish) (Gasterosteus volitans),P0DUJ5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0050,Tachyplesin I,KWCFRVCYRGICYRRCR,Tachypleus tridentatus,P19253,Tachyplesin,Gram-negative and Gram-positive envelope,1
+AMP-0119,His3-(20-31)-peptide,DSHAKRHHGYKR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0193,Drosocin,GKPRPYSPRPTSHPRPIRV,Drosophila melanogaster (Fruit fly),P36193,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0040,Citropin 1.1,GLFDVIKKVASVIGGL,Litoria citropa,P81861,Citropin,Antibacterial & signaling inhibitor,1
+AMP-0260,Antimicrobial peptide 2c-3,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKRYEEQQREDEEKYEERMKEGD,Macadamia integrifolia (Macadamia nut),Q9SPL3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0435,Scolopendrasin-1,KAVVKEFLKRKIKV,Scolopendra mutilans (Chinese red-headed centipede) (Scolopendra subspinipes mutilans),A0A0X8XYX3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0007,Cecropin B,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Hyalophora cecropia,P01508,Cecropin,Gram-negative bacteria,1
+AMP-0102,Pancreastatin,SEALAVDGAGKPGAEEAQDPEGKGEQEHSQQKEEEEEMAVVPQGLFRG,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0542,CEC_CALVI,GWLKKIGKKIGRVGQHTRDATIQGLAVAQQAANVAATAR,Calliphora vicina (Blue blowfly) (Calliphora erythrocephala),C0HJX8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0300,Antimicrobial peptide E1,AGMKNIIDAIKKKLGGKL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0504,DELTA-limacoditoxin(2)-Dv11,KRGFGKLLRKVFKVGRRVAGSAAEISGSSGGEE,Doratifera vulnerans (Mottled cup moth),P0DUS5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0500,Cathelicidin-3.4,RFRLPFRRPPIRIHPPPFYPPFRRFL,Capra hircus (Goat),P85170,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0319,Maximin-S4,RSNKGFNFMVDMIQALSK,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q5GC92,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0146,DCD-1,SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV,Homo sapiens (Human),P81605,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0570,Xenoposin precursor fragment B2,GWASKIGTQLGKMAKVGLKEFVQS,Xenopus borealis (Kenyan clawed frog),C0HK86,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0354,Alpha-defensin 20,SRDLICYCRKGGCNRGEQVYGTCSGRLLFCCRRRHRH,Mus musculus (Mouse),Q45VN2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0209,OXLA_BOTJA,ADDKNPLEECFRETDYEEFLEIARNGLKATSNPKRVV,Bothrops jararaca (Jararaca) (Bothrops jajaraca),P0DI88,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0694,Claudin-1 N-term Segment,MANAGLQLLGFILAFLGWIGAIVSTALPQWR,Homo sapiens,O95832,Tight junction component,Epithelial paracellular barrier gate,0
+AMP-0362,Immune-induced peptide 13,QFHVERPDRTVDFGNGGFSAQRF,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0087,Protonectin,ILGTILGLLKSL,Agelaia pallipes,P84184,Wasp venom peptide,Bactericidal pore formation,1
+AMP-0474,Beta-defensin 107,AIHRALISKRMEGHCEAECLTFEVKIGGCRAELAPFCCKNRKKH,Homo sapiens (Human),Q8IZN7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0423,Antibacterial peptide LL-37,RLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),Q1KLY4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0389,Jindongenin-1a,DSMGAVKLAKLLIDKMKCEVTKAC,Amolops jingdongensis (Chinese torrent frog),G3ETQ2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0042,Dermcidin,SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSVL,Homo sapiens,P81605,Dermcidin,Human sweat antimicrobial,1
+AMP-0109,GE-25,GWRPSSREDSLEAGLPLQVRGYPEE,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0466,DEF2_GALME,DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE,Galleria mellonella (Greater wax moth),P85215,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0057,Moricin,AKIPIKAIKTVGKAVGKGLRAINIASTANDVFNFLKPKKRKA,Manduca sexta,P81585,Insect basic AMP,Membrane permeability increase,1
+AMP-0480,Sarcotoxin-1C,GWLRKIGKKIERVGQHTRDATIQVLGIAQQAANVAATAR,Sarcophaga peregrina (Flesh fly) (Boettcherisca peregrina),P08377,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0514,BDEF_RUDPH,AVPDVAFNAYG,Ruditapes philippinarum (Japanese carpet shell) (Venerupis philippinarum),P86316,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0025,HNP-2 (Alpha-Defensin 2),CYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Phagocytic vacuole bactericide,1
+AMP-0219,Acipensin 1,SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVY,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0431,Maximin-H9,ILGPVLGLVSNALGGLIKKI,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T80,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0282,Panurgin 1,LNWGAILKHIIK,Panurgus calcaratus (Solitary bee),C0HL84,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0111,GR-44,GYPEEKKEEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRR,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0083,Opistoporin 1,GKLISGLIKPFLK,Opistophthalmus carinatus,P83242,Scorpion AMP,Microbial cell envelope,1
+AMP-0052,Androctonin,NGVYCQIRACDILKYRRDCARCL,Androctonus australis,P80047,Scorpion defensin-like,Bacterial envelope target,1
+AMP-0221,Acipensin 4,SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAG,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0559,Beta-defensin 3,KKVYNAVSCMTNGGICWLKCSGTFREIGSCGTRQLKCCKKK,Rattus norvegicus (Rat),Q32ZI4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0452,Cecropin-A,RWKVFKKIEKVGRNIRDGVIKAAPAIEVLGQAKAL,Heliothis virescens (Tobacco budworm moth),P83413,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0303,Rhesus theta defensin-1/2 subunit B,RCLCRRGVC,Macaca mulatta (Rhesus macaque),P82271,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0552,CECB_ANOGA,MNFTKLFILVAIAVLVVVGVQPVDGAPRWKFGKRLEKLGRNVFRAAKKALPVIAGYKALG,Anopheles gambiae (African malaria mosquito),Q8MUF4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0216,Fallaxidin-5.2,FFRVLAKLGKLA,Drymomantis fallax (Eastern dwarf tree frog) (Litoria fallax),B5LUR0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0236,Probable antimicrobial peptide B1,KGWFKAMKSIAKFIAKEKMKEHL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0019,Temporin A,FLPLIGRVLSGIL,Rana temporaria,P56933,Temporin short AMP,Staphylococcus aureus,1
+AMP-0251,Maximin-H1,ILGPVISTIGGVLGGLLKNL,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),P83080,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0261,Antimicrobial peptide 2c-2,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQKR,Macadamia integrifolia (Macadamia nut),Q9SPL3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0430,Maximin-H11,ILGPVLGLVGSALGGLIKKI,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T65,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0265,"Centrocin 1, light chain",DIGKYCGYAHALN,Echinus esculentus (Sea urchin),A0A144LUY5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0062,Enterocin A,TTHSFLNVIKGTTCGYTYLSTGTCHTLTKNKC,Enterococcus faecium,P86183,Bacteriocin,Foodborne bacterial pathogens,1
+AMP-0214,Cathelicidin-1,RVKRVWPLVIRTVIAGYNLYRAIKKK,Gallus gallus (Chicken),Q6QLQ5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0548,Bactericidin B-2,WNPFKELERAGQRVRDAVISAAPAVATVGQAAAIARG,Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm),P14662,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0030,Cathelicidin-BF,KFFKKLKKSVKKRAKEFFKKPRVIGVSIPF,Bungarus fasciatus,Q6T144,Snake cathelicidin,Broad spectrum & anti-inflammatory,1
+AMP-0183,Serpinin,PEDQELESLSAIEAELEKVAHQLEEL,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0307,Repetitive polypeptide element type 1d,AGINRKLMEMVNKLRKVQ,Lachesana tarabaevi (Spider),Q1ELU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0634,60S Ribosomal Protein L30,MAKIKARELRGKSKGRFRGHRKTVGKGGSK,Homo sapiens,P62888,Ribosomal structural protein,Translational machinery constituent,0
+AMP-0330,Andropin,VFIDILDKVENAIHNAAQVGIGFAKPFEKLINPK,Drosophila melanogaster (Fruit fly),P21663,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0437,Paralithocin 2,RSPPQCQYTNCAAVLCPAVYCANAYTPPCGCCDICPPQKYGGGYRPR,Paralithodes camtschaticus (Red king crab) (Maja camtschatica),A0A2I8B352,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0297,Probable antimicrobial peptide A13,SLLGLLDVVKSKIGQTGLL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0586,Beta-defensin 123,GTQRCWNLYGKCRHRCSKKERVYVYCVNNKMCCVKPKYQPKERWWRF,Pongo pygmaeus (Bornean orangutan),A4H236,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0343,Beta-defensin 7,QGVRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPRIKCCR,Bos taurus (Bovine),P46165,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0599,DEF2_ORNSA,GYGCPFNQYQCHSHCKGIRGYKGGYCKGAFKQTCKCY,Ornithodoros savignyi (African eyed tampan) (Soft tick),P0DV61,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0409,Phylloseptin-H5,FLSLIPHAINAVSAIAKHF,Pithecopus hypochondrialis (Orange-legged leaf frog) (Phyllomedusa hypochondrialis),P84572,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0327,Defensin alpha 4,ACYCRIGACVSGERLTGACGLNGRIYRLCCR,Rattus norvegicus (Rat),Q62714,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0363,Immune-induced peptide 8,QFHVERPDRTVDFGNGGFSAQ,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0616,Substance P,RPKPQQFFGLM,Homo sapiens,P20366,Tachykinin neuropeptide,Nociception and neuroinflammation,0
+AMP-0577,Beta-defensin 105A,GLDFSQPFPSGEFAVFESCKFSRGKCRKECLENEKPDGNCRLNFLCCRQSI,Hylobates lar (Lar gibbon) (White-handed gibbon),A4H208,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0232,Probable antimicrobial peptide C15,VIWLPALKFLASHIAMEQLSKL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0337,Alpha-defensin 7,LRDLVCYCRTRGCKRREHMNGTCRKGHLMYTLCCR,Mus musculus (Mouse),P50705,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0654,Aldolase A Fragment,MPYQYPALTPEQKKELSDIAHRIVAPGKGIL,Homo sapiens,P04075,Glycolysis lyase,"Fructose 1,6-bisphosphate cleavage",0
+AMP-0164,Metchnikowin,HRHQGPIFDTRPSPFNPNQPRPGPIY,Drosophila melanogaster (Fruit fly),Q24395,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0287,Jellein-4,TPFKISIH,Apis mellifera (Honeybee),O18330,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0611,Motilin,FVPIFTYGELQRMQEKERNKGQ,Homo sapiens,P12928,Gut motility peptide,Migrating motor complex control,0
+AMP-0438,U-poneritoxin(01)-Om4a,GVKELFGKAWGLVKKHLPKACGLLGYVKQ,Odontomachus monticola (Trap-jaw ant),A0A348G5W0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0496,Peptide PGLa-BM2,GMASKAGQVLGKLAKVAIGAA,Xenopus boumbaensis (Mawa clawed frog),C0HKL8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0278,Figainin 1,FIGTLIPLALGALTKLFK,Boana raniceps (Chaco tree frog) (Hyla roeschmanni),A0A2L2DDE6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0440,Fallaxidin-4.1,GLLSFLPKVIGVIGHLIHPPS,Drymomantis fallax (Eastern dwarf tree frog) (Litoria fallax),B5LUQ4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0105,WA-8,WSKMDQLA,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0115,p-Glu serpinin precursor,QELESLSAIEAELEKVAHQLQAL,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0626,Ubiquitin N-term Fragment,MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEG,Homo sapiens,P0CG48,Cytoplasmic housekeeping,Protein degradation tag segment,0
+AMP-0545,CECA_CULPP,MNFNKLFVIVLLAALAFFGQAEAGGLKKFGKKLEGVGKRVFKASEKALPVVTGFKALGK,Culex pipiens pipiens (Northern house mosquito),Q86PR6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0689,Ras-related C3 Botulinum Substrate 1,MQAIKCVVVGDGAVGKTCLLISYTTNAFPGEY,Homo sapiens,P63000,Small Rho GTPase,Lamellipodia membrane ruffling,0
+AMP-0093,Eumenitin,LNLKGIFKKVASLLT,Eumenes rubrofemoratus,P83244,Hornet venom AMP,Microbicidal action,1
+AMP-0008,Buforin II,TRSSRAGLQFPVGRVHRLLRK,Bufo gargarizans,P55897,Histone-derived AMP,Intracellular DNA/RNA binding,1
+AMP-0090,Ponericin W1,FLGSLFSGFLKGIKTSL,Pachycondyla goeldii,P82417,Ant venom AMP,Bacterial membrane destabilizer,1
+AMP-0528,DEFN_HELVI,DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET,Heliothis virescens (Tobacco budworm moth),P81544,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0614,Angiotensin II,DRVYIHPF,Homo sapiens,P01019,Vascular peptide,Vasoconstriction and aldosterone release,0
+CTL-0608,PTH (1-34),SVSEIQLMHNLGKHLNSMERVEWLRKKLQDVHNF,Homo sapiens,P01270,Endocrine hormone fragment,Parathyroid receptor activation,0
+CTL-0684,Tyrosine-protein Kinase Fyn,MGCVQCKDKEATKLTEERDGSLNQSSGYRYG,Homo sapiens,P06241,Src-family kinase,T-cell receptor downstream signaling,0
+AMP-0364,Immune-induced peptide 5,QFHVERPDRTVDFGNGG,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0637,Thioredoxin Active Site Segment,MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPC,Homo sapiens,P10599,Redox regulatory enzyme,Cellular disulfide reductase,0
+AMP-0141,Antimicrobial peptide VGF[554-577],TLQPPSALRRRHYHHALPPSRHYP,Homo sapiens (Human),O15240,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0029,Human Alpha-Defensin 6,AFTCHCRRSCYSTEYSYGTCTVMGINHRFCCL,Homo sapiens,Q01524,Enteric defensin,Nanometre net bacterial entrapment,1
+AMP-0044,SMAP-29,RGLRRLGRKIAHGVKKYGPTVLRIIRIAG,Ovis aries,P80958,Cathelicidin,Pseudomonas & multi-drug resistant strains,1
+AMP-0043,Alyteserin-1a,GLKEIFKAGLGSLVKGIAAHVAS,Alytes obstetricans,P84877,Alyteserin,Inhibition of bacterial pathogens,1
+AMP-0074,Fallaxin,GVVDILKGAAKDLAGHLASKVMNKL,Litoria fallax,P83088,Fallaxin,Leukemia & bacterial cells,1
+AMP-0168,Met-enkephalin-Arg-Gly-Leu,YGGFMRGL,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0211,CECA_ANOGA,MNFSKIFIFVVLAVLLLCSQTEAGRLKKLGKKIEGAGKRVFKAAEKALPVVAGVKALG,Anopheles gambiae (African malaria mosquito),P82290,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0609,Secretin,HSDGTFTSELSRLREGARLQRLLQGLV,Homo sapiens,P09683,Gastrointestinal peptide,Pancreatic bicarbonate secretion,0
+AMP-0067,Misgurin,RQRVEELSKRFRG,Misgurnus anguillicaudatus,P83418,Loach AMP,Strong antibacterial activity,1
+AMP-0012,Dermaseptin-S1,ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ,Phyllomedusa sauvagii,P24300,Dermaseptin,Fungal and bacterial membranes,1
+AMP-0580,Corticostatin-2,GRCVCRKQLLCSYRERRIGDCKIRGVRFPFCCPR,Oryctolagus cuniculus (Rabbit),P07468,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0660,Succinate Dehydrogenase Flavoprotein,MAAVVALSLRRRLATTLRRCASTRGVPAVCL,Homo sapiens,P31040,Respiratory complex II,Succinate oxidation & ubiquinone reduction,0
+AMP-0179,Pancreastatin,AAPGWPEDGAGKMGAEEAKPPEGKGEWAHSRQEEEEMARAPQVLFRG,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0533,DEFB_ANOCP,VTCDLLSFEAKGFAANHSICAAHCLVIGRKGGACQNGVCVCRN,Anomala cuprea (Cupreous chafer beetle),P83668,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0358,Alpha-defensin-related sequence 2,LGWGRRCPQCPRCPSCPSCPRCPRCPRCKCNPK,Mus musculus (Mouse),P17534,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0655,Glucokinase N-term,MLDDRARMEAAKKEKVEQILAEFQLQEEDLK,Homo sapiens,P35557,Glucose sensor kinase,Hepatic glucose phosphorylation,0
+AMP-0292,C-terminal cystine-stabilized LaIT3,KVQQACAFNKDLAGWCEKSCQEAEGKKGYCHGTKCKCGKPIDY,Liocheles australasiae (Dwarf wood scorpion),P0DRM3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0696,Gap Junction Alpha-1 (Connexin 43),MGDWSALGKLLDKVQAYSTAGGKVWLSVLF,Homo sapiens,P17302,Intercellular channel,Direct metabolic cell-to-cell coupling,0
+AMP-0178,Chromacin,YPGPQAKEDSEGPSQGPASREK,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0544,CECB2_CULPP,MNFNKLFLIVILAALLLLGQTEAGRSKKLGKKIEKAGKRVFNAAQKGLPVAAGVQALGR,Culex pipiens pipiens (Northern house mosquito),Q86PR4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0444,Venom peptide 2a,FDLLGLVKKVASAL,Eumenes pomiformis (Potter wasp) (Vespa pomiformis),D1MEI7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0084,Mastoparan,INLKALAALAKKIL,Vespula lewisii,P01511,Wasp venom AMP,Membrane channel formation & G-protein,1
+CTL-0641,Superoxide Dismutase [Cu-Zn],MATKAVCVLKGDGPVQGIINFEQKESNGPV,Homo sapiens,P00441,Antioxidant enzyme,Superoxide radical dismutation,0
+AMP-0355,Alpha-defensin 23,LRDLVCYCRTRGCKRRERMNGTCRKGHLIYTLCC,Mus musculus (Mouse),Q5G866,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0494,Peptide PGLa-BM3,GMASTAGSVLGKLAKAVAIGAL,Xenopus boumbaensis (Mawa clawed frog),C0HKL9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0671,14-3-3 Protein Zeta,MDKNELVQKAKLAEQAERYDDMAACMKSVTE,Homo sapiens,P63104,Phosphoserine binding adapter,Kinase signaling regulation,0
+AMP-0080,Pandinin 1,KFWGKIKKGAKNLAMGLAKNFAKGG,Pandinus imperator,P83239,Scorpion venom AMP,Bacterial membrane pore induction,1
+AMP-0024,HNP-1 (Alpha-Defensin 1),ACYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Neutrophil microbicidal peptide,1
+AMP-0016,Histatin 5,DSHAKRHHGYKRKFHEKHHSHRGY,Homo sapiens,P15516,Histatin,Candida albicans antifungal,1
+AMP-0381,Nosiheptide,SCTTCECCCSCS,Streptomyces actuosus,C6FX52,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0293,Probable antimicrobial peptide H1,KGAKKAVSSPIPENIIKSLI,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0276,U1-myrmeciitoxin-Mp1f,KVLPKVMKEAIPMAVEMAKSQEEQQPQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q07932,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0652,Phosphoglycerate Kinase 1,MSLSNKLTLDKLDVKGKRVVMRVDFNVPMKN,Homo sapiens,P00558,Transferase enzyme,Reversible phosphotransfer step,0
+AMP-0315,Maximin-S1,GSNTGFNFKTLDKE,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q5GC92,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0658,Citrate Synthase Fragment,MAALLTAAARLSGATASVPVPARVLGRAPLQ,Homo sapiens,O75390,Mitochondrial matrix enzyme,Oxaloacetate condensation with Acetyl-CoA,0
+AMP-0138,Neuroendocrine regulatory peptide-1,RPESALLGGSEAGERLLQQGLAQVEA,Homo sapiens (Human),O15240,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0484,Beta-defensin C7,GPLSCRRKGGICILIRCPGPMRQIGTCFGRPVKCCRSW,Bos taurus (Bovine),O18815,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0482,CECB2_AEDAL,MNFSKLFALVLLIGLVLLTGQTEAGGLKKLGKKLEGVGKRVFKASEKALPVLTGYKAIGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),Q963A9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0034,Gaegurin-4,CLGALKKSLLGKLLGKA,Glandirana emeljanovi,P49103,Gaegurin,Lytic action on bacterial membranes,1
+CTL-0635,40S Ribosomal Protein S6,MKLNISFPATGCQKLIEVDDERKLRTFYE,Homo sapiens,P62753,Ribosomal signaling protein,Protein translation initiation,0
+AMP-0258,Cytotoxic linear peptide IsCT2f,IFGAIWNGIKS,Opisthacanthus madagascariensis (Scorpion),Q8MTX2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0010,Lactoferricin B,FKCRRWQWRMKKLGAPSITCVRRAF,Bos taurus,P24627,Beta-sheet defensin-like,Membrane depolarization,1
+AMP-0023,Human Beta-Defensin 3,GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK,Homo sapiens,P81534,Beta-defensin,MRSA and Vancomycin-resistant bacteria,1
+AMP-0383,Temporin-HN1,AILTTLANWARKFL,Odorrana hainanensis (Odor frog) (Rana hainanensis),E7EKD0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0222,Acipensin 2,SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0543,CECA2_DROYA,VFVALILAIAIGQSEAGWLKKIGKKIERVGQHTRDATIQGLGIAQQAANVAATARG,Drosophila yakuba (Fruit fly),O61281,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0683,Tyrosine-protein Kinase Lyn,MGCIKSKGKDSLSVDDSDVRDLERELQKKER,Homo sapiens,P07948,Src family kinase,B-cell receptor signaling cascade,0
+AMP-0335,Beta-defensin 4,QRVRNPQSCRWNMGVCIPFLCRVGMRQIGTCFGPRVPCCRR,Bos taurus (Bovine),P46162,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0085,Mastoparan-X,INWKGIAAMAKKLL,Vespa xanthoptera,P01512,Wasp venom AMP,Antibacterial & mast cell degranulator,1
+AMP-0336,Beta-defensin 5,QVVRNPQSCRWNMGVCIPISCPGNMRQIGTCFGPRVPCCRRW,Bos taurus (Bovine),P46163,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0248,Temporin-1Tl,FVQWFSKFLGRIL,Rana temporaria (European common frog),P57104,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0581,Neutrophil defensin 1,VTCFCRRRGCASRERHIGYCRFGNTIYRLCCRR,Mesocricetus auratus (Golden hamster),P81465,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0619,Leu-Enkephalin,YGGFL,Homo sapiens,P01210,Opioid neuropeptide,Opioid receptor agonist,0
+AMP-0204,Immune-induced peptide 16,QRPYTQPLIYYPPPPTPPRIYRA,Drosophila melanogaster (Fruit fly),Q95NH6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0197,VGF-derived peptide TLQP-62,TLQPPASSRRRHFHHALPPARHHPDLEAQARRAQEEADAEERRLQEQEELENYIEHVLLHRP,Mus musculus (Mouse),Q0VGU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0659,Isocitrate Dehydrogenase 1,MSKKISGGSVVEMQGDEMTRIIWELIKEKLI,Homo sapiens,O75874,Cellular metabolic enzyme,Isocitrate oxidative decarboxylation,0
+AMP-0328,Antibacterial factor-related peptide 2,ADIDFSTCARMDVPILKKAAQGLCITSCSMQNCGTGSCKKRSGRPTCVCYRCANGGGDIPLGAL,Caenorhabditis elegans,G5EC68,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0399,Aurein-3.1,GLFDIVKKIAGHIAGSI,Ranoidea aurea (Green and golden bell frog) (Litoria aurea),P69021,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0094,Bicarinalin,KIKSAKKVFKRMKNF,Tetramorium bicarinatum,P86184,Ant antimicrobial peptide,Broad antimicrobial spectrum,1
+AMP-0573,Alpha-defensin PhD-4,ACYCRIPACFAGERRYGTCFYLGRVWAFCC,Papio hamadryas (Hamadryas baboon),P86724,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0295,Probable antimicrobial peptide A2,SLFGLLDLVKNKVGQTGLL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0266,Figainin 2,FLGAILKIGHALAKTVLPMVTNAFKPKQ,Boana raniceps (Chaco tree frog) (Hyla roeschmanni),A0A2L2DDD0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0406,Spodomicin,VHVGPCDQVCSRIDPEKDECCRAHGYRGHSSCYYGRMECY,Spodoptera littoralis (Egyptian cotton leafworm),P83411,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0185,Cathelicidin-3,RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRPLPFPRPGPRPIPRP,Bos taurus (Bovine),P19661,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0667,Heat Shock Protein 90 (Hsp90),MPEETQTQDQPMEEEEVETFAFQAEIAQLMS,Homo sapiens,P07900,ATP-dependent chaperone,Client signaling kinase stabilization,0
+CTL-0682,Proto-oncogene Tyrosine Kinase Src,MGSNKSKPKDASQRRRSLEPAENVHGAGGGA,Homo sapiens,P12931,Cytoplasmic kinase,Signal transduction cascade initiation,0
+AMP-0154,Antibacterial peptide RK-31,RKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0076,Caerin 1.1,GLLSVLGSVAKHVLPHVVPVIAEHL,Litoria caerulea,P80391,Caerin,Inhibition of HIV & bacterial pathogens,1
+AMP-0333,Beta-defensin 4,QIINNPITCMTNGAICWGPCPTAFRQIGNCGHFKVRCCKIR,Mus musculus (Mouse),P82019,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0069,Pseudin-2,GLNALKKVFQGIHEAIKLINNHVQ,Pseudis paradoxa,P83637,Pseudin,Insulinotropic & antimicrobial peptide,1
+AMP-0597,Neutrophil defensin 3,VTCFCRRRGCASRERLIGYCRFGNTIYGLCCRR,Mesocricetus auratus (Golden hamster),P81467,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0189,Subtilosin-A,NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG,Bacillus subtilis (strain 168),O07623,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0237,H2A_HIPHI,MSGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAHRVGAGAPVYL,Hippoglossus hippoglossus (Atlantic halibut) (Pleuronectes hippoglossus),P59890,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0089,Ponericin G1,GWKDWAKKAGGWLKKKGPGMAKAALKAAMQ,Pachycondyla goeldii,P82416,Ant venom AMP,Lytic disruption of bacteria,1
+AMP-0589,DEF3_PAPHA,RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR,Papio hamadryas (Hamadryas baboon),P84758,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0118,His3-(20-32)-peptide,DSHAKRHHGYKRK,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0126,His3-(31-43)-peptide,RKFHEKHHSHRGY,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0571,Enteric beta-defensin,NPLSCRLNRGICVPIRCPGNLRQIGTCFTPSVKCCRWR,Bos taurus (Bovine),O02775,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0239,OXLA1_DABRR,ADDINPKEECFFEDDYYEFE,Daboia russelii (Russel's viper) (Vipera russelii),P86535,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0001,Magainin-2,GIGKFLHSAKKFGKAFVGEIMNS,Xenopus laevis,P11006,Cationic Alpha-helical AMP,Broad spectrum antibacterial,1
+CTL-0690,Cell Division Control Protein 42,MQTIKCVVVGDGAVGKTCLLISYTTNKFPSE,Homo sapiens,P60953,Cell polarity GTPase,Actin filopodia extension,0
+AMP-0531,DEFI_BOMPA,VTCDLLSIKGVAEHSACAANCLSMGKAGGRCENGICLCRKTTFKELWDKRF,Bombus pascuorum (Common carder bumblebee) (Apis pascuorum),P81462,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0666,Heat Shock Protein 70 (Hsp70),MAKAAAIGIDLGTTYSCVGVFQHGKVEIIAN,Homo sapiens,P0DMV8,Molecular chaperone,Proteostasis and protein refolding,0
+CTL-0607,Calcitonin,CGNLSTCMLGTYTQDFNKFHTFPQTAIGVGAP,Homo sapiens,P01258,Thyroid hormone,Calcium homeostasis regulator,0
+AMP-0279,Theta defensin subunit A,RCVCTRGFC,Papio anubis (Olive baboon),B6ULW4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0117,His3-(20-44)-peptide,DSHAKRHHGYKRKFHEKHHSHRGYR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0229,OXLA_AGKCL,ADSRNPLEEEFRETNYEEF,Agkistrodon contortrix laticinctus (Broad-banded copperhead) (Agkistrodon mokasen laticinctus),P0CC16,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0421,Antibacterial peptide LL-37,LLGDFFRKAKEKIGKESKRIVQRIKDFLRNLVPRTES,Gorilla gorilla gorilla (Western lowland gorilla),Q1KLY3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0320,Beta-defensin 119,KRHILRCMGNSGICRASCKKNEQPYLYCRNCQSCCLQSYMRISISGKEENTDWSYEKQWPRLP,Homo sapiens (Human),Q8N690,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0275,M-myrmeciitoxin-Mp1e,RVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q07932,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0534,DEF1_HOLDI,VTCDLLSLQIKGIAINDSACAAHCLAMRRKGGSCKQGVCVCRN,Holotrichia diomphalia (Korean black chafer),Q7M426,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0145,Survival-promoting peptide,YDPEAASAPGSGNPCHEASAAQKENAGEDP,Homo sapiens (Human),P81605,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0382,Brevinin-1HN1,FLPLIASLAANFVPKIFCKITKKC,Odorrana hainanensis (Odor frog) (Rana hainanensis),E7EKC4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0539,Beta-defensin 131B,FTSNDECPSEYYHCRLKCNADEHAIRYCADFSICCKLKIIQIDGQKKW,Homo sapiens (Human),A0A096LNP1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0630,Actin Cytoplasmic 1 N-term,DEDETTALVCDNGSGLVKAGFAGDDAPRAVFP,Homo sapiens,P60709,Cytoskeletal structural protein,Microfilament polymerization,0
+CTL-0602,Insulin B chain,FVNQHLCGSHLVEALYLVCGERGFFYTPKT,Homo sapiens,P01308,Peptide hormone,Glucose transport activation,0
+AMP-0269,Lantibiotic paenibacillin,ASIIKTTIKVSKAVCKTLTCICTGSCSNCK,Paenibacillus polymyxa (Bacillus polymyxa),P86013,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0465,Beta-defensin 1,DHYNCVRSGGQCLYSACPIYTRIQGTCYHGKAKCCK,Macaca mulatta (Rhesus macaque),O18794,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0047,Clavanin A,VFQFLGKIIHHVGNFVHGFSHVF,Styela clava,P80400,Histidine-rich marine AMP,pH-dependent membrane lysis,1
+AMP-0262,Antimicrobial peptide 2c-1,RQRDPQQQYEQCQKRCQRRETEPRHMQICQQRCERRYEKEKRKQQ,Macadamia integrifolia (Macadamia nut),Q9SPL3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0196,Neuroendocrine regulatory peptide-2,QAEATRQAAAQEERLADLASDLLLQYLLQGGARQRDLG,Mus musculus (Mouse),Q0VGU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0697,Desmoplakin N-term Fragment,MSNNPFELLTQRTRKTYGTLNYNPMVEP,Homo sapiens,P15924,Desmosomal plaque constituent,Intermediate filament anchoring,0
+AMP-0582,Neutrophil defensin 2,CFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ,Mesocricetus auratus (Golden hamster),P81466,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0108,AL-11,AYGFRGPGPQL,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0583,Neutrophil defensin 4,VTCFCKRPVCDSGETQIGYCRLGNTFYRLCCRQ,Mesocricetus auratus (Golden hamster),P81468,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0520,Beta-defensin 1,DHYNCVKGGGQCLYSACPIYTKVQGTCYGGKAKCCK,Saguinus oedipus (Cotton-top tamarin) (Oedipomidas oedipus),Q95M66,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0686,Transforming Protein H-Ras,MTEYKLVVVGAGGVGKSALTIQLIQNHFVDE,Homo sapiens,P01112,Small GTPase,MAPK kinase signaling trigger,0
+AMP-0101,ES-43,EEEEEEEEEAEAGEEAVPEEEGPTVVLNPHPSL,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0351,Beta-defensin 4,QSINNPITCLTKGGVCWGPCTGGFRQIGTCGLPRVRCCKKK,Rattus norvegicus (Rat),O88514,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0623,Atrial Natriuretic Peptide (ANP),SLRRSSCFGGRMDRIGAQSGLGCNSFRY,Homo sapiens,P01160,Cardiac hormone,Renal sodium excretion regulator,0
+AMP-0334,Alpha-defensin 17,LRDLVCYCRKRGCKRREHMNGTCRKGHLLYTLCCR,Mus musculus (Mouse),Q64016,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0180,Catestatin,RSMRLSFRARGYGFRGPGLQL,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0305,Lantibiotic lichenicidin VK21 A1,TITLSTCAILSKPLGNNGYLCTVTKECMPSCN,Bacillus licheniformis,P86475,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0350,GYGGYGGY-amide,GYGGYGGY,Caenorhabditis elegans,O44662,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0150,Antibacterial peptide FALL-39,FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0125,His3-(31-44)-peptide,RKFHEKHHSHRGYR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0551,CECC_ANOGA,MNFKLIFLVALVLMAAFLGQTEGRRFKKFLKKVEGAGRRVANAAQKGLPLAAGVKGLVG,Anopheles gambiae (African malaria mosquito),Q8MUF3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0604,Somatostatin-14,AGCKNFFWKTFTSC,Homo sapiens,P61278,Regulatory peptide hormone,Growth hormone release inhibitor,0
+AMP-0186,Defensin alpha-like protein 1,LRVRRTLQCSCRRVCRNTCSCIRLSRSTYAS,Rattus norvegicus (Rat),Q4JEI2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0640,Cyclophilin A Fragment,MVNPTVFFDIAVDGEPLGRVSFELFADKVP,Homo sapiens,P62937,Peptidyl-prolyl cis-trans isomerase,Protein folding chaperone,0
+AMP-0394,Gallinacin-1,GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIWG,Gallus gallus (Chicken),P46156,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0688,Transforming Protein RhoA,MAAIRKKLVIVGDGACGKTCLLIVFSKDQFP,Homo sapiens,P61586,Rho family GTPase,Stress fiber and actomyosin formation,0
+AMP-0345,Alpha-defensin 10,LRDLVCYCRKRGCKGRERMNGTCRKGHLLYTMCCR,Mus musculus (Mouse),P50708,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0643,Myoglobin Fragment,GLSDGEWQLVLNVWGKVEADIPGHGQEVLIR,Homo sapiens,P02144,Oxygen transport protein,Muscle oxygen storage,0
+AMP-0143,Hepcidin-25,DTHFPICIFCCGCCHRSKCGMCCKT,Homo sapiens (Human),P81172,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0142,VGF-derived peptide TLQP-21,TLQPPSALRRRHYHHALPPSR,Homo sapiens (Human),O15240,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0578,Beta-defensin 106A,FFDDKCDKLRGTCKNSCEKNEELTSFCQKSLKCCRTIQTCGNTTD,Hylobates lar (Lar gibbon) (White-handed gibbon),A4H213,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0321,Beta-defensin 108B,KFKEICERPNGSCRDFCLETEIHVGRCLNSQPCCLPLGHQPRIESTTPKKD,Homo sapiens (Human),Q8NET1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0020,Temporin B,LLPIVGNLLKSLL,Rana temporaria,P56934,Temporin short AMP,Bacterial lipid bilayer lysis,1
+AMP-0173,PENK(233-254),FAEPLPSEEEGESYSKEVPEME,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0645,Hemoglobin Beta Subunit,VHLTPEEKSAVTALWGKVNVDEVGGEALGRL,Homo sapiens,P68871,Respiratory protein,Oxygen delivery to tissues,0
+AMP-0313,Frenatin 4.1,GFLEKLKTGAKDFASAFVNSIKGT,Sandyrana infrafrenata (White-lipped tree frog) (Litoria infrafrenata),Q571V3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0649,Alpha-Enolase Fragment,MSILKIHAREIFDSRGNPTVEVDLFTSKG,Homo sapiens,P06733,Glycolytic enzyme,2-phosphoglycerate dehydration,0
+AMP-0013,Dermaseptin-S4,ALWMTLLKKVLKAAAKAALNAVLVGANA,Phyllomedusa sauvagii,P24303,Dermaseptin,Rapid cytolytic activity,1
+AMP-0306,Repetitive polypeptide element type 1c,GGINRKLMEMVNKLRKVQ,Lachesana tarabaevi (Spider),Q1ELU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0026,HNP-3 (Alpha-Defensin 3),DCYCRIPACIAGERRYGTCIYQGRLWAFCC,Homo sapiens,P59665,Alpha-defensin,Microbial outer membrane target,1
+AMP-0518,DEFH1_MAGGI,LFTLVVLLMVSADMAFAGFGCPRDQYKCNSHCQSIGCRAGYCDAVTLWLRCTCTDCNGKK,Magallana gigas (Pacific oyster) (Crassostrea gigas),Q20A06,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0170,Neuropeptide BAM20,YGGFMRRVGRPEWWMDYQKR,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0478,CECB_SPOLT,ILSFVFACLLALSAVSAAPEPRWKVFKKIEKMGRNIRDGIVKAGPAIEVLGSAKALGK,Spodoptera litura (Asian cotton leafworm),Q9XZH0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0489,Beta-defensin 8,VRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR,Bos taurus (Bovine),P46166,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0246,Dermaseptin-B2,GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV,Phyllomedusa bicolor (Two-colored leaf frog) (Rana bicolor),P31107,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0299,Probable antimicrobial peptide A1,SLFGLLDLVKSKVGQTGLL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0538,DEFA_ANOCP,VTCDLLSFEAKGFAANHSICAAHCLAIGRKGGSCQNGVCVCRN,Anomala cuprea (Cupreous chafer beetle),P83669,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0273,M-myrmeciitoxin-Mp1c,LARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q07932,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0155,Antibacterial peptide KS-30,KSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0127,His3-(32-44)-peptide,KFHEKHHSHRGYR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0471,Beta-defensin 105,GLDFSQPFPSGEFAVCESCKLGRGKCRKECLENEKPDGNCRLNFLCCRQRI,Homo sapiens (Human),Q8NG35,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0342,Alpha-defensin 5,SKKLICYCRIRGCKRRERVFGTCRNLFLTFVFCCS,Mus musculus (Mouse),P28312,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0288,Jellein-1,PFKISIHL,Apis mellifera (Honeybee),O18330,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0114,Serpinin,PEDQELESLSAIEAELEKVAHQLQAL,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0368,Bombinin-BO1,GIGSAILSAGKSIIKGLAKGLAEHF,Bombina orientalis (Oriental fire-bellied toad),A0A219CMY0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0174,Casocidin-1,KTKLTEEEKNRLNFLKKISQRYQKFALPQYLKTVYQHQK,Bos taurus (Bovine),P02663,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0356,Neutrophil antibiotic peptide NP-2,VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR,Rattus norvegicus (Rat),Q62715,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0058,Nisin A,ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK,Lactococcus lactis,P13068,Lantibiotic,Lipid II binding & pore formation,1
+AMP-0491,Peptide PGLa-B1,GMASKAGTIAGKIAKTAIKLAL,Xenopus borealis (Kenyan clawed frog),C0HK88,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0223,Acipensin 6,ILELAGNAARDNKKTRIIPRHLQL,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0281,Peptide Im-5,FLGSLFSIGSKLLPGVIKLFQRKKQ,Isometrus maculatus (Lesser brown scorpion) (Scorpio maculatus),C0HL58,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0018,Aurein 2.2,GLFDIVKKVVGALGSL,Litoria aurea,P82399,Aurein family,Membrane disruption,1
+AMP-0405,Aurein-2.3,GLFDIVKKVVGAIGSL,Ranoidea aurea (Green and golden bell frog) (Litoria aurea),P82390,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0323,Beta-defensin 10,QGVRSYLSCWGNRGICLLNRCPGRMRQIGTCLAPRVKCCR,Bos taurus (Bovine),P46168,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0256,Cytotoxic linear peptide IsCTf,ILGKIWEGIKS,Opisthacanthus madagascariensis (Scorpion),Q8MMJ7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0481,CECL_AEDAE,MNFTKLFAIVLLAALVLLGQTEAGGLKKLGKKLEGAGKRVFKASEKALPVVVGIKAIGK,Aedes aegypti (Yellowfever mosquito) (Culex aegypti),Q17NR1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0668,Heat Shock Protein 27 (Hsp27),MTERRVPFSLLRGPSWDPFRDWYPHSRLFDQ,Homo sapiens,P04792,Small stress chaperone,Actin filament protection,0
+AMP-0191,Alpha-defensin 2,LRDLVCYCRTRGCKRRERMNGTCRKGHLMYTLCCR,Mus musculus (Mouse),P28309,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0517,Beta-defensin 1,SRRSCHRNKGVCALTRCPRNMRQIGTCFGPPVKCCRKK,Capra hircus (Goat),O97946,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0691,Beta-Catenin N-term,MATQADLMELDMAMEPDRKAAVSHWQQQSYL,Homo sapiens,P35222,Wnt pathway transcriptional factor,Adherens junction & gene expression,0
+AMP-0426,Maximin-4,GIGGVLLSAGKAALKGLAKVLAEKYAN,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T42,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0095,Lactoferrin Chimera,RRWQWRMKKLG,Synthetic / Bos taurus,P24627,Engineered minimal AMP,Membrane depolarizer,1
+AMP-0181,GE-25,GWRPNSREDSVEAGLPLQVRGYPEE,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0302,Protonectin,ILGTILGLLKGL,Agelaia pallipes pallipes (Neotropical social wasp),P69437,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0427,Maximin-H3,ILGPVLGLVGNALGGLIKKI,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T42,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0532,Sapecin-C,ATCDLLSGIGVQHSACALHCVFRGNRGGYCTGKGICVCRN,Sarcophaga peregrina (Flesh fly) (Boettcherisca peregrina),P31530,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0454,CECC_HELVI,RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK,Heliothis virescens (Tobacco budworm moth),P83415,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0487,Beta-defensin 11,GPLSCRRNGGVCIPIRCPGPMRQIGTCFGRPVKCCRSW,Bos taurus (Bovine),P46169,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0429,Maximin-H14,ILGPVLGLVGEPLGGLIKKI,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T46,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0006,Cecropin A,KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,Hyalophora cecropia,P01507,Cecropin,Lytic pore formation in E. coli,1
+AMP-0046,BMAP-28,GGLRSLGRKILRAWKKYGPIIVPIIRIG,Bos taurus,P54229,Bovine Cathelicidin,Bacterial respiratory chain damage,1
+CTL-0676,Ezrin N-term Fragment,MPKPINVRVTTMDAELEFAIQPNTTGKQLFD,Homo sapiens,P15311,ERM structural adapter,Membrane-cytoskeleton linker,0
+AMP-0572,Defensin-B3,GISRVRICREKGGHCDADCHLEERHLGGCRAAYLTFCC,Ornithorhynchus anatinus (Duckbill platypus),P0C8A7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0172,Enkelytin,FAEPLPSEEEGESYSKEVPEMEKRYGGFM,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0017,Aurein 1.2,GLFDIIKKIAESF,Litoria aurea,P82396,Aurein family,Gram-positive bacteria & tumors,1
+AMP-0049,Polyphemusin I,RRWCFRVCYRGICYRKCR,Limulus polyphemus,P14215,Horseshoe crab AMP,LPS neutralizer and bactericide,1
+CTL-0674,Profilin-2 Segment,MAGWQSYVDNLMCDGCCQEAAIVGYCDAKYV,Homo sapiens,Q9NZ08,Neuronal actin regulator,Synaptic plasticity and dendritic growth,0
+CTL-0638,Calmodulin EF-Hand Fragment,MADQLTEEQIAEFKEAFSLFDKDGDGTITTKELGT,Homo sapiens,P62158,Calcium sensor protein,Intracellular calcium signaling,0
+AMP-0004,Melittin,GIGAVLKVLTTGLPALISWIKRKRQQ,Apis mellifera,P01501,Linear cationic peptide,Membrane pore formation / broad spectrum,1
+AMP-0449,Senegalin,FLPFLIPALTSLISSL,Kassina senegalensis (Senegal running frog) (Cystignathus senegalensis),L0P323,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0412,Lantibiotic epilancin 15X,SASIVKTTIKASKKLCRGFTLTCGCHFTGKK,Staphylococcus epidermidis,P86047,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0317,Maximin-S5,GSNKGFNFMVDMIQALSK,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q5GC92,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0642,Lysozyme C N-term,KVFERCELARTLKRLGMDGYRGISLANWMCL,Homo sapiens,P61626,Enzymatic protein fragment,Bacteriolytic enzyme structural fragment,0
+AMP-0284,Plantazolicin,RCTCTTIISSSSTF,Bacillus velezensis (strain DSM 23117 / BGSC 10A6 / LMG 26770 / FZB42) (Bacillus amyloliquefaciens subsp. plantarum),D3VML5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0501,Lingual antimicrobial peptide,VRNSQSCRRNKGICVPIRCPGSMRQIGTCLGAQVKCCRRK,Bos taurus (Bovine),Q28880,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0286,Jellein-2,TPFKISIHL,Apis mellifera (Honeybee),O18330,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0413,Melectin,GFLSILKKVLPKVMAHMK,Melecta albifrons (Cuckoo bee) (Melecta punctata),P86170,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0226,Frenatin 2.3S,GLVGTLLGHIGKAILGG,Sphaenorhynchus lacteus (Orinoco lime treefrog) (Hyla lactea),L0L3V3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0027,HNP-4 (Alpha-Defensin 4),VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV,Homo sapiens,P12838,Alpha-defensin,Herpes simplex virus and bacteria,1
+AMP-0584,Beta-defensin 123,GTQRCWNLYGKCRHRCSKKERVYVYCLNNKMCCVKPKYQPKEKWWPF,Macaca mulatta (Rhesus macaque),Q5J5D0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0264,"Centrocin 1, heavy chain",GWWRRTVDKVRNAGRKVAGFASKACGALGH,Echinus esculentus (Sea urchin),A0A144LUY5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0051,Gomesin,QCRRLCYKQRCVTYCRGR,Acanthoscurria gomesiana,P83492,Spider AMP,Antimicrobial & melanoma antiproliferative,1
+AMP-0365,Immune-induced peptide 22,ARVQGENFVARDDQAGIWDNNVSVWKRPDGRTVTIDRNGHTIVSGRGRPAQHY,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0230,OXLA_BOTLC,ADDRNPLEECFRETDYEEFLEIAKNGLSTT,Bothrops leucurus (Whitetail lancehead),P0DI89,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0038,Halictine-2,GKWSKILGHLIR,Halictus sexcinctus,P85183,Bee venom AMP,Microbial membrane depolarization,1
+AMP-0158,HD5(23-94),QERADEATTQKQSGEDNQDLAISFAGNGLSALRTSGSQARATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens (Human),Q01523,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0238,Rhesus theta defensin-1/3 subunit A,RCICTRGFC,Macaca mulatta (Rhesus macaque),P82270,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0669,Chaperonin 60 (Hsp60),MLRLPTVFRQMRPVSRVLAPHLTRAYAKDVK,Homo sapiens,P10809,Mitochondrial chaperone,Mitochondrial protein folding machine,0
+AMP-0375,Cytoinsectotoxin-4,GYKDYMSKAKDLYKDIKKDKRVKAVMKSSYMKEAKKLYKDNPVRDAYQVYKGVKAGGKLLF,Lachesana tarabaevi (Spider),C0HJV6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0371,Hepcidin,RCRFCCRCCPRMRGCGICCRF,Larimichthys crocea (Large yellow croaker) (Pseudosciaena crocea),A1Z0M0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0176,Chromofungin,RILSILRHQNLLKELQDLALQGAK,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0590,Beta-defensin 103A,GIINMLQKSYCKIRKGRCALLGCLPKEEQIGSCSVSGRKCCRKKK,Equus caballus (Horse),Q0W9P9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0479,CECC1_AEDAL,MNFTKIFVLIAMAALLLVGQSEAGGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKALGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),Q9Y0X9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0513,Panusin,SYVGDCGSNGGSCVSSYCPYGNRLNYFCPLGRTCCRRSY,Panulirus argus (Caribbean spiny lobster) (Palinurus argus),F6KSI8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0195,Neuroendocrine regulatory peptide-1,RLEGSFLGGSEAGERLLQQGLAQVEA,Mus musculus (Mouse),Q0VGU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0592,Beta-defensin 106A,FFDEKCGKLKGTCKNNCGKNEELIALCQKSLKCCRTIQPCGSIID,Pongo pygmaeus (Bornean orangutan),A4H212,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0600,GLL14_CHICK,MGIFLLFLVLLAVPQAAPESDTVTCRKMKGKCSFLLCPFFKRSSGTCYNGLAKCCRPFW,Gallus gallus (Chicken),Q0E4V3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0425,Antibacterial peptide LL-37,QLGDVLQKAGEKIVRGLKNIGQRIKDFFGKLTPRTES,Ateles fusciceps (Brown-headed spider monkey) (Ateles geoffroyi fusciceps),Q1KLY7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0445,Kassorin-S,FLGGILNTITGLL,Kassina senegalensis (Senegal running frog) (Cystignathus senegalensis),E6ZBE2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0448,Secapin-2,YIIDVPPRCPPGSKFVHKRCRVIVP,Apis mellifera (Honeybee),I1VC85,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0673,Cofilin-1 Fragment,MASGVAVSDGVIKVFNDMKVRKSSTPEEVKK,Homo sapiens,P23528,Actin severing protein,Actin dynamics and turnover,0
+AMP-0579,Beta-defensin 107A,AIHRALICKRMEGHCEAECLTFEAKIGGCRAELAPFCCKNRKKH,Gorilla gorilla gorilla (Western lowland gorilla),A4H215,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0598,Beta-defensin 105A,GLEFSEPFPSGRFAVCESCKLGRGKCRKECLENEKPDGSCRLNFLCCRPRM,Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey),A4H209,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0068,Parasin I,KGRGKQGGKVRAKAKTRSS,Parasilurus asotus,P82200,Histone H2A fragment,Catfish mucosal antimicrobial,1
+AMP-0553,CECA2_AEDAL,MNFNKLFAIVLLAALVLLGQTEAGGLKKFGKKLEGVGKRVFKASEKALPVAVGIKALGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),Q963B0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0169,Neuropeptide BAM22,YGGFMRRVGRPEWWMDYQKRYG,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0447,Antimicrobial peptide 1,FLFSLIPHAIGGLISAFK,Androctonus amoreuxi (African fattail scorpion) (Scorpio amoreuxi),G8YYA5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0163,Hepcidin-1,QSHLSLCRFCCKCCRNKGCGYCCKF,Danio rerio (Zebrafish) (Brachydanio rerio),P61516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0310,Repetitive polypeptide element type 1b,GGINRKLMEMVNNLRKVQ,Lachesana tarabaevi (Spider),Q1ELU5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0194,Buletin,EALAIEDHLTQAAIRPPPILPA,Drosophila melanogaster (Fruit fly),P36193,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0629,Histone H2A N-term,MSGRGKQGGKARAKAKTRSSRAGLQFPVGRV,Homo sapiens,P0C0S8,Nuclear structural protein,Nucleosome core structure segment,0
+AMP-0366,Alpha-defensin 31,PRCPPCPRCSWCPRCPTCPRCNCNPK,Mus musculus (Mouse),P50715,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0384,Astexin-1,GLSQGVEPDIGQTYFEESRINQD,Asticcacaulis excentricus (strain ATCC 15261 / DSM 4724 / KCTC 12464 / NCIMB 9791 / VKM B-1370 / CB 48),E8RMD3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0628,Histone H4 N-term,MSGRGKGGKGLGKGGAKRHRKVLRDNIQGIT,Homo sapiens,P62805,Nuclear structural protein,Chromatin packing & epigenetic tail,0
+AMP-0495,Peptide PGLa-B2,GMASKAGSIVGKIAKIALGAL,Xenopus borealis (Kenyan clawed frog),C0HK87,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0153,Antibacterial peptide FF-33,FFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0450,Corticostatin-3,VVCACRRALCLPRERRAGFCRIRGRIHPLCCRR,Oryctolagus cuniculus (Rabbit),P01376,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0463,Gallinacin-1 alpha,GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIWG,Gallus gallus (Chicken),P46157,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0227,Frenatin 2.1S,GLVGTLLGHIGKAILG,Sphaenorhynchus lacteus (Orinoco lime treefrog) (Hyla lactea),L0L3V3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0457,PGLa,GMASKAGAIAGKIAKVALKAL,Xenopus laevis (African clawed frog),Q91826,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0560,Magainin-B2,GIGKFLHSAGKFGKAFLGEVMKS,Xenopus borealis (Kenyan clawed frog),C0HK84,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0104,WE-14,WSKMDQLAKELTAE,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0422,Antibacterial peptide FALL-39,VARLGDILQKAREKIEGGLKKLVQKIKDFFGKFAPRTES,Callithrix jacchus (White-tufted-ear marmoset) (Simia Jacchus),Q1KLY4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0596,Corticostatin-6,GICACRRRFCLNFEQFSGYCRVNGARYVRCCSRR,Oryctolagus cuniculus (Rabbit),P80223,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0527,Demidefensin-3,RCICVLGIC,Macaca mulatta (Rhesus macaque),Q9GLR2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0075,Frenatin 2.1,GLVGTLLGHIGKAILSG,Litoria infrafrenata,P82398,Frenatin,Amphibian immune defense,1
+AMP-0116,Beta-defensin 106,FFDEKCNKLKGTCKNNCGKNEELIALCQKSLKCCRTIQPCGSIID,Homo sapiens (Human),Q8N104,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0408,Homotarsinin,NLVSDIIGSKKHMEKLISIIKKCR,Phyllomedusa tarsius (Brownbelly leaf frog) (Phyllomedusa tarsia),P84337,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0672,Annexin A1 N-term,MAMVSEFLKQAWFIENEEQEYVQTVKSSKGG,Homo sapiens,P04083,Membrane phospholipid binder,Inflammation resolution regulator,0
+AMP-0120,His3-(20-30)-peptide,DSHAKRHHGYK,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0054,Metchnikowin,HRHEGPYHRDNYG,Drosophila melanogaster,P83416,Proline-rich AMP,Fungal cell wall and bacterial membrane,1
+AMP-0152,Antibacterial peptide LL-23,LLGDFFRKSKEKIGKEFKRIVQR,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0404,Cathelicidin-2,RFRPPIRRPPIRPPFNPPFRPPVRPPFRPPFRPPFRPPIGPFP,Capra hircus (Goat),P82018,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0657,Glucose-6-Phosphate Isomerase,MAALTRDPQFQKLQQWYREHRSELNLRRLFD,Homo sapiens,P06744,Carbohydrate isomerase,Glucose-6-P interconversion,0
+AMP-0208,Lantibiotic mutacin-2,NRWWQGVVPTVSYECRMNSWQHVFTCC,Streptococcus mutans,O54329,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0458,PGLa-H,KIAKVALKAL,Xenopus laevis (African clawed frog),Q91826,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0486,DEFB6_BOVIN,QGVRNHVTCRIYGGFCVPIRCPGRTRQIGTCFGRPVKCCRRW,Bos taurus (Bovine),P46164,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0468,Lucifensin,ATCDLLSGTGIKHSACAAHCLLRGNRGGYCNGRAICVCRN,Lucilia cuprina (Green bottle fly) (Australian sheep blowfly),B3EWY5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0537,DEFI_TRYDI,VTCDLLSFEAKGFAANHSLCAAHCLAIGRRGGSCERGVCICRR,Trypoxylus dichotomus (Japanese rhinoceros beetle) (Allomyrina dichotoma),Q10745,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0009,Buforin I,AGRGKQGGKVRAKAKTRSSRAGLQFPVGRVHRLLRKGNY,Bufo gargarizans,P55897,Histone H2A variant,Broad spectrum antibacterial,1
+CTL-0661,Fumarate Hydratase Fragment,MYRALRLLLRSRPAASLLLRGAVCSARAASR,Homo sapiens,P07954,TCA cycle lyase,Fumarate to L-malate hydration,0
+AMP-0037,Halictine-1,GMWSKILGHLIR,Halictus sexcinctus,P85182,Bee venom AMP,Bactericidal pore former,1
+AMP-0453,CECB_HELVI,KWKVFKKIEKVGRNIRDGIVKAGPAIAVLGQAN,Heliothis virescens (Tobacco budworm moth),P83414,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0140,VGF-derived peptide TLQP-62,TLQPPSALRRRHYHHALPPSRHYPGREAQARRAQEEAEAEERRLQEQEELENYIEHVLLRRP,Homo sapiens (Human),O15240,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0254,Lantibiotic lichenicidin VK21 A2,TTPATTSSWTCITAGVTVSASLCPTTKCTSRC,Bacillus licheniformis,P86476,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0304,Ruminococcin-A,GNGVLKTISHECNMNTWQFLFTCC,Mediterraneibacter gnavus (Ruminococcus gnavus),P83674,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0523,Antimicrobial peptide THP2,LFCKRGTCHFGRCPSHLIKVGSCFGFRSCCKWPWDA,Meleagris gallopavo (Wild turkey),P80392,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0526,Defensin-2,RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR,Papio hamadryas (Hamadryas baboon),P84757,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0369,Bombinin H-BO1,IIGPVLGLVGKALGGLL,Bombina orientalis (Oriental fire-bellied toad),A0A219CMY0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0060,Epidermin,IASKFICTPGCAKTGSFNSYCC,Staphylococcus epidermidis,P08136,Lantibiotic,Bacterial cell wall synthesis inhibition,1
+AMP-0112,ER-37,EEEGSANRRPEDQELESLSAIEAELEKVAHQLQALRR,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0488,Beta-defensin 2,AVGSLKSIGYEAELDHCHTNGGYCVRAICPPSARRPGSCFPEKNPCCKYMK,Mus musculus (Mouse),P82020,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0502,Beta-defensin 7,NSKRACYREGGECLQRCIGLFHKIGTCNFRFKCCKFQIPEKKTKIL,Mus musculus (Mouse),Q91V70,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0677,Moesin N-term Fragment,MPKTISVRVTTMDAELEFAIQPNTTGKQLFD,Homo sapiens,P26038,ERM anchoring protein,Filopodia stabilization,0
+AMP-0263,Antimicrobial peptide 2d,KRDPQQREYEDCRRHCEQQEPRLQYQCQRRCQEQQ,Macadamia integrifolia (Macadamia nut),Q9SPL3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0585,Beta-defensin 104A,EFEWDRICGYGTARCRNKCRSQEYRIGRCPNTFACCLRKWDESLLNSTKP,Hylobates lar (Lar gibbon) (White-handed gibbon),A4H204,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0298,Probable antimicrobial peptide A3,SLLGLLDVVKNKVGQIGLL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0415,Dermaseptin-H4,GLWSTIKNVGKEAAIAAGKAALGAL,Pithecopus azureus (Orange-legged monkey tree frog) (Phyllomedusa azurea),Q1EJP5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0151,Antibacterial peptide LL-29,LLGDFFRKSKEKIGKEFKRIVQRIKDFLR,Homo sapiens (Human),P49913,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0434,Defensin beta 4A,GISDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,Pan troglodytes (Chimpanzee),Q9TT12,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0441,Antimicrobial peptide Xac-1,GFVALLKKLPLILKHLH,Xylocopa appendiculata circumvolans (Japanese carpenter bee),C0HKQ5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0267,Cathelicidin-related antimicrobial peptide Bf-CRAMP,KFFRKLKKSVKKRAKEFFKKPRVIGVSIPF,Bungarus fasciatus (Banded krait) (Pseudoboa fasciata),B6D434,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0606,Vasopressin (AVP),CYFQNCPRG,Homo sapiens,P01185,Neuropeptide hormone,Water resorption in kidney,0
+AMP-0360,Immune-induced peptide 6,QFHVERPGRTVDVGNGGF,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0618,Met-Enkephalin,YGGFM,Homo sapiens,P01210,Opioid neuropeptide,Endogenous analgesia signaling,0
+AMP-0039,Maculatin 1.1,GLFGVLAKVAAHVVPAIAEHF,Litoria genimaculata,P82397,Maculatin,Gram-positive cell disruption,1
+AMP-0128,His3-(32-43)-peptide,KFHEKHHSHRGY,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0424,Antibacterial peptide FALL-39,VAQLGDVLQKAGEKIVRGLKNIGQRIKDFFGKLTPRTES,Ateles fusciceps (Brown-headed spider monkey) (Ateles geoffroyi fusciceps),Q1KLY7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0417,Antibacterial peptide LL-37,RLGNFFRKAKEKIGRGLKKIGQKIKDFWGNLVPRTES,Trachypithecus cristatus (Silvered leaf-monkey) (Presbytis cristata),Q1KLX5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0308,M-zodatoxin-Lt4b peptide,SLKDKVKSMGEKLKQYIQTWKAKF,Lachesana tarabaevi (Spider),Q1ELU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0199,N-terminal peptide,QPAEIRRRYEHFLTQHVYGGITEQTCDRVMRQR,Danio rerio (Zebrafish) (Brachydanio rerio),A5HAK0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0352,Beta-defensin 1,DFASCHTNGGICLPNRCPGHMIQIGICFRPRVKCCRSW,Bos taurus (Bovine),P46159,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0613,Angiotensin I,DRVYIHPFHL,Homo sapiens,P01019,Vascular peptide,Blood pressure regulation precursor,0
+AMP-0147,Defensin beta 118,AYSGEKKCWNRSGHCRKQCKDGEAVKDTCKNLRACCIPSNEDH,Homo sapiens (Human),Q96PH6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0451,CECA_AEDAE,MNFTKLFLLIAMAVLLLTGQSEAGGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKALGK,Aedes aegypti (Yellowfever mosquito) (Culex aegypti),P82592,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0646,Serum Albumin Domain I Fragment,DAHKSEVAHRFKDLGEENFKALVLIAFAQYL,Homo sapiens,P02768,Serum transport protein,Colloid osmotic pressure & ligand carrier,0
+AMP-0522,Beta-defensin 1,QGVRNRLSCHRNKGVCVPSRCPRHMRQIGTCRGPPVKCCRKK,Ovis aries (Sheep),O19038,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0420,Antibacterial peptide FALL-39,FALLGDFFRKAKEKIGKESKRIVQRIKDFLRNLVPRTES,Gorilla gorilla gorilla (Western lowland gorilla),Q1KLY3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0443,Apidaecin -S,NKPRPQQVPPRPPHPRL,Vespula maculifrons (Eastern yellow jacket) (Wasp),C0HKX4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0620,Alpha-MSH,SYSMEHFRWGKPV,Homo sapiens,P01189,Melanocortin hormone,Melanin synthesis and appetite,0
+AMP-0148,Lactoferricin-H,GRRRSVQWCAVSQPEATKCFQWQRNMRKVRGPPVSCIKRDSPIQCIQA,Homo sapiens (Human),P02788,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0546,CECB1_AEDAE,MNFSKVFALVLLIGLVLLTGHTEAGGLKKLGKKLEGVGKRVFKASEKALPVVTGYKAIGK,Aedes aegypti (Yellowfever mosquito) (Culex aegypti),A0A023PMT2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0349,Alpha-defensin 24,LRDLVCYCRARGCKGRERMNGTCSKGHLLYMLCC,Mus musculus (Mouse),Q5G865,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0464,Beta-defensin 1,DHYNCVSSGGQCLYSACPIFTKIQGTCYGGKAKCCK,Pan troglodytes (Chimpanzee),P60023,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0326,Beta-defensin 1,DQYKCLQHGGFCLRSSCPSNTKLQGTCKPDKPNCCKS,Mus musculus (Mouse),P56386,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0187,Hepcidin-2,DINFPICRFCCQCCNKPSCGICCEE,Mus musculus (Mouse),Q80T19,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0124,His3-(31-51)-peptide,RKFHEKHHSHRGYRSNYLYDN,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0591,Beta-defensin 131A,FISNDECPSEYYYHCRLKCNADEHAIRYCADFSICCKLKIIEIHGQKKW,Pan troglodytes (Chimpanzee),Q30KJ8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0097,Ranateurin-2PRb,GLLDTLKGAAKNVVGSLASKVMEKL,Rana pretiosa,P83639,Ranatuerin,Broad spectrum antibacterial,1
+AMP-0144,Hepcidin-20,ICIFCCGCCHRSKCGMCCKT,Homo sapiens (Human),P81172,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0240,Fallaxidin-3.1,GLLDLAKHVIGIASKL,Drymomantis fallax (Eastern dwarf tree frog) (Litoria fallax),B5LUQ8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0395,M-lycotoxin-Hc1a,IWLTALKFLGKHAAKHLAKQQLSKL,Hogna carolinensis (Carolina wolf spider) (Lycosa carolinensis),P61507,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0470,Defensin MGD-1,GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRC,Mytilus galloprovincialis (Mediterranean mussel),P80571,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0198,VGF-derived peptide TLQP-21,TLQPPASSRRRHFHHALPPAR,Mus musculus (Mouse),Q0VGU4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0098,Dermaseptin-B2,GLWSTIKQKGKEAAKAAAKAALNHLVALG,Phyllomedusa bicolor,P84572,Dermaseptin,Bacterial and fungal outer walls,1
+AMP-0372,Brevinin-2JD,GLLDTFKNLALNAAKSAGVSVLNSLSCKLSKTC,Odorrana jingdongensis (Jingdong frog) (Rana jingdongensis),B3A0M3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0325,Alpha-defensin 14,LRDLVCYCRTRGCKRRERMNGTCRKGHLMHTLCCR,Mus musculus (Mouse),P50712,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0280,Theta defensin subunit D,RCFCRRGVC,Papio anubis (Olive baboon),B6ULW7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0294,Peptide G1,SWAVMLPDLVRQKLKQRW,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0255,Cytotoxic linear peptide IsCT,ILGKIWEGIKSLF,Opisthacanthus madagascariensis (Scorpion),Q8MMJ7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0401,Aurein-3.1.2,FDIVKKIAGHIAGSI,Ranoidea aurea (Green and golden bell frog) (Litoria aurea),P69021,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0123,His3-(25-32)-peptide,RHHGYKRK,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0184,p-Glu serpinin precursor,QELESLSAIEAELEKVAHQLEEL,Bos taurus (Bovine),P05059,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0203,SPbeta prophage-derived bacteriocin sublancin-168,GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR,Bacillus subtilis (strain 168),P68577,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0439,Carnocyclin-A,LVAYGIAQGTAEKVVSLINAGLTVGSIISILGGVTVGLSGVFTAVKAAIAKQGIKKAIQL,Carnobacterium maltaromaticum (Carnobacterium piscicola),B2MVM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0247,Gallinacin-2,LFCKGGSCHFGGCPSHLIKVGSCFGFRSCCKWPWNA,Gallus gallus (Chicken),P46158,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0416,Antibacterial peptide FALL-39,FARLGNFFRKAKEKIGRGLKKIGQKIKDFWGNLVPRTES,Trachypithecus cristatus (Silvered leaf-monkey) (Presbytis cristata),Q1KLX5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0617,Neuropeptide Y (NPY),YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,Homo sapiens,P01298,Neuroendocrine peptide,Appetite and circadian rhythm,0
+AMP-0130,His3-(33-43)-peptide,FHEKHHSHRGY,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0403,Defensin-B,ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSQKVCVCRN,Aedes aegypti (Yellowfever mosquito) (Culex aegypti),P81602,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0549,Bactericidin B-4,WNPFKELERAGQRVRDAIISAAPAVATVGQAAAIARG,Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm),P14664,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0631,GAPDH Enzyme Fragment,VKVGVNGFGRIGRLVTRAAFNSGKVDIINAP,Homo sapiens,P04406,Glycolytic metabolic enzyme,Glyceraldehyde 3-phosphate catalysis,0
+AMP-0220,Acipensin 3,SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPV,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0633,Cytochrome c Heme Peptide,GDVEKGKKIFIMKCSQCHTVEKGGKHKTGPN,Homo sapiens,P99999,Mitochondrial electron carrier,Oxidative phosphorylation pathway,0
+AMP-0529,DEFN_ARCDE,DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET,Archaeoprepona demophon (One-spotted leafwing butterfly),P84156,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0636,60S Ribosomal Protein L7,MPKGKKAKGKKVAPAPAVVKKQEAKKVVNP,Homo sapiens,P18124,Ribosomal structural subunit,Ribosome biogenesis component,0
+AMP-0536,DEFI_PALPR,ATCDALSFSSKWLTVNHSACAIHCLTKGYKGGRCVNTICNCRN,Palomena prasina (Green shield bug) (Cimex prasinus),P80407,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0387,Phylloseptin-S1,FLSLIPHIVSGVASIAKHF,Phyllomedusa sauvagii (Waxy monkey tree frog),F7UI84,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0675,Gelsolin N-term Segment,MAPHRPAPALLCALSLALCALSLPVRAATAS,Homo sapiens,P06396,Actin severing protein,Calcium-dependent filament regulation,0
+AMP-0510,Beta-defensin 103A,GIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK,Pan troglodytes (Chimpanzee),Q95JD2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0268,Theta defensin subunit B,RCVCRRGVC,Papio anubis (Olive baboon),B6ULW5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0442,Apidaecin +S,SNKPRPQQVPPRPPHPRL,Vespula maculifrons (Eastern yellow jacket) (Wasp),C0HKX4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0497,Peptide PGLa-R4,GMATKAGTIVGKIAKVALNAL,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP2,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0113,Serpinin-RRG,PEDQELESLSAIEAELEKVAHQLQALRRG,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0233,Probable antimicrobial peptide C17,AAWLSALKFIGKHLTKEQLKKL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0605,Oxytocin,CYIQNCPLG,Homo sapiens,P01178,Neuropeptide hormone,Uterine contraction and lactation,0
+AMP-0374,Cliotide T20,GSAIRCGESCLLGKCYTPGCTCDRPICKKN,Clitoria ternatea (Butterfly pea),C0HJS7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0234,Probable antimicrobial peptide C1,VWLSALKFLGKHLAKHQLSKL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0550,Sarcotoxin-1D,GWIRDFGKRIERVGQHTRDATIQTIAVAQQAANVAATLKG,Sarcophaga peregrina (Flesh fly) (Boettcherisca peregrina),P18312,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0318,Maximin-S2,GSNKGFNFMVDMIQALSN,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q5GC92,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0411,Cecropin-D-like peptide,ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD,Galleria mellonella (Greater wax moth),P85210,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0622,Endothelin-1,CSCSSLMDKECVYFCHLDIIW,Homo sapiens,P05305,Endothelial peptide,Potent physiological vasoconstriction,0
+AMP-0359,Immune-induced peptide 12,QFHVERPGRTVDVGNGGFYIQRG,Drosophila melanogaster (Fruit fly),C0HM00,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0259,Antimicrobial peptide 2b,DPQTECQQCQRRCRQQESDPRQQQYCQRRCKEICEEEEEYN,Macadamia integrifolia (Macadamia nut),Q9SPL3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0283,Macropin,GFGMALKLLKKVL,Macropis fulvipes (Solitary bee) (Megilla fulvipes),C0HL98,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0377,Apidaecin 1+,GKPNRPRPAPIQPRPPHPRL,Pimpla disparis (Parasitic wasp) (Coccygomimus disparis),C0HKX8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0385,Esculentin-1ISb,RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC,Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae),F1T150,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0225,Oxyopinin-4a,GIRCPKSWKCKAFKQRVLKRLLAMLRQHAF,Oxyopes takobius (Lynx spider) (Oxyopes foliiformis),F8J4S0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0680,Paxillin N-term Segment,MDDLDALLADLESTTTHIKARRPSTSPAVTL,Homo sapiens,P49023,Focal adhesion scaffold,Tyrosine kinase signaling platform,0
+AMP-0568,Magainin-B1,GKFLHSAGKFGKAFLGEVMIG,Xenopus borealis (Kenyan clawed frog),C0HK83,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0473,Beta-defensin 123,GTQRCWNLYGKCRYRCSKKERVYVYCINNKMCCVKPKYQPKERWWPF,Homo sapiens (Human),Q8N688,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0348,Alpha-defensin 26,LRDLGCYCRKRGCTRRERINGTCRKGHLMYTLCCL,Mus musculus (Mouse),Q3L180,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0506,Corticostatin-related peptide RK-1,MPCSCKKYCDPWEVIDGSCGLFNSKYICCREK,Oryctolagus cuniculus (Rabbit),P81655,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0687,Ras-related Protein Rab-5A,MASRGATRPNGPNTGNKICQFKLVLLGESAV,Homo sapiens,P20339,Endocytic GTPase,Early endosome fusion and trafficking,0
+CTL-0644,Hemoglobin Alpha Subunit,VLSPADKTNVKAAWGKVGAHAGEYGAEALER,Homo sapiens,P69905,Respiratory protein,Erythrocyte oxygen carriage,0
+CTL-0627,Ubiquitin C-term Fragment,IPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG,Homo sapiens,P0CG48,Cytoplasmic housekeeping,Isopeptide bond linkage segment,0
+CTL-0650,Pyruvate Kinase PKM Fragment,MSKPHSEAGTAFIQTQQLHAAMADTFLEHMC,Homo sapiens,P14618,Glycolytic kinase,ATP generation from phosphoenolpyruvate,0
+AMP-0557,Cecropin,RWKIFKKIEKVGQNIRDGIVKAGPAVAVVGQAATI,Bombyx mori (Silk moth),P14666,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0086,Polistes mastoparan,VNWKKIAGKVLKKVL,Polistes jadwigae,P01513,Wasp AMP,Bacterial membrane lysis,1
+AMP-0243,Polybia-mastoparan-I,IDWKKLLDAAKQIL,Polybia paulista (Neotropical social wasp) (Swarm-founding polistine wasp),P0C1Q4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0160,HD5(56-94),TSGSQARATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens (Human),Q01523,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0525,Defensin-1,RRICRCRIGRCLGLEVYFGVCFLHGRLARRCCR,Papio hamadryas (Hamadryas baboon),P84757,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0036,Phylloseptin-2,FLSLIPHAINAVSTLIKHN,Phyllomedusa hypochondrialis,P84571,Phylloseptin,Protozoan and bacterial membranes,1
+AMP-0541,Bactericidin B-3,WNPFKELERAGQRVRDAIISAGPAVATVGQAAAIARG,Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm),P14663,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0171,Neuropeptide BAM8-22,VGRPEWWMDYQKRYG,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0595,Defensin-B2,GLNNKCAYFRGQCRRKCPQRDIFFGFCRNHDQCCLSSLHTRH,Ornithorhynchus anatinus (Duckbill platypus),P0C8A6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0587,Beta-defensin 2,HGVTDSLSCRWKKGICVLTRCPGTMRQIGTCFGPPVKCCRLK,Ovis aries (Sheep),O19039,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0656,"Fructose-1,6-Bisphosphatase",MADQAPFDTDVNTLTRFVMEEGRKARGTGEL,Homo sapiens,P09467,Gluconeogenesis enzyme,"Hydrolysis of fructose 1,6-bisphosphate",0
+AMP-0096,Temporin-1DRa,HFLGTLVNLAKKIL,Rana draytonii,P83638,Temporin,Staphylococcus and yeast inhibitor,1
+AMP-0564,Xenoposin precursor fragment BM1,GWASKIGQTLGKMAKVGLHELIQPK,Xenopus boumbaensis (Mawa clawed frog),C0HKM0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0241,Lantibiotic lacticin 3147 A1,CSTNTFSLSDYWGNNGAWCTLTHECMAWCK,Lactococcus lactis subsp. lactis (Streptococcus lactis),O87236,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0461,DEFL1_CENLI,MKAIVVLLILALILCLYAMTTVEGACQFWSCNSSCISRGYRQGYCWGIQYKYCQCQ,Centruroides limpidus (Mexican scorpion),Q6GU94,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0554,CECE_BOMMO,MNFTRIIFFLFVVVFATASGKPWNIFKEIERAVARTRDAVISAGPAVRTVAAATSVASG,Bombyx mori (Silk moth),P48821,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0610,VIP (Vasoactive Intestinal Peptide),HSDAVFTDNYTRLRKQMAVKKYLNSILN,Homo sapiens,P01282,Neuropeptide,Smooth muscle relaxation,0
+AMP-0207,Amphipathic peptide VmCT1,FLGALWNVAKSVF,Vaejovis smithi (Mexican scorpion) (Vaejovis mexicanus smithi),I0DEB3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0393,Ranalexin,FLGGLIKIVPAMICAVTKKC,Aquarana catesbeiana (American bullfrog) (Rana catesbeiana),P39084,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0398,Caerin-1.1.2,SVLGSVAKHVLPHVVPVIAEHL,Pelodryas splendida (Magnificent tree frog) (Litoria splendida),P62568,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0588,DEF_TITDI,RYCPRNPEACYNYCLRTGRPGGYCGGRSRITCFCFR,Tityus discrepans (Venezuelan scorpion),P0CF77,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0218,Acipensin 5,SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVYL,Acipenser gueldenstaedtii (Russian sturgeon) (Huso gueldenstaedtii),C0HJQ3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0005,Indolicidin,ILPWKWPWWPWRR,Bos taurus,P33046,Tryptophan/Proline-rich AMP,Membrane permeabilization,1
+CTL-0621,ACTH (1-24),SYSMEHFRWGKPVGKKRRPVKVYP,Homo sapiens,P01189,Pituitary peptide hormone,Adrenocortical steroidogenesis,0
+AMP-0547,Cecropin-D,WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK,Antheraea pernyi (Chinese oak silk moth) (Bombyx pernyi),P01511,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0099,Phylloxin,GWMSKIASGIGTFLSGMQQ,Phyllomedusa bicolor,P84573,Amphibian peptide,Membrane active antimicrobial,1
+AMP-0574,Corticostatin-related peptide LCRP,CPCGRRRCCVRGLNVYCCF,Petromyzon marinus (Sea lamprey),Q10996,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0407,IKP1_PHYSA,VIEPKCYKYEGKKCPPDINPVCGTDKRTYYNECALCVFIRQSTKKADKAIKIKKWGKC,Phyllomedusa sauvagii (Waxy monkey tree frog),P83578,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0503,Tracheal antimicrobial peptide,NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK,Bos taurus (Bovine),P25068,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0048,Arenicin-1,RWCVYAYVRVRGVLVRYRRCW,Arenicola marina,P85177,Beta-hairpin marine AMP,Bacterial peptidoglycan / membrane,1
+AMP-0033,Ranatuerin-1,SMLSVLKNLGKVGLGLVACKINKQC,Lithobates catesbeianus,P80389,Amphibian AMP,Candida and bacterial pathogens,1
+AMP-0201,Alpha-defensin 3,LRDLVCYCRKRGCKRRERMNGTCRKGHLMYTLCCR,Mus musculus (Mouse),P28310,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0135,His1-(31-57)-peptide,RKFHEKHHSHREFPFYGDYGSNYLYDN,Homo sapiens (Human),P15515,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0028,Human Alpha-Defensin 5,ATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens,Q01523,Enteric defensin,Paneth cell intestinal antimicrobial,1
+CTL-0612,Gastrin-17,EGPWLEEEEEAYGWMDF,Homo sapiens,P01350,Gastrointestinal hormone,Gastric acid secretion stimulant,0
+AMP-0231,PLA2_WALAE,NLYQFKNMVQCVGTQLCVAYVKYGCYCGPG,Walterinnesia aegyptia (Desert black snake),P0DQD1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0490,Beta-defensin 12,GPLSCGRNGGVCIPIRCPVPMRQIGTCFGRPVKCCRSW,Bos taurus (Bovine),P46170,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0379,Rugosin-LK1,SIRDKIKTMAIDLAKSAGTGVLKTLICKLDKSC,Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii),C3RT23,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0289,OXLA_BOTPI,ADDKNPLEEFRETNYEVFLEIAKNGLKATSNPKRVVIVGAGMAGLSAAY,Bothrops pirajai (Piraja's lancehead),P0C2D1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0419,Antibacterial peptide LL-37,SLGNFFRKARKKIGEEFKRIVQRIKDFLQHLIPRTEA,Hylobates moloch (Silvery gibbon),Q1KLX8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0392,Pore-forming peptide amoebapore A,GEILCNLCTGLINTLENLLTTKGADKVKDYISSLCNKASGFIATLCTKVLDFGIDKLIQLIEDKVDANAICAKIHAC,Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM),P34095,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0593,Beta-defensin 107A,AIHRALICKRMEGHCEAECLTFEVKIGGCRAELAPFCCKNRKKH,Pongo pygmaeus (Bornean orangutan),A4H216,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0499,Peptide PGLa-R6,GMASTAGSVLGKLAKTAIGIL,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP4,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0139,Neuroendocrine regulatory peptide-2,QAEATRQAAAQEERLADLASDLLLQYLLQGGARQRGLG,Homo sapiens (Human),O15240,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0063,Piscidin 1,FFHHIFRGIVHVGKTIHRLVTG,Morone saxatilis,P83641,Piscidin,Fish mucosal antimicrobial,1
+AMP-0472,Beta-defensin 131A,FISNDECPSEYYHCRLKCNADEHAIRYCADFSICCKLKIIEIDGQKKW,Homo sapiens (Human),P59861,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0129,His3-(33-44)-peptide,FHEKHHSHRGYR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0678,Vinculin N-term Fragment,MPVFHTRTIESILEPVAQQISHLVIMHEEGE,Homo sapiens,P18206,Focal adhesion protein,Integrin-to-actin mechanical link,0
+AMP-0521,Beta-defensin 1,DHYICVRSGGQCLYSACPIYTKIQGTCYHGKAKCCK,Cercopithecus erythrogaster (Red-bellied monkey) (White-throated monkey),Q95M67,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0065,Piscidin 3,FIHHIFRGIVHAGRSIGRFLTG,Morone saxatilis,P83643,Piscidin,DNA condensation & membrane disruption,1
+AMP-0015,Thanatin,GSKKPVPIIYCNRRTGKCQRM,Podisus maculiventris,P55788,Beta-hairpin insect AMP,Respiratory chain uncoupling,1
+AMP-0157,Defensin alpha 5,ESLQERADEATTQKQSGEDNQDLAISFAGNGLSALRTSGSQARATCYCRTGRCATRESLSGVCEISGRLYRLCCR,Homo sapiens (Human),Q01523,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0041,Bombinin,GIGALSAKGALKGLAKGLAEHFAN,Bombina variegata,P05452,Bombinin,Skin mucosal defense peptide,1
+AMP-0493,Peptide PGLa-R3,GMASKAGTIVGKIAKVALNAL,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0380,Rugosin-LK2,SIRDKGKTIAIDLAKSAGTGVLKTLMCKLDKSC,Limnonectes kuhlii (Kuhl's Creek frog) (Rana kuhlii),C3RT24,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0188,Hepcidin,DTNFPICLFCCKCCKNSSCGLCCIT,Rattus norvegicus (Rat),Q99MH3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0217,Theta defensin subunit C,RCICLLGIC,Papio anubis (Olive baboon),B6ULW6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0053,Drosomycin,DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC,Drosophila melanogaster,P41964,Antifungal defensin,Filamentous fungi membrane,1
+AMP-0338,Alpha-defensin 8,LRDLVCYCRKRGCKRREHMNGTCRKGHLMYTLCCR,Mus musculus (Mouse),P50706,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0296,Probable antimicrobial peptide A8,SLLGLLDVVKNTVGQTGLL,Lycosa shansia (Wolf spider) (Lycosa sinensis),P0DRM5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0252,Cecropin,GWLKKIGKKIERVGQNTRDATVKGLEVAQQAANVAATVR,Glossina morsitans morsitans (Savannah tsetse fly),P83403,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0462,DBTEW_CARCR,QKKCPGRCTLKCGKHERPTLPYNCGKYICCVPVKVK,Caretta caretta (Loggerhead sea turtle),P0CAP0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0456,PYLa,YVRGMASKAGAIAGKIAKVALKAL,Xenopus laevis (African clawed frog),Q91826,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0695,Occludin Cytoplasmic Tail Fragment,MSSSARGAYVERVDSPMAYSSNGKVNHKPAY,Homo sapiens,Q16625,Tight junction transmembrane,Endothelial barrier permeability control,0
+AMP-0270,Venom peptide 2-long,EPILGIITSLLKSL,Orancistrocerus drewseni (Solitary wasp),P86147,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0202,Sporulation killing factor,CMGCWASKSIAMTRVCALPHPAMRAI,Bacillus subtilis (strain 168),O31422,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0162,Cathelin-related antimicrobial peptide,ISRLAGLLRKGGEKIGEKLKKIGQKIKNFFQKLVPQPE,Mus musculus (Mouse),P51437,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0556,CECC2_AEDAL,MNFAKVFVLVAMAVLLLVGQSEAGGLKKLGKKLEGAGKRVFNAAEKALPVVAGAKALGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),Q963A8,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0402,Temporin-1Th,LSPNLLKSLL,Rana temporaria (European common frog),P79876,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0477,CEC_OIKKI,WKPFKKIEKAVRRVRDGVAKAGPAVAVVGQAT,Oiketicus kirbyi (Bagworm moth),P83420,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0106,LF-19,LEGQEEEEDNRDSSMKLSF,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0566,Antimicrobial peptide PGQ,GVLSNVIGYLKKLGTGALNAVLKQ,Xenopus laevis (African clawed frog),P39080,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0390,DEFEU_ASPAM,GFGCPGDAYQCSEHCRALGGGRTGGYCAGPWYLGHPTCTCSF,Aspergillus amstelodami,K7N5L0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0002,Magainin-1,GIGKFLHSAGKFGKAFVGEIMKS,Xenopus laevis,P11006,Cationic Alpha-helical AMP,Gram-positive and negative bacteria,1
+CTL-0651,Lactate Dehydrogenase A,MATLKDQLIYNLLKEEQTPQNKITVVGVGAV,Homo sapiens,P00338,Anaerobic glycolysis enzyme,Pyruvate to lactate interconversion,0
+AMP-0562,Xenoposin precursor fragment R2,GWASKIGQTLGKMAKVGLQELIQPK,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0081,Pandinin 2,FWGHIWQGLKGAKNLAMGLAKNFAKGG,Pandinus imperator,P83240,Scorpion venom AMP,Potent antimicrobial activity,1
+AMP-0206,Antimicrobial peptide LyeTx 1,IWLTALKFLGKNLGKHLAKQQLAKL,Lycosa erythrognatha (Wolf spider) (Scaptocosa raptoria),C0HJU9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0035,Phylloseptin-1,FLSLIPHAINAVSAIAKHN,Phyllomedusa hypochondrialis,P84570,Phylloseptin,Potent Leishmania and bacterial lysis,1
+AMP-0509,Ostricacin-1,LFCRKGTCHFGGCPAHLVKVGSCFGFRACCKWPWDV,Struthio camelus (Common ostrich),P85113,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0428,Maximin-3,GIGGKILSGLKTALKGAAKELASTYLH,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q58T46,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0455,CECB1_AEDAL,MNFNKLFALVLLIGLVLLTGQTEAGGLKKLGKKLEGVGKRVFKASEKALPVLTGYKAIGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),Q9Y0Y0,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0367,GAKA_LACGR,MGAIIKAGAKIVGKGVLGGGASWLGWNVGEKIWK,Lactococcus garvieae,A0A1B0Z2N7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0092,Decoralin,SLLSLIRKLIT,Tetramorium bicarinatum,P85179,Ant venom AMP,Bacterial permeability,1
+AMP-0340,Neutrophil antibiotic peptide NP-1,VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR,Rattus norvegicus (Rat),Q62716,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0565,Xenoposin precursor fragment BM2,GWASKIGETLGKMAKVGLHELIQPK,Xenopus boumbaensis (Mawa clawed frog),C0HKM1,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0346,Alpha-defensin 11,LRDLVCYCRSRGCKGRERMNGTCRKGHLLYMLCCR,Mus musculus (Mouse),P50709,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0242,M-myrmeciitoxin-Mp2b,LIGLVSKGTCVLVKTVCKKVLKQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),P0C023,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0014,Esculentin-1,GIFSKLGRKKIKNLLISGLKNVGKEVGMDVVRTGIDIAGCKIKGEC,Pelophylax esculentus,P56932,Ranid AMP,Pseudomonas aeruginosa,1
+AMP-0316,Maximin-S3,GSNKGFNFMVDMINALSN,Bombina maxima (Giant fire-bellied toad) (Chinese red belly toad),Q5GC92,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0601,Insulin A chain,GIVEQCCTSICSLYQLENYCN,Homo sapiens,P01308,Peptide hormone,Glucose metabolic regulation,0
+AMP-0388,Phylloseptin-S2,FLSLIPHIVSGVASLAKHF,Phyllomedusa sauvagii (Waxy monkey tree frog),F7UI85,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0274,M-myrmeciitoxin-Mp1d,ILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ,Myrmecia pilosula (Jack jumper ant) (Australian jumper ant),Q07932,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0167,PENK(140-179),DAEEDDGLGNSSNLLKELLGAGDQREGSLHQEGSDAEDVS,Bos taurus (Bovine),P01211,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0692,Alpha-E-Catenin Segment,MSAEVARLLLEEDLELSARKVLERVRALEEA,Homo sapiens,P35221,Cell adhesion linker,Cadherin-catenin complex anchor,0
+CTL-0647,Carbonic Anhydrase 1 Segment,MASPDWGYDDKNGPEQWSKLYPIANGNNQSP,Homo sapiens,P00915,Zinc metalloenzyme,Carbon dioxide hydration catalysis,0
+AMP-0485,Beta-defensin 2,VRNHVTCRINRGFCVPIRCPGRTRQIGTCFGPRIKCCRSW,Bos taurus (Bovine),P46160,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0681,FAK Kinase N-term,MAAAYLDPNLNHTPNSSTKTHLGTGMERSPA,Homo sapiens,Q05397,Non-receptor tyrosine kinase,Cell migration and adhesion turnover,0
+AMP-0505,Antimicrobial peptide THP1,GKREKCLRRNGFCAFLKCPTLSVISGTCSRFQVCC,Meleagris gallopavo (Wild turkey),P80391,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0244,OXLA2_DABRR,ADDKNPLEECFCEDDDYCEG,Daboia russelii (Russel's viper) (Vipera russelii),P0DI90,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0567,Magainin-R2,GIKEFAHSLGKFGKAFVGGILNQ,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKN7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0563,Xenoposin precursor fragment R3,GWASKIAQTLGKMAKVGLQELIQPK,Xenopus ruwenzoriensis (Uganda clawed frog),C0HKP7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0190,Alpha-defensin 1,LRDLVCYCRSRGCKGRERMNGTCRKGHLLYTLCCR,Mus musculus (Mouse),P11477,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0476,CECA_SPOLT,IFFFVFACLLALSAVSAAPEPRWKVFKKIEKVGRNVRDGIIKAGPAIGVLGQAKALG,Spodoptera litura (Asian cotton leafworm),Q9XZG9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0511,Defensin-B1,GMKEKCVTMGGYCRKQCRVQDALSGYCRNENPCCV,Ornithorhynchus anatinus (Duckbill platypus),P0C8A5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0059,Subtilin,WKSESLCTPGCVTGALQTCFLQTLTCNCKISK,Bacillus subtilis,P10656,Lantibiotic,Membrane lipid II interaction,1
+AMP-0475,CECA1_AEDAL,MNFTKLFAIVLLAALVLLGQTEAGGLKKLGKKLEGVGKRVFKASEKALPVAVGIKALGK,Aedes albopictus (Asian tiger mosquito) (Stegomyia albopicta),P81417,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0561,Magainin-BM2,GVSKILHSAGKFGKAFLGEIMKS,Xenopus boumbaensis (Mawa clawed frog),C0HKL6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0253,Defensin Lucifensin,ATCDLLSGTGVKHSACAAHCLLRGNRGGYCNGRAICVCRN,Lucilia sericata (Green bottle fly) (Phaenicia sericata),P86471,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0022,Human Beta-Defensin 2,GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,Homo sapiens,O15263,Beta-defensin,Gram-negative bacterial envelope,1
+AMP-0314,Frenatin 4.2,GFLEKLKTGAKDFASAFVNSIK,Sandyrana infrafrenata (White-lipped tree frog) (Litoria infrafrenata),Q571V3,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0460,Beta-defensin 1,YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFG,Emys orbicularis (European pond turtle),P86253,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0161,Cathelicidin-1,RLCRIVVIRVCR,Bos taurus (Bovine),P22226,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0277,Secapin,QLITVPVRCPPNYDFIKGRCREKIP,Apis cerana (Indian honeybee),A0A0K1YW63,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0192,Defensin alpha 4,LRGLLCYCRKGHCKRGERVRGTCGIRFLYCCPRR,Mus musculus (Mouse),P28311,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0386,Palustrin-2ISa,GFMDTAKNVAKNVAVTLLDKLKCKITGGC,Odorrana ishikawae (Ishikawa's frog) (Rana ishikawae),F1T152,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0414,Lantibiotic michiganin-A,SSSGWLCTLTIECGTIICACR,Clavibacter michiganensis subsp. michiganensis,Q09T02,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0492,Peptide PGLa-BM1,GMASKAGSVLGKVAKVALKAAL,Xenopus boumbaensis (Mawa clawed frog),C0HKL7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0344,Alpha-defensin 9,LRDLVCYCRKRGCKRREHMNGTCRKGHLLYMLCCR,Mus musculus (Mouse),P50707,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0309,Repetitive polypeptide element type 1a,GGIDRKLMEVVNNLRKVQ,Lachesana tarabaevi (Spider),Q1ELU5,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0662,Glutathione S-Transferase P,MPPYTVVYFPVRGRCAALRMLLADQGQSWKE,Homo sapiens,P09211,Phase II detox enzyme,Xenobiotic glutathione conjugation,0
+AMP-0131,His3-(34-44)-peptide,HEKHHSHRGYR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0664,Catalase N-term Fragment,MADSRDPASDQMQHWKEQRAAQKADVLTTGA,Homo sapiens,P04040,Peroxisomal hemoprotein,Hydrogen peroxide breakdown,0
+AMP-0100,Vasostatin-1,LPVNSPMNKGDTEVMKCIVEVISDTLSKPSPMPVSQECFETLRGDERILSILRHQNLLKELQDLALQGAKERAHQQ,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0373,ITR1_JATCU,VRDICKKEAERQDLSSCENYITQRRGY,Jatropha curcas (Barbados nut),C0HJF7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0088,Agelaia-MPI,INWLKLGKMVIDAL,Agelaia pallipes,P84185,Wasp venom peptide,Potent antimicrobial action,1
+AMP-0459,DELTA-limacoditoxin(2)-Dv12,RFGRLIRLIVKIARRAHRARSAVKAASNVAELAHGE,Doratifera vulnerans (Mottled cup moth),P0DUS6,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0331,Alpha-defensin 15,LRDLVCYCRKRGCKRREHINGTCRKGHLLYMLCCR,Mus musculus (Mouse),P50713,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0215,Microcin J25,GGAGHVPEYFVGIGTPISFYG,Escherichia coli,Q9X2V7,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0467,Defensin beta 4A,GIGDPVTCLKNGAICHPVFCPRRYKQIGTCGLPGTKCCKKP,Macaca mulatta (Rhesus macaque),Q9BDS9,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0122,His3-(24-31)-peptide,KRHHGYKR,Homo sapiens (Human),P15516,Antimicrobial Peptide,Antibacterial membrane disruption,1
+CTL-0615,Bradykinin,RPPGFSPFR,Homo sapiens,P01042,Kinin peptide,Vasodilation & pain mediation,0
+AMP-0021,Human Beta-Defensin 1,DHYNCVSSGGQCLYSACPIFTKIQGTCYRGKAKCCK,Homo sapiens,P60022,Beta-defensin,Epithelial mucosal defense,1
+AMP-0072,Maximin 3,GIGTKILGGVKTALKGAL,Bombina maxima,P83432,Maximin,Microbial lysis,1
+AMP-0107,Catestatin,SSMKLSFRARAYGFRGPGPQL,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0271,Orancis-protonectin,ILGIITSLLKSL,Orancistrocerus drewseni (Solitary wasp),P86147,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0436,Paralithocin 1,WQQPSCSSICDYSCGKSACISYSGRCGCCASCRRGPIY,Paralithodes camtschaticus (Red king crab) (Maja camtschatica),A0A2I8B346,Antimicrobial Peptide,Antibacterial membrane disruption,1
+AMP-0103,SS-18,SGELEQEEERLSKEWEDS,Homo sapiens (Human),P10645,Antimicrobial Peptide,Antibacterial membrane disruption,1

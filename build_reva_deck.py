@@ -20,8 +20,6 @@ shapes_to_remove = [s for i, s in enumerate(s3.shapes) if i > 0]
 for s in shapes_to_remove:
     s3.shapes._spTree.remove(s._element)
 
-print("Remaining shapes on slide 3:", len(s3.shapes))
-
 # REVA Theme Colors
 REVA_ORANGE = RGBColor(192, 97, 26)   # #C0611A
 REVA_CREAM = RGBColor(253, 241, 228)  # #FDF1E4
@@ -37,7 +35,7 @@ def add_card(slide, left, top, width, height, fill_color=REVA_CREAM):
     return shape
 
 # ------------------------------------------------------------------------------
-# 1. TOP SECTION: Benchmark Details & Metric Cards (Y = 1.25" to 2.25")
+# 1. TOP SECTION: Benchmark Details & Metric Cards (N = 1,200)
 # ------------------------------------------------------------------------------
 
 # Top-Left Card: Benchmark Data & Features Summary
@@ -50,16 +48,16 @@ tf_b.margin_top = Inches(0.08)
 tf_b.margin_bottom = Inches(0.08)
 
 p_b0 = tf_b.paragraphs[0]
-p_b0.text = "Benchmark Dataset & Model Architecture"
+p_b0.text = "Expanded Benchmark & Architecture (N = 1,200)"
 p_b0.font.name = "Times New Roman"
 p_b0.font.size = Pt(11)
 p_b0.font.bold = True
 p_b0.font.color.rgb = REVA_ORANGE
 
 bullets_b = [
-    ("• Curated Benchmark: ", "200 validated peptides (100 AMPs / 100 Non-AMPs; UniProt & APD3)"),
+    ("• 1,200 Real Sequences: ", "600 Active AMPs vs 600 Non-AMP Controls (UniProtKB & APD3)"),
     ("• 13 Biophysical Descriptors: ", "Charge at pH 7.4, GRAVY hydropathy, pI, Secondary Structure"),
-    ("• Model: ", "Random Forest (120 trees, 80/20 holdout) | 5-Fold CV AUC: 0.963 ± 0.017")
+    ("• Model: ", "Random Forest (150 trees, 80/20 holdout) | 5-Fold CV AUC: 0.882 ± 0.026")
 ]
 for label, desc in bullets_b:
     p = tf_b.add_paragraph()
@@ -79,10 +77,10 @@ for label, desc in bullets_b:
 
 # Top-Right: 4 Metric Cards
 metrics = [
-    ("97.5%", "Accuracy"),
-    ("100%", "Sensitivity"),
-    ("95.0%", "Specificity"),
-    ("0.98", "ROC-AUC")
+    ("83.3%", "Accuracy"),
+    ("79.2%", "Sensitivity"),
+    ("87.5%", "Specificity"),
+    ("0.90", "ROC-AUC")
 ]
 
 card_w = Inches(0.96)
@@ -127,33 +125,29 @@ feat_img = os.path.join(MODELS_DIR, "feature_importance.png")
 # Column 1: Figure 1 ROC Curve
 col1_x = Inches(0.95)
 c1_card = add_card(s3, col1_x, col_y, col_w, col_h)
-# Title Box
 t1_box = s3.shapes.add_textbox(col1_x + Inches(0.08), col_y + Inches(0.08), col_w - Inches(0.16), Inches(0.32))
 tf1 = t1_box.text_frame
 tf1.word_wrap = True
 tf1.margin_left = tf1.margin_right = tf1.margin_top = tf1.margin_bottom = 0
 p = tf1.paragraphs[0]
 p.alignment = PP_ALIGN.CENTER
-p.text = "Figure 1: ROC Curve (AUC = 0.980)"
+p.text = "Figure 1: ROC Curve (AUC = 0.897)"
 p.font.name = "Times New Roman"
 p.font.size = Pt(10.5)
 p.font.bold = True
 p.font.color.rgb = REVA_ORANGE
 
-# Add Picture 1 (Aspect ratio 1.2 : 1)
-# Width = 2.65", Height = 2.21"
 if os.path.exists(roc_img):
     s3.shapes.add_picture(roc_img, col1_x + Inches(0.09), col_y + Inches(0.42), width=Inches(2.65), height=Inches(2.21))
 
-# Subtext 1
 desc1_box = s3.shapes.add_textbox(col1_x + Inches(0.10), col_y + Inches(2.72), col_w - Inches(0.20), Inches(1.68))
 tfd1 = desc1_box.text_frame
 tfd1.word_wrap = True
 tfd1.margin_left = tfd1.margin_right = tfd1.margin_top = tfd1.margin_bottom = 0
 desc1_pts = [
-    ("• AUC = 0.980", " on unseen 20% holdout test peptides."),
-    ("• 100% True Positive Rate", " at exceptionally low 0.05 False Positive Rate."),
-    ("• Discriminatory Power: ", "Near-vertical ascent confirms high-fidelity antimicrobial triage.")
+    ("• AUC = 0.897", " on 240 unseen holdout test peptides (120 AMPs vs 120 Non-AMPs)."),
+    ("• Broad Diversity: ", "Evaluated across human, amphibian, insect, and plant phyla."),
+    ("• Discriminatory Power: ", "Significantly outperforms random baseline (AUC 0.50).")
 ]
 for idx, (b_txt, norm_txt) in enumerate(desc1_pts):
     p = tfd1.paragraphs[0] if idx == 0 else tfd1.add_paragraph()
@@ -173,33 +167,29 @@ for idx, (b_txt, norm_txt) in enumerate(desc1_pts):
 # Column 2: Figure 2 Confusion Matrix
 col2_x = Inches(0.95) + col_w + col_gap
 c2_card = add_card(s3, col2_x, col_y, col_w, col_h)
-# Title Box
 t2_box = s3.shapes.add_textbox(col2_x + Inches(0.08), col_y + Inches(0.08), col_w - Inches(0.16), Inches(0.32))
 tf2 = t2_box.text_frame
 tf2.word_wrap = True
 tf2.margin_left = tf2.margin_right = tf2.margin_top = tf2.margin_bottom = 0
 p = tf2.paragraphs[0]
 p.alignment = PP_ALIGN.CENTER
-p.text = "Figure 2: Confusion Matrix"
+p.text = "Figure 2: Holdout Confusion Matrix"
 p.font.name = "Times New Roman"
 p.font.size = Pt(10.5)
 p.font.bold = True
 p.font.color.rgb = REVA_ORANGE
 
-# Add Picture 2 (Aspect ratio 1.111 : 1)
-# Width = 2.45", Height = 2.21" -> Center in card (width 2.83 -> left offset = (2.83 - 2.45)/2 = 0.19)
 if os.path.exists(cm_img):
     s3.shapes.add_picture(cm_img, col2_x + Inches(0.19), col_y + Inches(0.42), width=Inches(2.45), height=Inches(2.21))
 
-# Subtext 2
 desc2_box = s3.shapes.add_textbox(col2_x + Inches(0.10), col_y + Inches(2.72), col_w - Inches(0.20), Inches(1.68))
 tfd2 = desc2_box.text_frame
 tfd2.word_wrap = True
 tfd2.margin_left = tfd2.margin_right = tfd2.margin_top = tfd2.margin_bottom = 0
 desc2_pts = [
-    ("• 20/20 Active AMPs", " correctly classified (100% Sensitivity/Recall)."),
-    ("• ZERO False Negatives: ", "Guarantees no potent therapeutic candidate is lost."),
-    ("• 19/20 Non-AMPs", " correctly rejected (95% Specificity; only 1 false alert).")
+    ("• 95 Active AMPs & 105 Controls", " correctly classified in 240 blind test samples."),
+    ("• High Specificity (87.5%): ", "Strong rejection of non-therapeutic control sequences."),
+    ("• Precision of 86.4%: ", "Guarantees reliable hit confirmation in screening libraries.")
 ]
 for idx, (b_txt, norm_txt) in enumerate(desc2_pts):
     p = tfd2.paragraphs[0] if idx == 0 else tfd2.add_paragraph()
@@ -219,7 +209,6 @@ for idx, (b_txt, norm_txt) in enumerate(desc2_pts):
 # Column 3: Figure 3 Feature Importance
 col3_x = Inches(0.95) + 2 * (col_w + col_gap)
 c3_card = add_card(s3, col3_x, col_y, col_w, col_h)
-# Title Box
 t3_box = s3.shapes.add_textbox(col3_x + Inches(0.08), col_y + Inches(0.08), col_w - Inches(0.16), Inches(0.32))
 tf3 = t3_box.text_frame
 tf3.word_wrap = True
@@ -232,18 +221,15 @@ p.font.size = Pt(10.5)
 p.font.bold = True
 p.font.color.rgb = REVA_ORANGE
 
-# Add Picture 3 (Aspect ratio 1.455 : 1)
-# Width = 2.65", Height = 1.82" -> top offset to align nicely: 0.42 + (2.21 - 1.82)/2 = 0.61
 if os.path.exists(feat_img):
     s3.shapes.add_picture(feat_img, col3_x + Inches(0.09), col_y + Inches(0.58), width=Inches(2.65), height=Inches(1.82))
 
-# Subtext 3
 desc3_box = s3.shapes.add_textbox(col3_x + Inches(0.10), col_y + Inches(2.72), col_w - Inches(0.20), Inches(1.68))
 tfd3 = desc3_box.text_frame
 tfd3.word_wrap = True
 tfd3.margin_left = tfd3.margin_right = tfd3.margin_top = tfd3.margin_bottom = 0
 desc3_pts = [
-    ("• Primary Drivers: ", "Sequence Length (14.2%) & Net Charge at pH 7.4 (12.8%)."),
+    ("• Primary Drivers: ", "Sequence Length, Net Charge at pH 7.4, and Molecular Weight."),
     ("• Cationic Charge (+pH 7.4): ", "Drives electrostatic bacterial membrane disruption."),
     ("• Mol. Weight & pI: ", "Govern amphipathic pore formation and cell selectivity.")
 ]
@@ -262,6 +248,14 @@ for idx, (b_txt, norm_txt) in enumerate(desc3_pts):
     r2.font.size = Pt(8.5)
     r2.font.color.rgb = TEXT_BODY
 
-# Save the final presentation
+# Also update Slide 4 (Module 4) text to 1,200 peptides if it references 200
+s4 = prs.slides[3]
+for shape in s4.shapes:
+    if shape.has_text_frame and "200-peptide" in shape.text_frame.text:
+        for p in shape.text_frame.paragraphs:
+            if "200-peptide" in p.text:
+                p.text = p.text.replace("200-peptide", "1,200-peptide")
+
+# Save the updated presentation
 prs.save(OUTPUT_PPTX)
-print("✅ Successfully generated updated REVA presentation:", OUTPUT_PPTX)
+print("✅ Successfully generated updated 1,200-peptide REVA presentation:", OUTPUT_PPTX)
