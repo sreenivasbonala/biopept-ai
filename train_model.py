@@ -101,12 +101,12 @@ print(f"Training samples: {len(X_train)}, Testing samples: {len(X_test)}")
 
 # Cross-Validation on Training set
 cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
-rf_cv = RandomForestClassifier(n_estimators=100, max_depth=6, random_state=42)
+rf_cv = RandomForestClassifier(n_estimators=150, max_depth=9, random_state=42)
 cv_scores = cross_val_score(rf_cv, X_train, y_train, cv=cv, scoring="roc_auc")
 print(f"5-Fold Cross-Validation ROC-AUC: {cv_scores.mean():.4f} (+/- {cv_scores.std():.4f})")
 
 # Fit final model
-rf = RandomForestClassifier(n_estimators=120, max_depth=6, random_state=42)
+rf = RandomForestClassifier(n_estimators=150, max_depth=9, random_state=42)
 rf.fit(X_train, y_train)
 
 # Predictions on Test set

@@ -547,11 +547,11 @@ with st.sidebar:
     <div class="sidebar-model-badge">
         <div class="smb-title">ML ENGINE SPECIFICATIONS</div>
         <div class="smb-stat"><span>Classifier:</span> <b>Random Forest</b></div>
-        <div class="smb-stat"><span>Accuracy:</span> <span class="smb-stat-bold">97.5%</span></div>
-        <div class="smb-stat"><span>Sensitivity:</span> <span class="smb-stat-bold">100.0%</span></div>
-        <div class="smb-stat"><span>ROC-AUC:</span> <span class="smb-stat-bold">0.980</span></div>
-        <div class="smb-stat"><span>5-Fold CV:</span> <span class="smb-stat-bold">0.963</span></div>
-        <div class="smb-stat"><span>Benchmark:</span> <b>200 UniProtKB Peptides</b></div>
+        <div class="smb-stat"><span>Accuracy:</span> <span class="smb-stat-bold">83.3%</span></div>
+        <div class="smb-stat"><span>Specificity:</span> <span class="smb-stat-bold">87.5%</span></div>
+        <div class="smb-stat"><span>ROC-AUC:</span> <span class="smb-stat-bold">0.897</span></div>
+        <div class="smb-stat"><span>5-Fold CV:</span> <span class="smb-stat-bold">0.882</span></div>
+        <div class="smb-stat"><span>Benchmark:</span> <b>1,200 UniProtKB Peptides</b></div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -564,9 +564,9 @@ st.markdown("""
     <div class="hero-subtitle">Machine Learning-Driven Screening Platform, Curated Knowledgebase, and 2D Amphipathic Profiler for Antimicrobial Peptide Discovery.</div>
     <div class="tag-container">
         <span class="tag-pill tag-blue">🔬 ML-Based Classification</span>
-        <span class="tag-pill tag-green">✓ 97.5% Test Accuracy</span>
-        <span class="tag-pill tag-green">✓ 100% Sensitivity</span>
-        <span class="tag-pill tag-purple">🗄️ 200 UniProtKB Benchmark Entries</span>
+        <span class="tag-pill tag-green">✓ 83.3% Test Accuracy</span>
+        <span class="tag-pill tag-green">✓ 87.5% Specificity</span>
+        <span class="tag-pill tag-purple">🗄️ 1,200 UniProtKB Benchmark Entries</span>
         <span class="tag-pill tag-amber">🎯 Combating AMR</span>
     </div>
 </div>
@@ -922,7 +922,7 @@ elif menu == "📊 High-Throughput Screening":
 # -------------------------------------------------------------
 elif menu == "🗄️ Curated Database (UniProt)":
     st.markdown('<div class="section-title"><span>🗄️</span> Curated Benchmark Peptide Knowledgebase</div>', unsafe_allow_html=True)
-    st.markdown("Searchable repository comprising **200 real, experimentally characterized biological peptides** sourced from **UniProtKB** and **APD3/DBAASP** literature with cross-references.")
+    st.markdown("Searchable repository comprising **1,200 real, experimentally characterized biological peptides** sourced from **UniProtKB** and **APD3/DBAASP** literature with cross-references.")
 
     if not db_df.empty:
         c1, c2 = st.columns([2.5, 1], gap="medium")
@@ -1022,7 +1022,7 @@ elif menu == "📑 Scientific Methodology":
     st.markdown('<div class="section-title"><span>📑</span> Scientific Methodology & Architecture</div>', unsafe_allow_html=True)
     st.markdown("""
     ### 1. Abstract
-    The acceleration of multidrug-resistant pathogens represents an urgent global healthcare crisis. Antimicrobial peptides (AMPs) provide an innovative therapeutic avenue due to rapid membrane disruption and low resistance induction. **BioPept-AI** integrates machine learning classification, structural biophysical profiling, and a curated database of 200 experimentally confirmed peptides from **UniProtKB** and **APD3**.
+    The acceleration of multidrug-resistant pathogens represents an urgent global healthcare crisis. Antimicrobial peptides (AMPs) provide an innovative therapeutic avenue due to rapid membrane disruption and low resistance induction. **BioPept-AI** integrates machine learning classification, structural biophysical profiling, and a curated database of 1,200 experimentally confirmed peptides from **UniProtKB** and **APD3**.
 
     ### 2. End-to-End Computational Architecture
     """)
@@ -1052,10 +1052,10 @@ elif menu == "📑 Scientific Methodology":
             <div class="arch-step-num">STAGE 03</div>
             <div class="arch-title">🧠 Machine Learning Engine</div>
             <div class="arch-desc">
-                • <b>Random Forest Classifier</b> (120 Estimators).<br>
-                • Trained on 200 UniProtKB verified peptides.<br>
-                • <b>97.5% Accuracy</b> & <b>0.98 ROC-AUC</b>.<br>
-                • 5-Fold Stratified Cross-Validation (0.963).
+                • <b>Random Forest Classifier</b> (150 Estimators).<br>
+                • Trained on 1,200 UniProtKB verified peptides.<br>
+                • <b>83.3% Accuracy</b> & <b>0.897 ROC-AUC</b>.<br>
+                • 5-Fold Stratified Cross-Validation (0.882).
             </div>
         </div>
         <div class="arch-card" style="border-top: 3px solid #10B981;">

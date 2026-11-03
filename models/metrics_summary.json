@@ -1,19 +1,19 @@
 {
-    "Total_Samples": 200,
-    "Train_Samples": 160,
-    "Test_Samples": 40,
-    "Accuracy": 97.5,
-    "Sensitivity_Recall": 100.0,
-    "Specificity": 95.0,
-    "Precision": 95.24,
-    "F1_Score": 97.56,
-    "ROC_AUC": 0.98,
-    "CV_5Fold_ROC_AUC": 0.9633,
+    "Total_Samples": 1200,
+    "Train_Samples": 960,
+    "Test_Samples": 240,
+    "Accuracy": 83.33,
+    "Sensitivity_Recall": 79.17,
+    "Specificity": 87.5,
+    "Precision": 86.36,
+    "F1_Score": 82.61,
+    "ROC_AUC": 0.8966,
+    "CV_5Fold_ROC_AUC": 0.8817,
     "Confusion_Matrix": {
-        "True_Positive": 20,
-        "True_Negative": 19,
-        "False_Positive": 1,
-        "False_Negative": 0
+        "True_Positive": 95,
+        "True_Negative": 105,
+        "False_Positive": 15,
+        "False_Negative": 25
     },
     "Features": [
         "Length",
